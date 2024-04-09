@@ -1,21 +1,21 @@
 {
-    "01": {
+    "1": {
         "code": "01",
         "name": "Thành phố Hà Nội"
     },
-    "02": {
+    "2": {
         "code": "02",
         "name": "Tỉnh Hà Giang"
     },
-    "04": {
+    "4": {
         "code": "04",
         "name": "Tỉnh Cao Bằng"
     },
-    "06": {
+    "6": {
         "code": "06",
         "name": "Tỉnh Bắc Kạn"
     },
-    "08": {
+    "8": {
         "code": "08",
         "name": "Tỉnh Tuyên Quang"
     },
