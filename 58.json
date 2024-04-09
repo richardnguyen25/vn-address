@@ -1,0 +1,304 @@
+{
+    "582": {
+        "code": "582",
+        "name": "Thành phố Phan Rang-Tháp Chàm",
+        "wards": {
+            "22738": {
+                "code": "22738",
+                "name": "Phường Đô Vinh"
+            },
+            "22741": {
+                "code": "22741",
+                "name": "Phường Phước Mỹ"
+            },
+            "22744": {
+                "code": "22744",
+                "name": "Phường Bảo An"
+            },
+            "22747": {
+                "code": "22747",
+                "name": "Phường Phủ Hà"
+            },
+            "22750": {
+                "code": "22750",
+                "name": "Phường Thanh Sơn"
+            },
+            "22753": {
+                "code": "22753",
+                "name": "Phường Mỹ Hương"
+            },
+            "22756": {
+                "code": "22756",
+                "name": "Phường Tấn Tài"
+            },
+            "22759": {
+                "code": "22759",
+                "name": "Phường Kinh Dinh"
+            },
+            "22762": {
+                "code": "22762",
+                "name": "Phường Đạo Long"
+            },
+            "22765": {
+                "code": "22765",
+                "name": "Phường Đài Sơn"
+            },
+            "22768": {
+                "code": "22768",
+                "name": "Phường Đông Hải"
+            },
+            "22771": {
+                "code": "22771",
+                "name": "Phường Mỹ Đông"
+            },
+            "22774": {
+                "code": "22774",
+                "name": "Xã Thành Hải"
+            },
+            "22777": {
+                "code": "22777",
+                "name": "Phường Văn Hải"
+            },
+            "22779": {
+                "code": "22779",
+                "name": "Phường Mỹ Bình"
+            },
+            "22780": {
+                "code": "22780",
+                "name": "Phường Mỹ Hải"
+            }
+        }
+    },
+    "584": {
+        "code": "584",
+        "name": "Huyện Bác Ái",
+        "wards": {
+            "22783": {
+                "code": "22783",
+                "name": "Xã Phước Bình"
+            },
+            "22786": {
+                "code": "22786",
+                "name": "Xã Phước Hòa"
+            },
+            "22789": {
+                "code": "22789",
+                "name": "Xã Phước Tân"
+            },
+            "22792": {
+                "code": "22792",
+                "name": "Xã Phước Tiến"
+            },
+            "22795": {
+                "code": "22795",
+                "name": "Xã Phước Thắng"
+            },
+            "22798": {
+                "code": "22798",
+                "name": "Xã Phước Thành"
+            },
+            "22801": {
+                "code": "22801",
+                "name": "Xã Phước Đại"
+            },
+            "22804": {
+                "code": "22804",
+                "name": "Xã Phước Chính"
+            },
+            "22807": {
+                "code": "22807",
+                "name": "Xã Phước Trung"
+            }
+        }
+    },
+    "585": {
+        "code": "585",
+        "name": "Huyện Ninh Sơn",
+        "wards": {
+            "22810": {
+                "code": "22810",
+                "name": "Thị trấn Tân Sơn"
+            },
+            "22813": {
+                "code": "22813",
+                "name": "Xã Lâm Sơn"
+            },
+            "22816": {
+                "code": "22816",
+                "name": "Xã Lương Sơn"
+            },
+            "22819": {
+                "code": "22819",
+                "name": "Xã Quảng Sơn"
+            },
+            "22822": {
+                "code": "22822",
+                "name": "Xã Mỹ Sơn"
+            },
+            "22825": {
+                "code": "22825",
+                "name": "Xã Hòa Sơn"
+            },
+            "22828": {
+                "code": "22828",
+                "name": "Xã Ma Nới"
+            },
+            "22831": {
+                "code": "22831",
+                "name": "Xã Nhơn Sơn"
+            }
+        }
+    },
+    "586": {
+        "code": "586",
+        "name": "Huyện Ninh Hải",
+        "wards": {
+            "22834": {
+                "code": "22834",
+                "name": "Thị trấn Khánh Hải"
+            },
+            "22846": {
+                "code": "22846",
+                "name": "Xã Vĩnh Hải"
+            },
+            "22852": {
+                "code": "22852",
+                "name": "Xã Phương Hải"
+            },
+            "22855": {
+                "code": "22855",
+                "name": "Xã Tân Hải"
+            },
+            "22858": {
+                "code": "22858",
+                "name": "Xã Xuân Hải"
+            },
+            "22861": {
+                "code": "22861",
+                "name": "Xã Hộ Hải"
+            },
+            "22864": {
+                "code": "22864",
+                "name": "Xã Tri Hải"
+            },
+            "22867": {
+                "code": "22867",
+                "name": "Xã Nhơn Hải"
+            },
+            "22868": {
+                "code": "22868",
+                "name": "Xã Thanh Hải"
+            }
+        }
+    },
+    "587": {
+        "code": "587",
+        "name": "Huyện Ninh Phước",
+        "wards": {
+            "22870": {
+                "code": "22870",
+                "name": "Thị trấn Phước Dân"
+            },
+            "22873": {
+                "code": "22873",
+                "name": "Xã Phước Sơn"
+            },
+            "22876": {
+                "code": "22876",
+                "name": "Xã Phước Thái"
+            },
+            "22879": {
+                "code": "22879",
+                "name": "Xã Phước Hậu"
+            },
+            "22882": {
+                "code": "22882",
+                "name": "Xã Phước Thuận"
+            },
+            "22888": {
+                "code": "22888",
+                "name": "Xã An Hải"
+            },
+            "22891": {
+                "code": "22891",
+                "name": "Xã Phước Hữu"
+            },
+            "22894": {
+                "code": "22894",
+                "name": "Xã Phước Hải"
+            },
+            "22912": {
+                "code": "22912",
+                "name": "Xã Phước Vinh"
+            }
+        }
+    },
+    "588": {
+        "code": "588",
+        "name": "Huyện Thuận Bắc",
+        "wards": {
+            "22837": {
+                "code": "22837",
+                "name": "Xã Phước Chiến"
+            },
+            "22840": {
+                "code": "22840",
+                "name": "Xã Công Hải"
+            },
+            "22843": {
+                "code": "22843",
+                "name": "Xã Phước Kháng"
+            },
+            "22849": {
+                "code": "22849",
+                "name": "Xã Lợi Hải"
+            },
+            "22853": {
+                "code": "22853",
+                "name": "Xã Bắc Sơn"
+            },
+            "22856": {
+                "code": "22856",
+                "name": "Xã Bắc Phong"
+            }
+        }
+    },
+    "589": {
+        "code": "589",
+        "name": "Huyện Thuận Nam",
+        "wards": {
+            "22885": {
+                "code": "22885",
+                "name": "Xã Phước Hà"
+            },
+            "22897": {
+                "code": "22897",
+                "name": "Xã Phước Nam"
+            },
+            "22898": {
+                "code": "22898",
+                "name": "Xã Phước Ninh"
+            },
+            "22900": {
+                "code": "22900",
+                "name": "Xã Nhị Hà"
+            },
+            "22903": {
+                "code": "22903",
+                "name": "Xã Phước Dinh"
+            },
+            "22906": {
+                "code": "22906",
+                "name": "Xã Phước Minh"
+            },
+            "22909": {
+                "code": "22909",
+                "name": "Xã Phước Diêm"
+            },
+            "22910": {
+                "code": "22910",
+                "name": "Xã Cà Ná"
+            }
+        }
+    }
+}

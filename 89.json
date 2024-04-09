@@ -1,0 +1,692 @@
+{
+    "883": {
+        "code": "883",
+        "name": "Thành phố Long Xuyên",
+        "wards": {
+            "30280": {
+                "code": "30280",
+                "name": "Phường Mỹ Bình"
+            },
+            "30283": {
+                "code": "30283",
+                "name": "Phường Mỹ Long"
+            },
+            "30285": {
+                "code": "30285",
+                "name": "Phường Đông Xuyên"
+            },
+            "30286": {
+                "code": "30286",
+                "name": "Phường Mỹ Xuyên"
+            },
+            "30289": {
+                "code": "30289",
+                "name": "Phường Bình Đức"
+            },
+            "30292": {
+                "code": "30292",
+                "name": "Phường Bình Khánh"
+            },
+            "30295": {
+                "code": "30295",
+                "name": "Phường Mỹ Phước"
+            },
+            "30298": {
+                "code": "30298",
+                "name": "Phường Mỹ Quý"
+            },
+            "30301": {
+                "code": "30301",
+                "name": "Phường Mỹ Thới"
+            },
+            "30304": {
+                "code": "30304",
+                "name": "Phường Mỹ Thạnh"
+            },
+            "30307": {
+                "code": "30307",
+                "name": "Phường Mỹ Hòa"
+            },
+            "30310": {
+                "code": "30310",
+                "name": "Xã Mỹ Khánh"
+            },
+            "30313": {
+                "code": "30313",
+                "name": "Xã Mỹ Hoà Hưng"
+            }
+        }
+    },
+    "884": {
+        "code": "884",
+        "name": "Thành phố Châu Đốc",
+        "wards": {
+            "30316": {
+                "code": "30316",
+                "name": "Phường Châu Phú B"
+            },
+            "30319": {
+                "code": "30319",
+                "name": "Phường Châu Phú A"
+            },
+            "30322": {
+                "code": "30322",
+                "name": "Phường Vĩnh Mỹ"
+            },
+            "30325": {
+                "code": "30325",
+                "name": "Phường Núi Sam"
+            },
+            "30328": {
+                "code": "30328",
+                "name": "Phường Vĩnh Ngươn"
+            },
+            "30331": {
+                "code": "30331",
+                "name": "Xã Vĩnh Tế"
+            },
+            "30334": {
+                "code": "30334",
+                "name": "Xã Vĩnh Châu"
+            }
+        }
+    },
+    "886": {
+        "code": "886",
+        "name": "Huyện An Phú",
+        "wards": {
+            "30337": {
+                "code": "30337",
+                "name": "Thị trấn An Phú"
+            },
+            "30340": {
+                "code": "30340",
+                "name": "Xã Khánh An"
+            },
+            "30341": {
+                "code": "30341",
+                "name": "Thị Trấn Long Bình"
+            },
+            "30343": {
+                "code": "30343",
+                "name": "Xã Khánh Bình"
+            },
+            "30346": {
+                "code": "30346",
+                "name": "Xã Quốc Thái"
+            },
+            "30349": {
+                "code": "30349",
+                "name": "Xã Nhơn Hội"
+            },
+            "30352": {
+                "code": "30352",
+                "name": "Xã Phú Hữu"
+            },
+            "30355": {
+                "code": "30355",
+                "name": "Xã Phú Hội"
+            },
+            "30358": {
+                "code": "30358",
+                "name": "Xã Phước Hưng"
+            },
+            "30361": {
+                "code": "30361",
+                "name": "Xã Vĩnh Lộc"
+            },
+            "30364": {
+                "code": "30364",
+                "name": "Xã Vĩnh Hậu"
+            },
+            "30367": {
+                "code": "30367",
+                "name": "Xã Vĩnh Trường"
+            },
+            "30370": {
+                "code": "30370",
+                "name": "Xã Vĩnh Hội Đông"
+            },
+            "30373": {
+                "code": "30373",
+                "name": "Thị trấn Đa Phước"
+            }
+        }
+    },
+    "887": {
+        "code": "887",
+        "name": "Thị xã Tân Châu",
+        "wards": {
+            "30376": {
+                "code": "30376",
+                "name": "Phường Long Thạnh"
+            },
+            "30377": {
+                "code": "30377",
+                "name": "Phường Long Hưng"
+            },
+            "30378": {
+                "code": "30378",
+                "name": "Phường Long Châu"
+            },
+            "30379": {
+                "code": "30379",
+                "name": "Xã Phú Lộc"
+            },
+            "30382": {
+                "code": "30382",
+                "name": "Xã Vĩnh Xương"
+            },
+            "30385": {
+                "code": "30385",
+                "name": "Xã Vĩnh Hòa"
+            },
+            "30387": {
+                "code": "30387",
+                "name": "Xã Tân Thạnh"
+            },
+            "30388": {
+                "code": "30388",
+                "name": "Xã Tân An"
+            },
+            "30391": {
+                "code": "30391",
+                "name": "Xã Long An"
+            },
+            "30394": {
+                "code": "30394",
+                "name": "Phường Long Phú"
+            },
+            "30397": {
+                "code": "30397",
+                "name": "Xã Châu Phong"
+            },
+            "30400": {
+                "code": "30400",
+                "name": "Xã Phú Vĩnh"
+            },
+            "30403": {
+                "code": "30403",
+                "name": "Xã Lê Chánh"
+            },
+            "30412": {
+                "code": "30412",
+                "name": "Phường Long Sơn"
+            }
+        }
+    },
+    "888": {
+        "code": "888",
+        "name": "Huyện Phú Tân",
+        "wards": {
+            "30406": {
+                "code": "30406",
+                "name": "Thị trấn Phú Mỹ"
+            },
+            "30409": {
+                "code": "30409",
+                "name": "Thị trấn Chợ Vàm"
+            },
+            "30415": {
+                "code": "30415",
+                "name": "Xã Long Hoà"
+            },
+            "30418": {
+                "code": "30418",
+                "name": "Xã Phú Long"
+            },
+            "30421": {
+                "code": "30421",
+                "name": "Xã Phú Lâm"
+            },
+            "30424": {
+                "code": "30424",
+                "name": "Xã Phú Hiệp"
+            },
+            "30427": {
+                "code": "30427",
+                "name": "Xã Phú Thạnh"
+            },
+            "30430": {
+                "code": "30430",
+                "name": "Xã Hoà Lạc"
+            },
+            "30433": {
+                "code": "30433",
+                "name": "Xã Phú Thành"
+            },
+            "30436": {
+                "code": "30436",
+                "name": "Xã Phú An"
+            },
+            "30439": {
+                "code": "30439",
+                "name": "Xã Phú Xuân"
+            },
+            "30442": {
+                "code": "30442",
+                "name": "Xã Hiệp Xương"
+            },
+            "30445": {
+                "code": "30445",
+                "name": "Xã Phú Bình"
+            },
+            "30448": {
+                "code": "30448",
+                "name": "Xã Phú Thọ"
+            },
+            "30451": {
+                "code": "30451",
+                "name": "Xã Phú Hưng"
+            },
+            "30454": {
+                "code": "30454",
+                "name": "Xã Bình Thạnh Đông"
+            },
+            "30457": {
+                "code": "30457",
+                "name": "Xã Tân Hòa"
+            },
+            "30460": {
+                "code": "30460",
+                "name": "Xã Tân Trung"
+            }
+        }
+    },
+    "889": {
+        "code": "889",
+        "name": "Huyện Châu Phú",
+        "wards": {
+            "30463": {
+                "code": "30463",
+                "name": "Thị trấn Cái Dầu"
+            },
+            "30466": {
+                "code": "30466",
+                "name": "Xã Khánh Hòa"
+            },
+            "30469": {
+                "code": "30469",
+                "name": "Xã Mỹ Đức"
+            },
+            "30472": {
+                "code": "30472",
+                "name": "Xã Mỹ Phú"
+            },
+            "30475": {
+                "code": "30475",
+                "name": "Xã Ô Long Vỹ"
+            },
+            "30478": {
+                "code": "30478",
+                "name": "Thị trấn Vĩnh Thạnh Trung"
+            },
+            "30481": {
+                "code": "30481",
+                "name": "Xã Thạnh Mỹ Tây"
+            },
+            "30484": {
+                "code": "30484",
+                "name": "Xã Bình Long"
+            },
+            "30487": {
+                "code": "30487",
+                "name": "Xã Bình Mỹ"
+            },
+            "30490": {
+                "code": "30490",
+                "name": "Xã Bình Thủy"
+            },
+            "30493": {
+                "code": "30493",
+                "name": "Xã Đào Hữu Cảnh"
+            },
+            "30496": {
+                "code": "30496",
+                "name": "Xã Bình Phú"
+            },
+            "30499": {
+                "code": "30499",
+                "name": "Xã Bình Chánh"
+            }
+        }
+    },
+    "890": {
+        "code": "890",
+        "name": "Thị xã Tịnh Biên",
+        "wards": {
+            "30502": {
+                "code": "30502",
+                "name": "Phường Nhà Bàng"
+            },
+            "30505": {
+                "code": "30505",
+                "name": "Phường Chi Lăng"
+            },
+            "30508": {
+                "code": "30508",
+                "name": "Phường Núi Voi"
+            },
+            "30511": {
+                "code": "30511",
+                "name": "Phường Nhơn Hưng"
+            },
+            "30514": {
+                "code": "30514",
+                "name": "Phường An Phú"
+            },
+            "30517": {
+                "code": "30517",
+                "name": "Phường Thới Sơn"
+            },
+            "30520": {
+                "code": "30520",
+                "name": "Phường Tịnh Biên"
+            },
+            "30523": {
+                "code": "30523",
+                "name": "Xã Văn Giáo"
+            },
+            "30526": {
+                "code": "30526",
+                "name": "Xã An Cư"
+            },
+            "30529": {
+                "code": "30529",
+                "name": "Xã An Nông"
+            },
+            "30532": {
+                "code": "30532",
+                "name": "Xã Vĩnh Trung"
+            },
+            "30535": {
+                "code": "30535",
+                "name": "Xã Tân Lợi"
+            },
+            "30538": {
+                "code": "30538",
+                "name": "Xã An Hảo"
+            },
+            "30541": {
+                "code": "30541",
+                "name": "Xã Tân Lập"
+            }
+        }
+    },
+    "891": {
+        "code": "891",
+        "name": "Huyện Tri Tôn",
+        "wards": {
+            "30544": {
+                "code": "30544",
+                "name": "Thị trấn Tri Tôn"
+            },
+            "30547": {
+                "code": "30547",
+                "name": "Thị trấn Ba Chúc"
+            },
+            "30550": {
+                "code": "30550",
+                "name": "Xã Lạc Quới"
+            },
+            "30553": {
+                "code": "30553",
+                "name": "Xã Lê Trì"
+            },
+            "30556": {
+                "code": "30556",
+                "name": "Xã Vĩnh Gia"
+            },
+            "30559": {
+                "code": "30559",
+                "name": "Xã Vĩnh Phước"
+            },
+            "30562": {
+                "code": "30562",
+                "name": "Xã Châu Lăng"
+            },
+            "30565": {
+                "code": "30565",
+                "name": "Xã Lương Phi"
+            },
+            "30568": {
+                "code": "30568",
+                "name": "Xã Lương An Trà"
+            },
+            "30571": {
+                "code": "30571",
+                "name": "Xã Tà Đảnh"
+            },
+            "30574": {
+                "code": "30574",
+                "name": "Xã Núi Tô"
+            },
+            "30577": {
+                "code": "30577",
+                "name": "Xã An Tức"
+            },
+            "30580": {
+                "code": "30580",
+                "name": "Thị trấn Cô Tô"
+            },
+            "30583": {
+                "code": "30583",
+                "name": "Xã Tân Tuyến"
+            },
+            "30586": {
+                "code": "30586",
+                "name": "Xã Ô Lâm"
+            }
+        }
+    },
+    "892": {
+        "code": "892",
+        "name": "Huyện Châu Thành",
+        "wards": {
+            "30589": {
+                "code": "30589",
+                "name": "Thị trấn An Châu"
+            },
+            "30592": {
+                "code": "30592",
+                "name": "Xã An Hòa"
+            },
+            "30595": {
+                "code": "30595",
+                "name": "Xã Cần Đăng"
+            },
+            "30598": {
+                "code": "30598",
+                "name": "Xã Vĩnh Hanh"
+            },
+            "30601": {
+                "code": "30601",
+                "name": "Xã Bình Thạnh"
+            },
+            "30604": {
+                "code": "30604",
+                "name": "Thị trấn Vĩnh Bình"
+            },
+            "30607": {
+                "code": "30607",
+                "name": "Xã Bình Hòa"
+            },
+            "30610": {
+                "code": "30610",
+                "name": "Xã Vĩnh An"
+            },
+            "30613": {
+                "code": "30613",
+                "name": "Xã Hòa Bình Thạnh"
+            },
+            "30616": {
+                "code": "30616",
+                "name": "Xã Vĩnh Lợi"
+            },
+            "30619": {
+                "code": "30619",
+                "name": "Xã Vĩnh Nhuận"
+            },
+            "30622": {
+                "code": "30622",
+                "name": "Xã Tân Phú"
+            },
+            "30625": {
+                "code": "30625",
+                "name": "Xã Vĩnh Thành"
+            }
+        }
+    },
+    "893": {
+        "code": "893",
+        "name": "Huyện Chợ Mới",
+        "wards": {
+            "30628": {
+                "code": "30628",
+                "name": "Thị trấn Chợ Mới"
+            },
+            "30631": {
+                "code": "30631",
+                "name": "Thị trấn Mỹ Luông"
+            },
+            "30634": {
+                "code": "30634",
+                "name": "Xã Kiến An"
+            },
+            "30637": {
+                "code": "30637",
+                "name": "Xã Mỹ Hội Đông"
+            },
+            "30640": {
+                "code": "30640",
+                "name": "Xã Long Điền A"
+            },
+            "30643": {
+                "code": "30643",
+                "name": "Xã Tấn Mỹ"
+            },
+            "30646": {
+                "code": "30646",
+                "name": "Xã Long Điền B"
+            },
+            "30649": {
+                "code": "30649",
+                "name": "Xã Kiến Thành"
+            },
+            "30652": {
+                "code": "30652",
+                "name": "Xã Mỹ Hiệp"
+            },
+            "30655": {
+                "code": "30655",
+                "name": "Xã Mỹ An"
+            },
+            "30658": {
+                "code": "30658",
+                "name": "Xã Nhơn Mỹ"
+            },
+            "30661": {
+                "code": "30661",
+                "name": "Xã Long Giang"
+            },
+            "30664": {
+                "code": "30664",
+                "name": "Xã Long Kiến"
+            },
+            "30667": {
+                "code": "30667",
+                "name": "Xã Bình Phước Xuân"
+            },
+            "30670": {
+                "code": "30670",
+                "name": "Xã An Thạnh Trung"
+            },
+            "30673": {
+                "code": "30673",
+                "name": "Thị trấn Hội An"
+            },
+            "30676": {
+                "code": "30676",
+                "name": "Xã Hòa Bình"
+            },
+            "30679": {
+                "code": "30679",
+                "name": "Xã Hòa An"
+            }
+        }
+    },
+    "894": {
+        "code": "894",
+        "name": "Huyện Thoại Sơn",
+        "wards": {
+            "30682": {
+                "code": "30682",
+                "name": "Thị trấn Núi Sập"
+            },
+            "30685": {
+                "code": "30685",
+                "name": "Thị trấn Phú Hoà"
+            },
+            "30688": {
+                "code": "30688",
+                "name": "Thị Trấn Óc Eo"
+            },
+            "30691": {
+                "code": "30691",
+                "name": "Xã Tây Phú"
+            },
+            "30692": {
+                "code": "30692",
+                "name": "Xã An Bình"
+            },
+            "30694": {
+                "code": "30694",
+                "name": "Xã Vĩnh Phú"
+            },
+            "30697": {
+                "code": "30697",
+                "name": "Xã Vĩnh Trạch"
+            },
+            "30700": {
+                "code": "30700",
+                "name": "Xã Phú Thuận"
+            },
+            "30703": {
+                "code": "30703",
+                "name": "Xã Vĩnh Chánh"
+            },
+            "30706": {
+                "code": "30706",
+                "name": "Xã Định Mỹ"
+            },
+            "30709": {
+                "code": "30709",
+                "name": "Xã Định Thành"
+            },
+            "30712": {
+                "code": "30712",
+                "name": "Xã Mỹ Phú Đông"
+            },
+            "30715": {
+                "code": "30715",
+                "name": "Xã Vọng Đông"
+            },
+            "30718": {
+                "code": "30718",
+                "name": "Xã Vĩnh Khánh"
+            },
+            "30721": {
+                "code": "30721",
+                "name": "Xã Thoại Giang"
+            },
+            "30724": {
+                "code": "30724",
+                "name": "Xã Bình Thành"
+            },
+            "30727": {
+                "code": "30727",
+                "name": "Xã Vọng Thê"
+            }
+        }
+    }
+}

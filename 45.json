@@ -1,0 +1,566 @@
+{
+    "461": {
+        "code": "461",
+        "name": "Thành phố Đông Hà",
+        "wards": {
+            "19330": {
+                "code": "19330",
+                "name": "Phường Đông Giang"
+            },
+            "19333": {
+                "code": "19333",
+                "name": "Phường 1"
+            },
+            "19336": {
+                "code": "19336",
+                "name": "Phường Đông Lễ"
+            },
+            "19339": {
+                "code": "19339",
+                "name": "Phường Đông Thanh"
+            },
+            "19342": {
+                "code": "19342",
+                "name": "Phường 2"
+            },
+            "19345": {
+                "code": "19345",
+                "name": "Phường 4"
+            },
+            "19348": {
+                "code": "19348",
+                "name": "Phường 5"
+            },
+            "19351": {
+                "code": "19351",
+                "name": "Phường Đông Lương"
+            },
+            "19354": {
+                "code": "19354",
+                "name": "Phường 3"
+            }
+        }
+    },
+    "462": {
+        "code": "462",
+        "name": "Thị xã Quảng Trị",
+        "wards": {
+            "19357": {
+                "code": "19357",
+                "name": "Phường 1"
+            },
+            "19358": {
+                "code": "19358",
+                "name": "Phường An Đôn"
+            },
+            "19360": {
+                "code": "19360",
+                "name": "Phường 2"
+            },
+            "19361": {
+                "code": "19361",
+                "name": "Phường 3"
+            },
+            "19705": {
+                "code": "19705",
+                "name": "Xã Hải Lệ"
+            }
+        }
+    },
+    "464": {
+        "code": "464",
+        "name": "Huyện Vĩnh Linh",
+        "wards": {
+            "19363": {
+                "code": "19363",
+                "name": "Thị trấn Hồ Xá"
+            },
+            "19366": {
+                "code": "19366",
+                "name": "Thị trấn Bến Quan"
+            },
+            "19369": {
+                "code": "19369",
+                "name": "Xã Vĩnh Thái"
+            },
+            "19372": {
+                "code": "19372",
+                "name": "Xã Vĩnh Tú"
+            },
+            "19375": {
+                "code": "19375",
+                "name": "Xã Vĩnh Chấp"
+            },
+            "19378": {
+                "code": "19378",
+                "name": "Xã Trung Nam"
+            },
+            "19384": {
+                "code": "19384",
+                "name": "Xã Kim Thạch"
+            },
+            "19387": {
+                "code": "19387",
+                "name": "Xã Vĩnh Long"
+            },
+            "19393": {
+                "code": "19393",
+                "name": "Xã Vĩnh Khê"
+            },
+            "19396": {
+                "code": "19396",
+                "name": "Xã Vĩnh Hòa"
+            },
+            "19402": {
+                "code": "19402",
+                "name": "Xã Vĩnh Thủy"
+            },
+            "19405": {
+                "code": "19405",
+                "name": "Xã Vĩnh Lâm"
+            },
+            "19408": {
+                "code": "19408",
+                "name": "Xã Hiền Thành"
+            },
+            "19414": {
+                "code": "19414",
+                "name": "Thị trấn Cửa Tùng"
+            },
+            "19417": {
+                "code": "19417",
+                "name": "Xã Vĩnh Hà"
+            },
+            "19420": {
+                "code": "19420",
+                "name": "Xã Vĩnh Sơn"
+            },
+            "19423": {
+                "code": "19423",
+                "name": "Xã Vĩnh Giang"
+            },
+            "19426": {
+                "code": "19426",
+                "name": "Xã Vĩnh Ô"
+            }
+        }
+    },
+    "465": {
+        "code": "465",
+        "name": "Huyện Hướng Hóa",
+        "wards": {
+            "19429": {
+                "code": "19429",
+                "name": "Thị trấn Khe Sanh"
+            },
+            "19432": {
+                "code": "19432",
+                "name": "Thị trấn Lao Bảo"
+            },
+            "19435": {
+                "code": "19435",
+                "name": "Xã Hướng Lập"
+            },
+            "19438": {
+                "code": "19438",
+                "name": "Xã Hướng Việt"
+            },
+            "19441": {
+                "code": "19441",
+                "name": "Xã Hướng Phùng"
+            },
+            "19444": {
+                "code": "19444",
+                "name": "Xã Hướng Sơn"
+            },
+            "19447": {
+                "code": "19447",
+                "name": "Xã Hướng Linh"
+            },
+            "19450": {
+                "code": "19450",
+                "name": "Xã Tân Hợp"
+            },
+            "19453": {
+                "code": "19453",
+                "name": "Xã Hướng Tân"
+            },
+            "19456": {
+                "code": "19456",
+                "name": "Xã Tân Thành"
+            },
+            "19459": {
+                "code": "19459",
+                "name": "Xã Tân Long"
+            },
+            "19462": {
+                "code": "19462",
+                "name": "Xã Tân Lập"
+            },
+            "19465": {
+                "code": "19465",
+                "name": "Xã Tân Liên"
+            },
+            "19468": {
+                "code": "19468",
+                "name": "Xã Húc"
+            },
+            "19471": {
+                "code": "19471",
+                "name": "Xã Thuận"
+            },
+            "19474": {
+                "code": "19474",
+                "name": "Xã Hướng Lộc"
+            },
+            "19477": {
+                "code": "19477",
+                "name": "Xã Ba Tầng"
+            },
+            "19480": {
+                "code": "19480",
+                "name": "Xã Thanh"
+            },
+            "19483": {
+                "code": "19483",
+                "name": "Xã  A Dơi"
+            },
+            "19489": {
+                "code": "19489",
+                "name": "Xã Lìa"
+            },
+            "19492": {
+                "code": "19492",
+                "name": "Xã Xy"
+            }
+        }
+    },
+    "466": {
+        "code": "466",
+        "name": "Huyện Gio Linh",
+        "wards": {
+            "19495": {
+                "code": "19495",
+                "name": "Thị trấn Gio Linh"
+            },
+            "19496": {
+                "code": "19496",
+                "name": "Thị trấn Cửa Việt"
+            },
+            "19498": {
+                "code": "19498",
+                "name": "Xã Trung Giang"
+            },
+            "19501": {
+                "code": "19501",
+                "name": "Xã Trung Hải"
+            },
+            "19504": {
+                "code": "19504",
+                "name": "Xã Trung Sơn"
+            },
+            "19507": {
+                "code": "19507",
+                "name": "Xã Phong Bình"
+            },
+            "19510": {
+                "code": "19510",
+                "name": "Xã Gio Mỹ"
+            },
+            "19519": {
+                "code": "19519",
+                "name": "Xã Gio Hải"
+            },
+            "19522": {
+                "code": "19522",
+                "name": "Xã Gio An"
+            },
+            "19525": {
+                "code": "19525",
+                "name": "Xã Gio Châu"
+            },
+            "19531": {
+                "code": "19531",
+                "name": "Xã Gio Việt"
+            },
+            "19534": {
+                "code": "19534",
+                "name": "Xã Linh Trường"
+            },
+            "19537": {
+                "code": "19537",
+                "name": "Xã Gio Sơn"
+            },
+            "19543": {
+                "code": "19543",
+                "name": "Xã Gio Mai"
+            },
+            "19546": {
+                "code": "19546",
+                "name": "Xã Hải Thái"
+            },
+            "19549": {
+                "code": "19549",
+                "name": "Xã Linh Hải"
+            },
+            "19552": {
+                "code": "19552",
+                "name": "Xã Gio Quang"
+            }
+        }
+    },
+    "467": {
+        "code": "467",
+        "name": "Huyện Đa Krông",
+        "wards": {
+            "19555": {
+                "code": "19555",
+                "name": "Thị trấn Krông Klang"
+            },
+            "19558": {
+                "code": "19558",
+                "name": "Xã Mò Ó"
+            },
+            "19561": {
+                "code": "19561",
+                "name": "Xã Hướng Hiệp"
+            },
+            "19564": {
+                "code": "19564",
+                "name": "Xã Đa Krông"
+            },
+            "19567": {
+                "code": "19567",
+                "name": "Xã Triệu Nguyên"
+            },
+            "19570": {
+                "code": "19570",
+                "name": "Xã Ba Lòng"
+            },
+            "19576": {
+                "code": "19576",
+                "name": "Xã Ba Nang"
+            },
+            "19579": {
+                "code": "19579",
+                "name": "Xã Tà Long"
+            },
+            "19582": {
+                "code": "19582",
+                "name": "Xã Húc Nghì"
+            },
+            "19585": {
+                "code": "19585",
+                "name": "Xã A Vao"
+            },
+            "19588": {
+                "code": "19588",
+                "name": "Xã Tà Rụt"
+            },
+            "19591": {
+                "code": "19591",
+                "name": "Xã A Bung"
+            },
+            "19594": {
+                "code": "19594",
+                "name": "Xã A Ngo"
+            }
+        }
+    },
+    "468": {
+        "code": "468",
+        "name": "Huyện Cam Lộ",
+        "wards": {
+            "19597": {
+                "code": "19597",
+                "name": "Thị trấn Cam Lộ"
+            },
+            "19600": {
+                "code": "19600",
+                "name": "Xã Cam Tuyền"
+            },
+            "19603": {
+                "code": "19603",
+                "name": "Xã Thanh An"
+            },
+            "19606": {
+                "code": "19606",
+                "name": "Xã Cam Thủy"
+            },
+            "19612": {
+                "code": "19612",
+                "name": "Xã Cam Thành"
+            },
+            "19615": {
+                "code": "19615",
+                "name": "Xã Cam Hiếu"
+            },
+            "19618": {
+                "code": "19618",
+                "name": "Xã Cam Chính"
+            },
+            "19621": {
+                "code": "19621",
+                "name": "Xã Cam Nghĩa"
+            }
+        }
+    },
+    "469": {
+        "code": "469",
+        "name": "Huyện Triệu Phong",
+        "wards": {
+            "19624": {
+                "code": "19624",
+                "name": "Thị Trấn Ái Tử"
+            },
+            "19627": {
+                "code": "19627",
+                "name": "Xã Triệu An"
+            },
+            "19630": {
+                "code": "19630",
+                "name": "Xã Triệu Vân"
+            },
+            "19633": {
+                "code": "19633",
+                "name": "Xã Triệu Phước"
+            },
+            "19636": {
+                "code": "19636",
+                "name": "Xã Triệu Độ"
+            },
+            "19639": {
+                "code": "19639",
+                "name": "Xã Triệu Trạch"
+            },
+            "19642": {
+                "code": "19642",
+                "name": "Xã Triệu Thuận"
+            },
+            "19645": {
+                "code": "19645",
+                "name": "Xã Triệu Đại"
+            },
+            "19648": {
+                "code": "19648",
+                "name": "Xã Triệu Hòa"
+            },
+            "19651": {
+                "code": "19651",
+                "name": "Xã Triệu Lăng"
+            },
+            "19654": {
+                "code": "19654",
+                "name": "Xã Triệu Sơn"
+            },
+            "19657": {
+                "code": "19657",
+                "name": "Xã Triệu Long"
+            },
+            "19660": {
+                "code": "19660",
+                "name": "Xã Triệu Tài"
+            },
+            "19666": {
+                "code": "19666",
+                "name": "Xã Triệu Trung"
+            },
+            "19669": {
+                "code": "19669",
+                "name": "Xã Triệu Ái"
+            },
+            "19672": {
+                "code": "19672",
+                "name": "Xã Triệu Thượng"
+            },
+            "19675": {
+                "code": "19675",
+                "name": "Xã Triệu Giang"
+            },
+            "19678": {
+                "code": "19678",
+                "name": "Xã Triệu Thành"
+            }
+        }
+    },
+    "470": {
+        "code": "470",
+        "name": "Huyện Hải Lăng",
+        "wards": {
+            "19681": {
+                "code": "19681",
+                "name": "Thị trấn Diên Sanh"
+            },
+            "19684": {
+                "code": "19684",
+                "name": "Xã Hải An"
+            },
+            "19687": {
+                "code": "19687",
+                "name": "Xã Hải Ba"
+            },
+            "19693": {
+                "code": "19693",
+                "name": "Xã Hải Quy"
+            },
+            "19696": {
+                "code": "19696",
+                "name": "Xã Hải Quế"
+            },
+            "19699": {
+                "code": "19699",
+                "name": "Xã Hải Hưng"
+            },
+            "19702": {
+                "code": "19702",
+                "name": "Xã Hải Phú"
+            },
+            "19708": {
+                "code": "19708",
+                "name": "Xã Hải Thượng"
+            },
+            "19711": {
+                "code": "19711",
+                "name": "Xã Hải Dương"
+            },
+            "19714": {
+                "code": "19714",
+                "name": "Xã Hải Định"
+            },
+            "19717": {
+                "code": "19717",
+                "name": "Xã Hải Lâm"
+            },
+            "19726": {
+                "code": "19726",
+                "name": "Xã Hải Phong"
+            },
+            "19729": {
+                "code": "19729",
+                "name": "Xã Hải Trường"
+            },
+            "19735": {
+                "code": "19735",
+                "name": "Xã Hải Sơn"
+            },
+            "19738": {
+                "code": "19738",
+                "name": "Xã Hải Chánh"
+            },
+            "19741": {
+                "code": "19741",
+                "name": "Xã Hải Khê"
+            }
+        }
+    },
+    "471": {
+        "code": "471",
+        "name": "Huyện Cồn Cỏ",
+        "wards": {
+            "": {
+                "code": null,
+                "name": null
+            }
+        }
+    }
+}

@@ -1,0 +1,578 @@
+{
+    "094": {
+        "code": "094",
+        "name": "Thành phố Điện Biên Phủ",
+        "wards": {
+            "03124": {
+                "code": "03124",
+                "name": "Phường Noong Bua"
+            },
+            "03127": {
+                "code": "03127",
+                "name": "Phường Him Lam"
+            },
+            "03130": {
+                "code": "03130",
+                "name": "Phường Thanh Bình"
+            },
+            "03133": {
+                "code": "03133",
+                "name": "Phường Tân Thanh"
+            },
+            "03136": {
+                "code": "03136",
+                "name": "Phường Mường Thanh"
+            },
+            "03139": {
+                "code": "03139",
+                "name": "Phường Nam Thanh"
+            },
+            "03142": {
+                "code": "03142",
+                "name": "Phường Thanh Trường"
+            },
+            "03145": {
+                "code": "03145",
+                "name": "Xã Thanh Minh"
+            },
+            "03316": {
+                "code": "03316",
+                "name": "Xã Nà Tấu"
+            },
+            "03317": {
+                "code": "03317",
+                "name": "Xã Nà Nhạn"
+            },
+            "03325": {
+                "code": "03325",
+                "name": "Xã Mường Phăng"
+            },
+            "03326": {
+                "code": "03326",
+                "name": "Xã Pá Khoang"
+            }
+        }
+    },
+    "095": {
+        "code": "095",
+        "name": "Thị Xã Mường Lay",
+        "wards": {
+            "03148": {
+                "code": "03148",
+                "name": "Phường Sông Đà"
+            },
+            "03151": {
+                "code": "03151",
+                "name": "Phường Na Lay"
+            },
+            "03184": {
+                "code": "03184",
+                "name": "Xã Lay Nưa"
+            }
+        }
+    },
+    "096": {
+        "code": "096",
+        "name": "Huyện Mường Nhé",
+        "wards": {
+            "03154": {
+                "code": "03154",
+                "name": "Xã Sín Thầu"
+            },
+            "03155": {
+                "code": "03155",
+                "name": "Xã Sen Thượng"
+            },
+            "03157": {
+                "code": "03157",
+                "name": "Xã Chung Chải"
+            },
+            "03158": {
+                "code": "03158",
+                "name": "Xã Leng Su Sìn"
+            },
+            "03159": {
+                "code": "03159",
+                "name": "Xã Pá Mỳ"
+            },
+            "03160": {
+                "code": "03160",
+                "name": "Xã Mường Nhé"
+            },
+            "03161": {
+                "code": "03161",
+                "name": "Xã Nậm Vì"
+            },
+            "03162": {
+                "code": "03162",
+                "name": "Xã Nậm Kè"
+            },
+            "03163": {
+                "code": "03163",
+                "name": "Xã Mường Toong"
+            },
+            "03164": {
+                "code": "03164",
+                "name": "Xã Quảng Lâm"
+            },
+            "03177": {
+                "code": "03177",
+                "name": "Xã Huổi Lếnh"
+            }
+        }
+    },
+    "097": {
+        "code": "097",
+        "name": "Huyện Mường Chà",
+        "wards": {
+            "03172": {
+                "code": "03172",
+                "name": "Thị Trấn Mường Chà"
+            },
+            "03178": {
+                "code": "03178",
+                "name": "Xã Xá Tổng"
+            },
+            "03181": {
+                "code": "03181",
+                "name": "Xã Mường Tùng"
+            },
+            "03190": {
+                "code": "03190",
+                "name": "Xã Hừa Ngài"
+            },
+            "03191": {
+                "code": "03191",
+                "name": "Xã Huổi Mí"
+            },
+            "03193": {
+                "code": "03193",
+                "name": "Xã Pa Ham"
+            },
+            "03194": {
+                "code": "03194",
+                "name": "Xã Nậm Nèn"
+            },
+            "03196": {
+                "code": "03196",
+                "name": "Xã Huổi Lèng"
+            },
+            "03197": {
+                "code": "03197",
+                "name": "Xã Sa Lông"
+            },
+            "03200": {
+                "code": "03200",
+                "name": "Xã Ma Thì Hồ"
+            },
+            "03201": {
+                "code": "03201",
+                "name": "Xã Na Sang"
+            },
+            "03202": {
+                "code": "03202",
+                "name": "Xã Mường Mươn"
+            }
+        }
+    },
+    "098": {
+        "code": "098",
+        "name": "Huyện Tủa Chùa",
+        "wards": {
+            "03217": {
+                "code": "03217",
+                "name": "Thị trấn Tủa Chùa"
+            },
+            "03220": {
+                "code": "03220",
+                "name": "Xã Huổi Só"
+            },
+            "03223": {
+                "code": "03223",
+                "name": "Xã Xín Chải"
+            },
+            "03226": {
+                "code": "03226",
+                "name": "Xã Tả Sìn Thàng"
+            },
+            "03229": {
+                "code": "03229",
+                "name": "Xã Lao Xả Phình"
+            },
+            "03232": {
+                "code": "03232",
+                "name": "Xã Tả Phìn"
+            },
+            "03235": {
+                "code": "03235",
+                "name": "Xã Tủa Thàng"
+            },
+            "03238": {
+                "code": "03238",
+                "name": "Xã Trung Thu"
+            },
+            "03241": {
+                "code": "03241",
+                "name": "Xã Sính Phình"
+            },
+            "03244": {
+                "code": "03244",
+                "name": "Xã Sáng Nhè"
+            },
+            "03247": {
+                "code": "03247",
+                "name": "Xã Mường Đun"
+            },
+            "03250": {
+                "code": "03250",
+                "name": "Xã Mường Báng"
+            }
+        }
+    },
+    "099": {
+        "code": "099",
+        "name": "Huyện Tuần Giáo",
+        "wards": {
+            "03253": {
+                "code": "03253",
+                "name": "Thị trấn Tuần Giáo"
+            },
+            "03259": {
+                "code": "03259",
+                "name": "Xã Phình Sáng"
+            },
+            "03260": {
+                "code": "03260",
+                "name": "Xã Rạng Đông"
+            },
+            "03262": {
+                "code": "03262",
+                "name": "Xã Mùn Chung"
+            },
+            "03263": {
+                "code": "03263",
+                "name": "Xã Nà Tòng"
+            },
+            "03265": {
+                "code": "03265",
+                "name": "Xã Ta Ma"
+            },
+            "03268": {
+                "code": "03268",
+                "name": "Xã Mường Mùn"
+            },
+            "03269": {
+                "code": "03269",
+                "name": "Xã Pú Xi"
+            },
+            "03271": {
+                "code": "03271",
+                "name": "Xã Pú Nhung"
+            },
+            "03274": {
+                "code": "03274",
+                "name": "Xã Quài Nưa"
+            },
+            "03277": {
+                "code": "03277",
+                "name": "Xã Mường Thín"
+            },
+            "03280": {
+                "code": "03280",
+                "name": "Xã Tỏa Tình"
+            },
+            "03283": {
+                "code": "03283",
+                "name": "Xã Nà Sáy"
+            },
+            "03284": {
+                "code": "03284",
+                "name": "Xã Mường Khong"
+            },
+            "03289": {
+                "code": "03289",
+                "name": "Xã Quài Cang"
+            },
+            "03295": {
+                "code": "03295",
+                "name": "Xã Quài Tở"
+            },
+            "03298": {
+                "code": "03298",
+                "name": "Xã Chiềng Sinh"
+            },
+            "03299": {
+                "code": "03299",
+                "name": "Xã Chiềng Đông"
+            },
+            "03304": {
+                "code": "03304",
+                "name": "Xã Tênh Phông"
+            }
+        }
+    },
+    "100": {
+        "code": "100",
+        "name": "Huyện Điện Biên",
+        "wards": {
+            "03319": {
+                "code": "03319",
+                "name": "Xã Mường Pồn"
+            },
+            "03322": {
+                "code": "03322",
+                "name": "Xã Thanh Nưa"
+            },
+            "03323": {
+                "code": "03323",
+                "name": "Xã Hua Thanh"
+            },
+            "03328": {
+                "code": "03328",
+                "name": "Xã Thanh Luông"
+            },
+            "03331": {
+                "code": "03331",
+                "name": "Xã Thanh Hưng"
+            },
+            "03334": {
+                "code": "03334",
+                "name": "Xã Thanh Xương"
+            },
+            "03337": {
+                "code": "03337",
+                "name": "Xã Thanh Chăn"
+            },
+            "03340": {
+                "code": "03340",
+                "name": "Xã Pa Thơm"
+            },
+            "03343": {
+                "code": "03343",
+                "name": "Xã Thanh An"
+            },
+            "03346": {
+                "code": "03346",
+                "name": "Xã Thanh Yên"
+            },
+            "03349": {
+                "code": "03349",
+                "name": "Xã Noong Luống"
+            },
+            "03352": {
+                "code": "03352",
+                "name": "Xã Noọng Hẹt"
+            },
+            "03355": {
+                "code": "03355",
+                "name": "Xã Sam Mứn"
+            },
+            "03356": {
+                "code": "03356",
+                "name": "Xã Pom Lót"
+            },
+            "03358": {
+                "code": "03358",
+                "name": "Xã Núa Ngam"
+            },
+            "03359": {
+                "code": "03359",
+                "name": "Xã Hẹ Muông"
+            },
+            "03361": {
+                "code": "03361",
+                "name": "Xã Na Ư"
+            },
+            "03364": {
+                "code": "03364",
+                "name": "Xã Mường Nhà"
+            },
+            "03365": {
+                "code": "03365",
+                "name": "Xã Na Tông"
+            },
+            "03367": {
+                "code": "03367",
+                "name": "Xã Mường Lói"
+            },
+            "03368": {
+                "code": "03368",
+                "name": "Xã Phu Luông"
+            }
+        }
+    },
+    "101": {
+        "code": "101",
+        "name": "Huyện Điện Biên Đông",
+        "wards": {
+            "03203": {
+                "code": "03203",
+                "name": "Thị trấn Điện Biên Đông"
+            },
+            "03205": {
+                "code": "03205",
+                "name": "Xã Na Son"
+            },
+            "03208": {
+                "code": "03208",
+                "name": "Xã Phì Nhừ"
+            },
+            "03211": {
+                "code": "03211",
+                "name": "Xã Chiềng Sơ"
+            },
+            "03214": {
+                "code": "03214",
+                "name": "Xã Mường Luân"
+            },
+            "03370": {
+                "code": "03370",
+                "name": "Xã Pú Nhi"
+            },
+            "03371": {
+                "code": "03371",
+                "name": "Xã Nong U"
+            },
+            "03373": {
+                "code": "03373",
+                "name": "Xã Xa Dung"
+            },
+            "03376": {
+                "code": "03376",
+                "name": "Xã Keo Lôm"
+            },
+            "03379": {
+                "code": "03379",
+                "name": "Xã Luân Giới"
+            },
+            "03382": {
+                "code": "03382",
+                "name": "Xã Phình Giàng"
+            },
+            "03383": {
+                "code": "03383",
+                "name": "Xã Pú Hồng"
+            },
+            "03384": {
+                "code": "03384",
+                "name": "Xã Tìa Dình"
+            },
+            "03385": {
+                "code": "03385",
+                "name": "Xã Háng Lìa"
+            }
+        }
+    },
+    "102": {
+        "code": "102",
+        "name": "Huyện Mường Ảng",
+        "wards": {
+            "03256": {
+                "code": "03256",
+                "name": "Thị trấn Mường Ảng"
+            },
+            "03286": {
+                "code": "03286",
+                "name": "Xã Mường Đăng"
+            },
+            "03287": {
+                "code": "03287",
+                "name": "Xã Ngối Cáy"
+            },
+            "03292": {
+                "code": "03292",
+                "name": "Xã Ẳng Tở"
+            },
+            "03301": {
+                "code": "03301",
+                "name": "Xã Búng Lao"
+            },
+            "03302": {
+                "code": "03302",
+                "name": "Xã Xuân Lao"
+            },
+            "03307": {
+                "code": "03307",
+                "name": "Xã Ẳng Nưa"
+            },
+            "03310": {
+                "code": "03310",
+                "name": "Xã Ẳng Cang"
+            },
+            "03312": {
+                "code": "03312",
+                "name": "Xã Nặm Lịch"
+            },
+            "03313": {
+                "code": "03313",
+                "name": "Xã Mường Lạn"
+            }
+        }
+    },
+    "103": {
+        "code": "103",
+        "name": "Huyện Nậm Pồ",
+        "wards": {
+            "03156": {
+                "code": "03156",
+                "name": "Xã Nậm Tin"
+            },
+            "03165": {
+                "code": "03165",
+                "name": "Xã Pa Tần"
+            },
+            "03166": {
+                "code": "03166",
+                "name": "Xã Chà Cang"
+            },
+            "03167": {
+                "code": "03167",
+                "name": "Xã Na Cô Sa"
+            },
+            "03168": {
+                "code": "03168",
+                "name": "Xã Nà Khoa"
+            },
+            "03169": {
+                "code": "03169",
+                "name": "Xã Nà Hỳ"
+            },
+            "03170": {
+                "code": "03170",
+                "name": "Xã Nà Bủng"
+            },
+            "03171": {
+                "code": "03171",
+                "name": "Xã Nậm Nhừ"
+            },
+            "03173": {
+                "code": "03173",
+                "name": "Xã Nậm Chua"
+            },
+            "03174": {
+                "code": "03174",
+                "name": "Xã Nậm Khăn"
+            },
+            "03175": {
+                "code": "03175",
+                "name": "Xã Chà Tở"
+            },
+            "03176": {
+                "code": "03176",
+                "name": "Xã Vàng Đán"
+            },
+            "03187": {
+                "code": "03187",
+                "name": "Xã Chà Nưa"
+            },
+            "03198": {
+                "code": "03198",
+                "name": "Xã Phìn Hồ"
+            },
+            "03199": {
+                "code": "03199",
+                "name": "Xã Si Pa Phìn"
+            }
+        }
+    }
+}

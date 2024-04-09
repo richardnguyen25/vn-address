@@ -1,0 +1,512 @@
+{
+    "688": {
+        "code": "688",
+        "name": "Thị xã Phước Long",
+        "wards": {
+            "25216": {
+                "code": "25216",
+                "name": "Phường Thác Mơ"
+            },
+            "25217": {
+                "code": "25217",
+                "name": "Phường Long Thủy"
+            },
+            "25219": {
+                "code": "25219",
+                "name": "Phường Phước Bình"
+            },
+            "25220": {
+                "code": "25220",
+                "name": "Phường Long Phước"
+            },
+            "25237": {
+                "code": "25237",
+                "name": "Phường Sơn Giang"
+            },
+            "25245": {
+                "code": "25245",
+                "name": "Xã Long Giang"
+            },
+            "25249": {
+                "code": "25249",
+                "name": "Xã Phước Tín"
+            }
+        }
+    },
+    "689": {
+        "code": "689",
+        "name": "Thành phố Đồng Xoài",
+        "wards": {
+            "25195": {
+                "code": "25195",
+                "name": "Phường Tân Phú"
+            },
+            "25198": {
+                "code": "25198",
+                "name": "Phường Tân Đồng"
+            },
+            "25201": {
+                "code": "25201",
+                "name": "Phường Tân Bình"
+            },
+            "25204": {
+                "code": "25204",
+                "name": "Phường Tân Xuân"
+            },
+            "25205": {
+                "code": "25205",
+                "name": "Phường Tân Thiện"
+            },
+            "25207": {
+                "code": "25207",
+                "name": "Xã Tân Thành"
+            },
+            "25210": {
+                "code": "25210",
+                "name": "Phường Tiến Thành"
+            },
+            "25213": {
+                "code": "25213",
+                "name": "Xã Tiến Hưng"
+            }
+        }
+    },
+    "690": {
+        "code": "690",
+        "name": "Thị xã Bình Long",
+        "wards": {
+            "25320": {
+                "code": "25320",
+                "name": "Phường Hưng Chiến"
+            },
+            "25324": {
+                "code": "25324",
+                "name": "Phường An Lộc"
+            },
+            "25325": {
+                "code": "25325",
+                "name": "Phường Phú Thịnh"
+            },
+            "25326": {
+                "code": "25326",
+                "name": "Phường Phú Đức"
+            },
+            "25333": {
+                "code": "25333",
+                "name": "Xã Thanh Lương"
+            },
+            "25336": {
+                "code": "25336",
+                "name": "Xã Thanh Phú"
+            }
+        }
+    },
+    "691": {
+        "code": "691",
+        "name": "Huyện Bù Gia Mập",
+        "wards": {
+            "25222": {
+                "code": "25222",
+                "name": "Xã Bù Gia Mập"
+            },
+            "25225": {
+                "code": "25225",
+                "name": "Xã Đak Ơ"
+            },
+            "25228": {
+                "code": "25228",
+                "name": "Xã Đức Hạnh"
+            },
+            "25229": {
+                "code": "25229",
+                "name": "Xã Phú Văn"
+            },
+            "25231": {
+                "code": "25231",
+                "name": "Xã Đa Kia"
+            },
+            "25232": {
+                "code": "25232",
+                "name": "Xã Phước Minh"
+            },
+            "25234": {
+                "code": "25234",
+                "name": "Xã Bình Thắng"
+            },
+            "25267": {
+                "code": "25267",
+                "name": "Xã Phú Nghĩa"
+            }
+        }
+    },
+    "692": {
+        "code": "692",
+        "name": "Huyện Lộc Ninh",
+        "wards": {
+            "25270": {
+                "code": "25270",
+                "name": "Thị trấn Lộc Ninh"
+            },
+            "25273": {
+                "code": "25273",
+                "name": "Xã Lộc Hòa"
+            },
+            "25276": {
+                "code": "25276",
+                "name": "Xã Lộc An"
+            },
+            "25279": {
+                "code": "25279",
+                "name": "Xã Lộc Tấn"
+            },
+            "25280": {
+                "code": "25280",
+                "name": "Xã Lộc Thạnh"
+            },
+            "25282": {
+                "code": "25282",
+                "name": "Xã Lộc Hiệp"
+            },
+            "25285": {
+                "code": "25285",
+                "name": "Xã Lộc Thiện"
+            },
+            "25288": {
+                "code": "25288",
+                "name": "Xã Lộc Thuận"
+            },
+            "25291": {
+                "code": "25291",
+                "name": "Xã Lộc Quang"
+            },
+            "25292": {
+                "code": "25292",
+                "name": "Xã Lộc Phú"
+            },
+            "25294": {
+                "code": "25294",
+                "name": "Xã Lộc Thành"
+            },
+            "25297": {
+                "code": "25297",
+                "name": "Xã Lộc Thái"
+            },
+            "25300": {
+                "code": "25300",
+                "name": "Xã Lộc Điền"
+            },
+            "25303": {
+                "code": "25303",
+                "name": "Xã Lộc Hưng"
+            },
+            "25305": {
+                "code": "25305",
+                "name": "Xã Lộc Thịnh"
+            },
+            "25306": {
+                "code": "25306",
+                "name": "Xã Lộc Khánh"
+            }
+        }
+    },
+    "693": {
+        "code": "693",
+        "name": "Huyện Bù Đốp",
+        "wards": {
+            "25308": {
+                "code": "25308",
+                "name": "Thị trấn Thanh Bình"
+            },
+            "25309": {
+                "code": "25309",
+                "name": "Xã Hưng Phước"
+            },
+            "25310": {
+                "code": "25310",
+                "name": "Xã Phước Thiện"
+            },
+            "25312": {
+                "code": "25312",
+                "name": "Xã Thiện Hưng"
+            },
+            "25315": {
+                "code": "25315",
+                "name": "Xã Thanh Hòa"
+            },
+            "25318": {
+                "code": "25318",
+                "name": "Xã Tân Thành"
+            },
+            "25321": {
+                "code": "25321",
+                "name": "Xã Tân Tiến"
+            }
+        }
+    },
+    "694": {
+        "code": "694",
+        "name": "Huyện Hớn Quản",
+        "wards": {
+            "25327": {
+                "code": "25327",
+                "name": "Xã Thanh An"
+            },
+            "25330": {
+                "code": "25330",
+                "name": "Xã An Khương"
+            },
+            "25339": {
+                "code": "25339",
+                "name": "Xã An Phú"
+            },
+            "25342": {
+                "code": "25342",
+                "name": "Xã Tân Lợi"
+            },
+            "25345": {
+                "code": "25345",
+                "name": "Xã Tân Hưng"
+            },
+            "25348": {
+                "code": "25348",
+                "name": "Xã Minh Đức"
+            },
+            "25349": {
+                "code": "25349",
+                "name": "Xã Minh Tâm"
+            },
+            "25351": {
+                "code": "25351",
+                "name": "Xã Phước An"
+            },
+            "25354": {
+                "code": "25354",
+                "name": "Xã Thanh Bình"
+            },
+            "25357": {
+                "code": "25357",
+                "name": "Thị trấn Tân Khai"
+            },
+            "25360": {
+                "code": "25360",
+                "name": "Xã Đồng Nơ"
+            },
+            "25361": {
+                "code": "25361",
+                "name": "Xã Tân Hiệp"
+            },
+            "25438": {
+                "code": "25438",
+                "name": "Xã Tân Quan"
+            }
+        }
+    },
+    "695": {
+        "code": "695",
+        "name": "Huyện Đồng Phú",
+        "wards": {
+            "25363": {
+                "code": "25363",
+                "name": "Thị trấn Tân Phú"
+            },
+            "25366": {
+                "code": "25366",
+                "name": "Xã Thuận Lợi"
+            },
+            "25369": {
+                "code": "25369",
+                "name": "Xã Đồng Tâm"
+            },
+            "25372": {
+                "code": "25372",
+                "name": "Xã Tân Phước"
+            },
+            "25375": {
+                "code": "25375",
+                "name": "Xã Tân Hưng"
+            },
+            "25378": {
+                "code": "25378",
+                "name": "Xã Tân Lợi"
+            },
+            "25381": {
+                "code": "25381",
+                "name": "Xã Tân Lập"
+            },
+            "25384": {
+                "code": "25384",
+                "name": "Xã Tân Hòa"
+            },
+            "25387": {
+                "code": "25387",
+                "name": "Xã Thuận Phú"
+            },
+            "25390": {
+                "code": "25390",
+                "name": "Xã Đồng Tiến"
+            },
+            "25393": {
+                "code": "25393",
+                "name": "Xã Tân Tiến"
+            }
+        }
+    },
+    "696": {
+        "code": "696",
+        "name": "Huyện Bù Đăng",
+        "wards": {
+            "25396": {
+                "code": "25396",
+                "name": "Thị trấn Đức Phong"
+            },
+            "25398": {
+                "code": "25398",
+                "name": "Xã Đường 10"
+            },
+            "25399": {
+                "code": "25399",
+                "name": "Xã Đak Nhau"
+            },
+            "25400": {
+                "code": "25400",
+                "name": "Xã Phú Sơn"
+            },
+            "25402": {
+                "code": "25402",
+                "name": "Xã Thọ Sơn"
+            },
+            "25404": {
+                "code": "25404",
+                "name": "Xã Bình Minh"
+            },
+            "25405": {
+                "code": "25405",
+                "name": "Xã Bom Bo"
+            },
+            "25408": {
+                "code": "25408",
+                "name": "Xã Minh Hưng"
+            },
+            "25411": {
+                "code": "25411",
+                "name": "Xã Đoàn Kết"
+            },
+            "25414": {
+                "code": "25414",
+                "name": "Xã Đồng Nai"
+            },
+            "25417": {
+                "code": "25417",
+                "name": "Xã Đức Liễu"
+            },
+            "25420": {
+                "code": "25420",
+                "name": "Xã Thống Nhất"
+            },
+            "25423": {
+                "code": "25423",
+                "name": "Xã Nghĩa Trung"
+            },
+            "25424": {
+                "code": "25424",
+                "name": "Xã Nghĩa Bình"
+            },
+            "25426": {
+                "code": "25426",
+                "name": "Xã Đăng Hà"
+            },
+            "25429": {
+                "code": "25429",
+                "name": "Xã Phước Sơn"
+            }
+        }
+    },
+    "697": {
+        "code": "697",
+        "name": "Thị xã Chơn Thành",
+        "wards": {
+            "25432": {
+                "code": "25432",
+                "name": "Phường Hưng Long"
+            },
+            "25433": {
+                "code": "25433",
+                "name": "Phường Thành Tâm"
+            },
+            "25435": {
+                "code": "25435",
+                "name": "Xã Minh Lập"
+            },
+            "25439": {
+                "code": "25439",
+                "name": "Xã Quang Minh"
+            },
+            "25441": {
+                "code": "25441",
+                "name": "Phường Minh Hưng"
+            },
+            "25444": {
+                "code": "25444",
+                "name": "Phường Minh Long"
+            },
+            "25447": {
+                "code": "25447",
+                "name": "Phường Minh Thành"
+            },
+            "25450": {
+                "code": "25450",
+                "name": "Xã Nha Bích"
+            },
+            "25453": {
+                "code": "25453",
+                "name": "Xã Minh Thắng"
+            }
+        }
+    },
+    "698": {
+        "code": "698",
+        "name": "Huyện Phú Riềng",
+        "wards": {
+            "25240": {
+                "code": "25240",
+                "name": "Xã Long Bình"
+            },
+            "25243": {
+                "code": "25243",
+                "name": "Xã Bình Tân"
+            },
+            "25244": {
+                "code": "25244",
+                "name": "Xã Bình Sơn"
+            },
+            "25246": {
+                "code": "25246",
+                "name": "Xã Long Hưng"
+            },
+            "25250": {
+                "code": "25250",
+                "name": "Xã Phước Tân"
+            },
+            "25252": {
+                "code": "25252",
+                "name": "Xã Bù Nho"
+            },
+            "25255": {
+                "code": "25255",
+                "name": "Xã Long Hà"
+            },
+            "25258": {
+                "code": "25258",
+                "name": "Xã Long Tân"
+            },
+            "25261": {
+                "code": "25261",
+                "name": "Xã Phú Trung"
+            },
+            "25264": {
+                "code": "25264",
+                "name": "Xã Phú Riềng"
+            }
+        }
+    }
+}

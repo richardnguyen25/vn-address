@@ -1,0 +1,620 @@
+{
+    "474": {
+        "code": "474",
+        "name": "Thành phố Huế",
+        "wards": {
+            "19750": {
+                "code": "19750",
+                "name": "Phường Tây Lộc"
+            },
+            "19753": {
+                "code": "19753",
+                "name": "Phường Thuận Lộc"
+            },
+            "19756": {
+                "code": "19756",
+                "name": "Phường Gia Hội"
+            },
+            "19759": {
+                "code": "19759",
+                "name": "Phường Phú Hậu"
+            },
+            "19762": {
+                "code": "19762",
+                "name": "Phường Thuận Hòa"
+            },
+            "19768": {
+                "code": "19768",
+                "name": "Phường Đông Ba"
+            },
+            "19774": {
+                "code": "19774",
+                "name": "Phường Kim Long"
+            },
+            "19777": {
+                "code": "19777",
+                "name": "Phường Vỹ Dạ"
+            },
+            "19780": {
+                "code": "19780",
+                "name": "Phường Phường Đúc"
+            },
+            "19783": {
+                "code": "19783",
+                "name": "Phường Vĩnh Ninh"
+            },
+            "19786": {
+                "code": "19786",
+                "name": "Phường Phú Hội"
+            },
+            "19789": {
+                "code": "19789",
+                "name": "Phường Phú Nhuận"
+            },
+            "19792": {
+                "code": "19792",
+                "name": "Phường Xuân Phú"
+            },
+            "19795": {
+                "code": "19795",
+                "name": "Phường Trường An"
+            },
+            "19798": {
+                "code": "19798",
+                "name": "Phường Phước Vĩnh"
+            },
+            "19801": {
+                "code": "19801",
+                "name": "Phường An Cựu"
+            },
+            "19803": {
+                "code": "19803",
+                "name": "Phường An Hòa"
+            },
+            "19804": {
+                "code": "19804",
+                "name": "Phường Hương Sơ"
+            },
+            "19807": {
+                "code": "19807",
+                "name": "Phường Thuỷ Biều"
+            },
+            "19810": {
+                "code": "19810",
+                "name": "Phường Hương Long"
+            },
+            "19813": {
+                "code": "19813",
+                "name": "Phường Thuỷ Xuân"
+            },
+            "19815": {
+                "code": "19815",
+                "name": "Phường An Đông"
+            },
+            "19816": {
+                "code": "19816",
+                "name": "Phường An Tây"
+            },
+            "19900": {
+                "code": "19900",
+                "name": "Phường Thuận An"
+            },
+            "19906": {
+                "code": "19906",
+                "name": "Xã Phú Dương"
+            },
+            "19909": {
+                "code": "19909",
+                "name": "Xã Phú Mậu"
+            },
+            "19924": {
+                "code": "19924",
+                "name": "Xã Phú Thanh"
+            },
+            "19930": {
+                "code": "19930",
+                "name": "Phường Phú Thượng"
+            },
+            "19963": {
+                "code": "19963",
+                "name": "Phường Thủy Vân"
+            },
+            "19981": {
+                "code": "19981",
+                "name": "Xã Thủy Bằng"
+            },
+            "19999": {
+                "code": "19999",
+                "name": "Xã Hải Dương"
+            },
+            "20002": {
+                "code": "20002",
+                "name": "Xã Hương Phong"
+            },
+            "20014": {
+                "code": "20014",
+                "name": "Phường Hương Vinh"
+            },
+            "20023": {
+                "code": "20023",
+                "name": "Phường Hương An"
+            },
+            "20029": {
+                "code": "20029",
+                "name": "Phường Hương Hồ"
+            },
+            "20032": {
+                "code": "20032",
+                "name": "Xã Hương Thọ"
+            }
+        }
+    },
+    "476": {
+        "code": "476",
+        "name": "Huyện Phong Điền",
+        "wards": {
+            "19819": {
+                "code": "19819",
+                "name": "Thị trấn Phong Điền"
+            },
+            "19822": {
+                "code": "19822",
+                "name": "Xã Điền Hương"
+            },
+            "19825": {
+                "code": "19825",
+                "name": "Xã Điền Môn"
+            },
+            "19828": {
+                "code": "19828",
+                "name": "Xã Điền Lộc"
+            },
+            "19831": {
+                "code": "19831",
+                "name": "Xã Phong Bình"
+            },
+            "19834": {
+                "code": "19834",
+                "name": "Xã Điền Hòa"
+            },
+            "19837": {
+                "code": "19837",
+                "name": "Xã Phong Chương"
+            },
+            "19840": {
+                "code": "19840",
+                "name": "Xã Phong Hải"
+            },
+            "19843": {
+                "code": "19843",
+                "name": "Xã Điền Hải"
+            },
+            "19846": {
+                "code": "19846",
+                "name": "Xã Phong Hòa"
+            },
+            "19849": {
+                "code": "19849",
+                "name": "Xã Phong Thu"
+            },
+            "19852": {
+                "code": "19852",
+                "name": "Xã Phong Hiền"
+            },
+            "19855": {
+                "code": "19855",
+                "name": "Xã Phong Mỹ"
+            },
+            "19858": {
+                "code": "19858",
+                "name": "Xã Phong An"
+            },
+            "19861": {
+                "code": "19861",
+                "name": "Xã Phong Xuân"
+            },
+            "19864": {
+                "code": "19864",
+                "name": "Xã Phong Sơn"
+            }
+        }
+    },
+    "477": {
+        "code": "477",
+        "name": "Huyện Quảng Điền",
+        "wards": {
+            "19867": {
+                "code": "19867",
+                "name": "Thị trấn Sịa"
+            },
+            "19870": {
+                "code": "19870",
+                "name": "Xã Quảng Thái"
+            },
+            "19873": {
+                "code": "19873",
+                "name": "Xã Quảng Ngạn"
+            },
+            "19876": {
+                "code": "19876",
+                "name": "Xã Quảng Lợi"
+            },
+            "19879": {
+                "code": "19879",
+                "name": "Xã Quảng Công"
+            },
+            "19882": {
+                "code": "19882",
+                "name": "Xã Quảng Phước"
+            },
+            "19885": {
+                "code": "19885",
+                "name": "Xã Quảng Vinh"
+            },
+            "19888": {
+                "code": "19888",
+                "name": "Xã Quảng An"
+            },
+            "19891": {
+                "code": "19891",
+                "name": "Xã Quảng Thành"
+            },
+            "19894": {
+                "code": "19894",
+                "name": "Xã Quảng Thọ"
+            },
+            "19897": {
+                "code": "19897",
+                "name": "Xã Quảng Phú"
+            }
+        }
+    },
+    "478": {
+        "code": "478",
+        "name": "Huyện Phú Vang",
+        "wards": {
+            "19903": {
+                "code": "19903",
+                "name": "Xã Phú Thuận"
+            },
+            "19912": {
+                "code": "19912",
+                "name": "Xã Phú An"
+            },
+            "19915": {
+                "code": "19915",
+                "name": "Xã Phú Hải"
+            },
+            "19918": {
+                "code": "19918",
+                "name": "Xã Phú Xuân"
+            },
+            "19921": {
+                "code": "19921",
+                "name": "Xã Phú Diên"
+            },
+            "19927": {
+                "code": "19927",
+                "name": "Xã Phú Mỹ"
+            },
+            "19933": {
+                "code": "19933",
+                "name": "Xã Phú Hồ"
+            },
+            "19936": {
+                "code": "19936",
+                "name": "Xã Vinh Xuân"
+            },
+            "19939": {
+                "code": "19939",
+                "name": "Xã Phú Lương"
+            },
+            "19942": {
+                "code": "19942",
+                "name": "Thị trấn Phú Đa"
+            },
+            "19945": {
+                "code": "19945",
+                "name": "Xã Vinh Thanh"
+            },
+            "19948": {
+                "code": "19948",
+                "name": "Xã Vinh An"
+            },
+            "19954": {
+                "code": "19954",
+                "name": "Xã Phú Gia"
+            },
+            "19957": {
+                "code": "19957",
+                "name": "Xã Vinh Hà"
+            }
+        }
+    },
+    "479": {
+        "code": "479",
+        "name": "Thị xã Hương Thủy",
+        "wards": {
+            "19960": {
+                "code": "19960",
+                "name": "Phường Phú Bài"
+            },
+            "19966": {
+                "code": "19966",
+                "name": "Xã Thủy Thanh"
+            },
+            "19969": {
+                "code": "19969",
+                "name": "Phường Thủy Dương"
+            },
+            "19972": {
+                "code": "19972",
+                "name": "Phường Thủy Phương"
+            },
+            "19975": {
+                "code": "19975",
+                "name": "Phường Thủy Châu"
+            },
+            "19978": {
+                "code": "19978",
+                "name": "Phường Thủy Lương"
+            },
+            "19984": {
+                "code": "19984",
+                "name": "Xã Thủy Tân"
+            },
+            "19987": {
+                "code": "19987",
+                "name": "Xã Thủy Phù"
+            },
+            "19990": {
+                "code": "19990",
+                "name": "Xã Phú Sơn"
+            },
+            "19993": {
+                "code": "19993",
+                "name": "Xã Dương Hòa"
+            }
+        }
+    },
+    "480": {
+        "code": "480",
+        "name": "Thị xã Hương Trà",
+        "wards": {
+            "19996": {
+                "code": "19996",
+                "name": "Phường Tứ Hạ"
+            },
+            "20005": {
+                "code": "20005",
+                "name": "Xã Hương Toàn"
+            },
+            "20008": {
+                "code": "20008",
+                "name": "Phường Hương Vân"
+            },
+            "20011": {
+                "code": "20011",
+                "name": "Phường Hương Văn"
+            },
+            "20017": {
+                "code": "20017",
+                "name": "Phường Hương Xuân"
+            },
+            "20020": {
+                "code": "20020",
+                "name": "Phường Hương Chữ"
+            },
+            "20026": {
+                "code": "20026",
+                "name": "Xã Hương Bình"
+            },
+            "20035": {
+                "code": "20035",
+                "name": "Xã Bình Tiến"
+            },
+            "20041": {
+                "code": "20041",
+                "name": "Xã Bình Thành"
+            }
+        }
+    },
+    "481": {
+        "code": "481",
+        "name": "Huyện A Lưới",
+        "wards": {
+            "20044": {
+                "code": "20044",
+                "name": "Thị trấn A Lưới"
+            },
+            "20047": {
+                "code": "20047",
+                "name": "Xã Hồng Vân"
+            },
+            "20050": {
+                "code": "20050",
+                "name": "Xã Hồng Hạ"
+            },
+            "20053": {
+                "code": "20053",
+                "name": "Xã Hồng Kim"
+            },
+            "20056": {
+                "code": "20056",
+                "name": "Xã Trung Sơn"
+            },
+            "20059": {
+                "code": "20059",
+                "name": "Xã Hương Nguyên"
+            },
+            "20065": {
+                "code": "20065",
+                "name": "Xã Hồng Bắc"
+            },
+            "20068": {
+                "code": "20068",
+                "name": "Xã A Ngo"
+            },
+            "20071": {
+                "code": "20071",
+                "name": "Xã Sơn Thủy"
+            },
+            "20074": {
+                "code": "20074",
+                "name": "Xã Phú Vinh"
+            },
+            "20080": {
+                "code": "20080",
+                "name": "Xã Hương Phong"
+            },
+            "20083": {
+                "code": "20083",
+                "name": "Xã Quảng Nhâm"
+            },
+            "20086": {
+                "code": "20086",
+                "name": "Xã Hồng Thượng"
+            },
+            "20089": {
+                "code": "20089",
+                "name": "Xã Hồng Thái"
+            },
+            "20095": {
+                "code": "20095",
+                "name": "Xã A Roàng"
+            },
+            "20098": {
+                "code": "20098",
+                "name": "Xã Đông Sơn"
+            },
+            "20101": {
+                "code": "20101",
+                "name": "Xã Lâm Đớt"
+            },
+            "20104": {
+                "code": "20104",
+                "name": "Xã Hồng Thủy"
+            }
+        }
+    },
+    "482": {
+        "code": "482",
+        "name": "Huyện Phú Lộc",
+        "wards": {
+            "20107": {
+                "code": "20107",
+                "name": "Thị trấn Phú Lộc"
+            },
+            "20110": {
+                "code": "20110",
+                "name": "Thị trấn Lăng Cô"
+            },
+            "20113": {
+                "code": "20113",
+                "name": "Xã Vinh Mỹ"
+            },
+            "20116": {
+                "code": "20116",
+                "name": "Xã Vinh Hưng"
+            },
+            "20122": {
+                "code": "20122",
+                "name": "Xã Giang Hải"
+            },
+            "20125": {
+                "code": "20125",
+                "name": "Xã Vinh Hiền"
+            },
+            "20128": {
+                "code": "20128",
+                "name": "Xã Lộc Bổn"
+            },
+            "20131": {
+                "code": "20131",
+                "name": "Xã Lộc Sơn"
+            },
+            "20134": {
+                "code": "20134",
+                "name": "Xã Lộc Bình"
+            },
+            "20137": {
+                "code": "20137",
+                "name": "Xã Lộc Vĩnh"
+            },
+            "20140": {
+                "code": "20140",
+                "name": "Xã Lộc An"
+            },
+            "20143": {
+                "code": "20143",
+                "name": "Xã Lộc Điền"
+            },
+            "20146": {
+                "code": "20146",
+                "name": "Xã Lộc Thủy"
+            },
+            "20149": {
+                "code": "20149",
+                "name": "Xã Lộc Trì"
+            },
+            "20152": {
+                "code": "20152",
+                "name": "Xã Lộc Tiến"
+            },
+            "20155": {
+                "code": "20155",
+                "name": "Xã Lộc Hòa"
+            },
+            "20158": {
+                "code": "20158",
+                "name": "Xã Xuân Lộc"
+            }
+        }
+    },
+    "483": {
+        "code": "483",
+        "name": "Huyện Nam Đông",
+        "wards": {
+            "20161": {
+                "code": "20161",
+                "name": "Thị trấn Khe Tre"
+            },
+            "20164": {
+                "code": "20164",
+                "name": "Xã Hương Phú"
+            },
+            "20167": {
+                "code": "20167",
+                "name": "Xã Hương Sơn"
+            },
+            "20170": {
+                "code": "20170",
+                "name": "Xã Hương Lộc"
+            },
+            "20173": {
+                "code": "20173",
+                "name": "Xã Thượng Quảng"
+            },
+            "20179": {
+                "code": "20179",
+                "name": "Xã Hương Xuân"
+            },
+            "20182": {
+                "code": "20182",
+                "name": "Xã Hương Hữu"
+            },
+            "20185": {
+                "code": "20185",
+                "name": "Xã Thượng Lộ"
+            },
+            "20188": {
+                "code": "20188",
+                "name": "Xã Thượng Long"
+            },
+            "20191": {
+                "code": "20191",
+                "name": "Xã Thượng Nhật"
+            }
+        }
+    }
+}

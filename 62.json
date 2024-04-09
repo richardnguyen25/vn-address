@@ -1,0 +1,470 @@
+{
+    "608": {
+        "code": "608",
+        "name": "Thành phố Kon Tum",
+        "wards": {
+            "23281": {
+                "code": "23281",
+                "name": "Phường Quang Trung"
+            },
+            "23284": {
+                "code": "23284",
+                "name": "Phường Duy Tân"
+            },
+            "23287": {
+                "code": "23287",
+                "name": "Phường Quyết Thắng"
+            },
+            "23290": {
+                "code": "23290",
+                "name": "Phường Trường Chinh"
+            },
+            "23293": {
+                "code": "23293",
+                "name": "Phường Thắng Lợi"
+            },
+            "23296": {
+                "code": "23296",
+                "name": "Phường Ngô Mây"
+            },
+            "23299": {
+                "code": "23299",
+                "name": "Phường Thống Nhất"
+            },
+            "23302": {
+                "code": "23302",
+                "name": "Phường Lê Lợi"
+            },
+            "23305": {
+                "code": "23305",
+                "name": "Phường Nguyễn Trãi"
+            },
+            "23308": {
+                "code": "23308",
+                "name": "Phường Trần Hưng Đạo"
+            },
+            "23311": {
+                "code": "23311",
+                "name": "Xã Đắk Cấm"
+            },
+            "23314": {
+                "code": "23314",
+                "name": "Xã Kroong"
+            },
+            "23317": {
+                "code": "23317",
+                "name": "Xã Ngọk Bay"
+            },
+            "23320": {
+                "code": "23320",
+                "name": "Xã Vinh Quang"
+            },
+            "23323": {
+                "code": "23323",
+                "name": "Xã Đắk Blà"
+            },
+            "23326": {
+                "code": "23326",
+                "name": "Xã Ia Chim"
+            },
+            "23327": {
+                "code": "23327",
+                "name": "Xã Đăk Năng"
+            },
+            "23329": {
+                "code": "23329",
+                "name": "Xã Đoàn Kết"
+            },
+            "23332": {
+                "code": "23332",
+                "name": "Xã Chư Hreng"
+            },
+            "23335": {
+                "code": "23335",
+                "name": "Xã Đắk Rơ Wa"
+            },
+            "23338": {
+                "code": "23338",
+                "name": "Xã Hòa Bình"
+            }
+        }
+    },
+    "610": {
+        "code": "610",
+        "name": "Huyện Đắk Glei",
+        "wards": {
+            "23341": {
+                "code": "23341",
+                "name": "Thị trấn Đắk Glei"
+            },
+            "23344": {
+                "code": "23344",
+                "name": "Xã Đắk Blô"
+            },
+            "23347": {
+                "code": "23347",
+                "name": "Xã Đắk Man"
+            },
+            "23350": {
+                "code": "23350",
+                "name": "Xã Đắk Nhoong"
+            },
+            "23353": {
+                "code": "23353",
+                "name": "Xã Đắk Pék"
+            },
+            "23356": {
+                "code": "23356",
+                "name": "Xã Đắk Choong"
+            },
+            "23359": {
+                "code": "23359",
+                "name": "Xã Xốp"
+            },
+            "23362": {
+                "code": "23362",
+                "name": "Xã Mường Hoong"
+            },
+            "23365": {
+                "code": "23365",
+                "name": "Xã Ngọc Linh"
+            },
+            "23368": {
+                "code": "23368",
+                "name": "Xã Đắk Long"
+            },
+            "23371": {
+                "code": "23371",
+                "name": "Xã Đắk KRoong"
+            },
+            "23374": {
+                "code": "23374",
+                "name": "Xã Đắk Môn"
+            }
+        }
+    },
+    "611": {
+        "code": "611",
+        "name": "Huyện Ngọc Hồi",
+        "wards": {
+            "23377": {
+                "code": "23377",
+                "name": "Thị trấn Plei Kần"
+            },
+            "23380": {
+                "code": "23380",
+                "name": "Xã Đắk Ang"
+            },
+            "23383": {
+                "code": "23383",
+                "name": "Xã Đắk Dục"
+            },
+            "23386": {
+                "code": "23386",
+                "name": "Xã Đắk Nông"
+            },
+            "23389": {
+                "code": "23389",
+                "name": "Xã Đắk Xú"
+            },
+            "23392": {
+                "code": "23392",
+                "name": "Xã Đắk Kan"
+            },
+            "23395": {
+                "code": "23395",
+                "name": "Xã Bờ Y"
+            },
+            "23398": {
+                "code": "23398",
+                "name": "Xã Sa Loong"
+            }
+        }
+    },
+    "612": {
+        "code": "612",
+        "name": "Huyện Đắk Tô",
+        "wards": {
+            "23401": {
+                "code": "23401",
+                "name": "Thị trấn Đắk Tô"
+            },
+            "23427": {
+                "code": "23427",
+                "name": "Xã Đắk Rơ Nga"
+            },
+            "23428": {
+                "code": "23428",
+                "name": "Xã Ngọk Tụ"
+            },
+            "23430": {
+                "code": "23430",
+                "name": "Xã Đắk Trăm"
+            },
+            "23431": {
+                "code": "23431",
+                "name": "Xã Văn Lem"
+            },
+            "23434": {
+                "code": "23434",
+                "name": "Xã Kon Đào"
+            },
+            "23437": {
+                "code": "23437",
+                "name": "Xã Tân Cảnh"
+            },
+            "23440": {
+                "code": "23440",
+                "name": "Xã Diên Bình"
+            },
+            "23443": {
+                "code": "23443",
+                "name": "Xã Pô Kô"
+            }
+        }
+    },
+    "613": {
+        "code": "613",
+        "name": "Huyện Kon Plông",
+        "wards": {
+            "23452": {
+                "code": "23452",
+                "name": "Xã Đắk Nên"
+            },
+            "23455": {
+                "code": "23455",
+                "name": "Xã Đắk Ring"
+            },
+            "23458": {
+                "code": "23458",
+                "name": "Xã Măng Buk"
+            },
+            "23461": {
+                "code": "23461",
+                "name": "Xã Đắk Tăng"
+            },
+            "23464": {
+                "code": "23464",
+                "name": "Xã Ngok Tem"
+            },
+            "23467": {
+                "code": "23467",
+                "name": "Xã Pờ Ê"
+            },
+            "23470": {
+                "code": "23470",
+                "name": "Xã Măng Cành"
+            },
+            "23473": {
+                "code": "23473",
+                "name": "Thị trấn Măng Đen"
+            },
+            "23476": {
+                "code": "23476",
+                "name": "Xã Hiếu"
+            }
+        }
+    },
+    "614": {
+        "code": "614",
+        "name": "Huyện Kon Rẫy",
+        "wards": {
+            "23479": {
+                "code": "23479",
+                "name": "Thị trấn Đắk Rve"
+            },
+            "23482": {
+                "code": "23482",
+                "name": "Xã Đắk Kôi"
+            },
+            "23485": {
+                "code": "23485",
+                "name": "Xã Đắk Tơ Lung"
+            },
+            "23488": {
+                "code": "23488",
+                "name": "Xã Đắk Ruồng"
+            },
+            "23491": {
+                "code": "23491",
+                "name": "Xã Đắk Pne"
+            },
+            "23494": {
+                "code": "23494",
+                "name": "Xã Đắk Tờ Re"
+            },
+            "23497": {
+                "code": "23497",
+                "name": "Xã Tân Lập"
+            }
+        }
+    },
+    "615": {
+        "code": "615",
+        "name": "Huyện Đắk Hà",
+        "wards": {
+            "23500": {
+                "code": "23500",
+                "name": "Thị trấn Đắk Hà"
+            },
+            "23503": {
+                "code": "23503",
+                "name": "Xã Đắk PXi"
+            },
+            "23504": {
+                "code": "23504",
+                "name": "Xã Đăk Long"
+            },
+            "23506": {
+                "code": "23506",
+                "name": "Xã Đắk HRing"
+            },
+            "23509": {
+                "code": "23509",
+                "name": "Xã Đắk Ui"
+            },
+            "23510": {
+                "code": "23510",
+                "name": "Xã Đăk Ngọk"
+            },
+            "23512": {
+                "code": "23512",
+                "name": "Xã Đắk Mar"
+            },
+            "23515": {
+                "code": "23515",
+                "name": "Xã Ngok Wang"
+            },
+            "23518": {
+                "code": "23518",
+                "name": "Xã Ngok Réo"
+            },
+            "23521": {
+                "code": "23521",
+                "name": "Xã Hà Mòn"
+            },
+            "23524": {
+                "code": "23524",
+                "name": "Xã Đắk La"
+            }
+        }
+    },
+    "616": {
+        "code": "616",
+        "name": "Huyện Sa Thầy",
+        "wards": {
+            "23527": {
+                "code": "23527",
+                "name": "Thị trấn Sa Thầy"
+            },
+            "23530": {
+                "code": "23530",
+                "name": "Xã Rơ Kơi"
+            },
+            "23533": {
+                "code": "23533",
+                "name": "Xã Sa Nhơn"
+            },
+            "23534": {
+                "code": "23534",
+                "name": "Xã Hơ Moong"
+            },
+            "23536": {
+                "code": "23536",
+                "name": "Xã Mô Rai"
+            },
+            "23539": {
+                "code": "23539",
+                "name": "Xã Sa Sơn"
+            },
+            "23542": {
+                "code": "23542",
+                "name": "Xã Sa Nghĩa"
+            },
+            "23545": {
+                "code": "23545",
+                "name": "Xã Sa Bình"
+            },
+            "23548": {
+                "code": "23548",
+                "name": "Xã Ya Xiêr"
+            },
+            "23551": {
+                "code": "23551",
+                "name": "Xã Ya Tăng"
+            },
+            "23554": {
+                "code": "23554",
+                "name": "Xã Ya ly"
+            }
+        }
+    },
+    "617": {
+        "code": "617",
+        "name": "Huyện Tu Mơ Rông",
+        "wards": {
+            "23404": {
+                "code": "23404",
+                "name": "Xã Ngọc Lây"
+            },
+            "23407": {
+                "code": "23407",
+                "name": "Xã Đắk Na"
+            },
+            "23410": {
+                "code": "23410",
+                "name": "Xã Măng Ri"
+            },
+            "23413": {
+                "code": "23413",
+                "name": "Xã Ngọc Yêu"
+            },
+            "23416": {
+                "code": "23416",
+                "name": "Xã Đắk Sao"
+            },
+            "23417": {
+                "code": "23417",
+                "name": "Xã Đắk Rơ Ông"
+            },
+            "23419": {
+                "code": "23419",
+                "name": "Xã Đắk Tờ Kan"
+            },
+            "23422": {
+                "code": "23422",
+                "name": "Xã Tu Mơ Rông"
+            },
+            "23425": {
+                "code": "23425",
+                "name": "Xã Đắk Hà"
+            },
+            "23446": {
+                "code": "23446",
+                "name": "Xã Tê Xăng"
+            },
+            "23449": {
+                "code": "23449",
+                "name": "Xã Văn Xuôi"
+            }
+        }
+    },
+    "618": {
+        "code": "618",
+        "name": "Huyện Ia H' Drai",
+        "wards": {
+            "23535": {
+                "code": "23535",
+                "name": "Xã Ia Đal"
+            },
+            "23537": {
+                "code": "23537",
+                "name": "Xã Ia Dom"
+            },
+            "23538": {
+                "code": "23538",
+                "name": "Xã Ia Tơi"
+            }
+        }
+    }
+}

@@ -1,0 +1,764 @@
+{
+    "164": {
+        "code": "164",
+        "name": "Thành phố Thái Nguyên",
+        "wards": {
+            "05431": {
+                "code": "05431",
+                "name": "Phường Quán Triều"
+            },
+            "05434": {
+                "code": "05434",
+                "name": "Phường Quang Vinh"
+            },
+            "05437": {
+                "code": "05437",
+                "name": "Phường Túc Duyên"
+            },
+            "05440": {
+                "code": "05440",
+                "name": "Phường Hoàng Văn Thụ"
+            },
+            "05443": {
+                "code": "05443",
+                "name": "Phường Trưng Vương"
+            },
+            "05446": {
+                "code": "05446",
+                "name": "Phường Quang Trung"
+            },
+            "05449": {
+                "code": "05449",
+                "name": "Phường Phan Đình Phùng"
+            },
+            "05452": {
+                "code": "05452",
+                "name": "Phường Tân Thịnh"
+            },
+            "05455": {
+                "code": "05455",
+                "name": "Phường Thịnh Đán"
+            },
+            "05458": {
+                "code": "05458",
+                "name": "Phường Đồng Quang"
+            },
+            "05461": {
+                "code": "05461",
+                "name": "Phường Gia Sàng"
+            },
+            "05464": {
+                "code": "05464",
+                "name": "Phường Tân Lập"
+            },
+            "05467": {
+                "code": "05467",
+                "name": "Phường Cam Giá"
+            },
+            "05470": {
+                "code": "05470",
+                "name": "Phường Phú Xá"
+            },
+            "05473": {
+                "code": "05473",
+                "name": "Phường Hương Sơn"
+            },
+            "05476": {
+                "code": "05476",
+                "name": "Phường Trung Thành"
+            },
+            "05479": {
+                "code": "05479",
+                "name": "Phường Tân Thành"
+            },
+            "05482": {
+                "code": "05482",
+                "name": "Phường Tân Long"
+            },
+            "05485": {
+                "code": "05485",
+                "name": "Xã Phúc Hà"
+            },
+            "05488": {
+                "code": "05488",
+                "name": "Xã Phúc Xuân"
+            },
+            "05491": {
+                "code": "05491",
+                "name": "Xã Quyết Thắng"
+            },
+            "05494": {
+                "code": "05494",
+                "name": "Xã Phúc Trìu"
+            },
+            "05497": {
+                "code": "05497",
+                "name": "Xã Thịnh Đức"
+            },
+            "05500": {
+                "code": "05500",
+                "name": "Phường Tích Lương"
+            },
+            "05503": {
+                "code": "05503",
+                "name": "Xã Tân Cương"
+            },
+            "05653": {
+                "code": "05653",
+                "name": "Xã Sơn Cẩm"
+            },
+            "05659": {
+                "code": "05659",
+                "name": "Phường Chùa Hang"
+            },
+            "05695": {
+                "code": "05695",
+                "name": "Xã Cao Ngạn"
+            },
+            "05701": {
+                "code": "05701",
+                "name": "Xã Linh Sơn"
+            },
+            "05710": {
+                "code": "05710",
+                "name": "Phường Đồng Bẩm"
+            },
+            "05713": {
+                "code": "05713",
+                "name": "Xã Huống Thượng"
+            },
+            "05914": {
+                "code": "05914",
+                "name": "Xã Đồng Liên"
+            }
+        }
+    },
+    "165": {
+        "code": "165",
+        "name": "Thành phố Sông Công",
+        "wards": {
+            "05506": {
+                "code": "05506",
+                "name": "Phường Lương Sơn"
+            },
+            "05509": {
+                "code": "05509",
+                "name": "Phường Châu Sơn"
+            },
+            "05512": {
+                "code": "05512",
+                "name": "Phường Mỏ Chè"
+            },
+            "05515": {
+                "code": "05515",
+                "name": "Phường Cải Đan"
+            },
+            "05518": {
+                "code": "05518",
+                "name": "Phường Thắng Lợi"
+            },
+            "05521": {
+                "code": "05521",
+                "name": "Phường Phố Cò"
+            },
+            "05527": {
+                "code": "05527",
+                "name": "Xã Tân Quang"
+            },
+            "05528": {
+                "code": "05528",
+                "name": "Phường Bách Quang"
+            },
+            "05530": {
+                "code": "05530",
+                "name": "Xã Bình Sơn"
+            },
+            "05533": {
+                "code": "05533",
+                "name": "Xã Bá Xuyên"
+            }
+        }
+    },
+    "167": {
+        "code": "167",
+        "name": "Huyện Định Hóa",
+        "wards": {
+            "05536": {
+                "code": "05536",
+                "name": "Thị trấn Chợ Chu"
+            },
+            "05539": {
+                "code": "05539",
+                "name": "Xã Linh Thông"
+            },
+            "05542": {
+                "code": "05542",
+                "name": "Xã Lam Vỹ"
+            },
+            "05545": {
+                "code": "05545",
+                "name": "Xã Quy Kỳ"
+            },
+            "05548": {
+                "code": "05548",
+                "name": "Xã Tân Thịnh"
+            },
+            "05551": {
+                "code": "05551",
+                "name": "Xã Kim Phượng"
+            },
+            "05554": {
+                "code": "05554",
+                "name": "Xã Bảo Linh"
+            },
+            "05560": {
+                "code": "05560",
+                "name": "Xã Phúc Chu"
+            },
+            "05563": {
+                "code": "05563",
+                "name": "Xã Tân Dương"
+            },
+            "05566": {
+                "code": "05566",
+                "name": "Xã Phượng Tiến"
+            },
+            "05569": {
+                "code": "05569",
+                "name": "Xã Bảo Cường"
+            },
+            "05572": {
+                "code": "05572",
+                "name": "Xã Đồng Thịnh"
+            },
+            "05575": {
+                "code": "05575",
+                "name": "Xã Định Biên"
+            },
+            "05578": {
+                "code": "05578",
+                "name": "Xã Thanh Định"
+            },
+            "05581": {
+                "code": "05581",
+                "name": "Xã Trung Hội"
+            },
+            "05584": {
+                "code": "05584",
+                "name": "Xã Trung Lương"
+            },
+            "05587": {
+                "code": "05587",
+                "name": "Xã Bình Yên"
+            },
+            "05590": {
+                "code": "05590",
+                "name": "Xã Điềm Mặc"
+            },
+            "05593": {
+                "code": "05593",
+                "name": "Xã Phú Tiến"
+            },
+            "05596": {
+                "code": "05596",
+                "name": "Xã Bộc Nhiêu"
+            },
+            "05599": {
+                "code": "05599",
+                "name": "Xã Sơn Phú"
+            },
+            "05602": {
+                "code": "05602",
+                "name": "Xã Phú Đình"
+            },
+            "05605": {
+                "code": "05605",
+                "name": "Xã Bình Thành"
+            }
+        }
+    },
+    "168": {
+        "code": "168",
+        "name": "Huyện Phú Lương",
+        "wards": {
+            "05608": {
+                "code": "05608",
+                "name": "Thị trấn Giang Tiên"
+            },
+            "05611": {
+                "code": "05611",
+                "name": "Thị trấn Đu"
+            },
+            "05614": {
+                "code": "05614",
+                "name": "Xã Yên Ninh"
+            },
+            "05617": {
+                "code": "05617",
+                "name": "Xã Yên Trạch"
+            },
+            "05620": {
+                "code": "05620",
+                "name": "Xã Yên Đổ"
+            },
+            "05623": {
+                "code": "05623",
+                "name": "Xã Yên Lạc"
+            },
+            "05626": {
+                "code": "05626",
+                "name": "Xã Ôn Lương"
+            },
+            "05629": {
+                "code": "05629",
+                "name": "Xã Động Đạt"
+            },
+            "05632": {
+                "code": "05632",
+                "name": "Xã Phủ Lý"
+            },
+            "05635": {
+                "code": "05635",
+                "name": "Xã Phú Đô"
+            },
+            "05638": {
+                "code": "05638",
+                "name": "Xã Hợp Thành"
+            },
+            "05641": {
+                "code": "05641",
+                "name": "Xã Tức Tranh"
+            },
+            "05644": {
+                "code": "05644",
+                "name": "Xã Phấn Mễ"
+            },
+            "05647": {
+                "code": "05647",
+                "name": "Xã Vô Tranh"
+            },
+            "05650": {
+                "code": "05650",
+                "name": "Xã Cổ Lũng"
+            }
+        }
+    },
+    "169": {
+        "code": "169",
+        "name": "Huyện Đồng Hỷ",
+        "wards": {
+            "05656": {
+                "code": "05656",
+                "name": "Thị trấn Sông Cầu"
+            },
+            "05662": {
+                "code": "05662",
+                "name": "Thị trấn Trại Cau"
+            },
+            "05665": {
+                "code": "05665",
+                "name": "Xã Văn Lăng"
+            },
+            "05668": {
+                "code": "05668",
+                "name": "Xã Tân Long"
+            },
+            "05671": {
+                "code": "05671",
+                "name": "Xã Hòa Bình"
+            },
+            "05674": {
+                "code": "05674",
+                "name": "Xã Quang Sơn"
+            },
+            "05677": {
+                "code": "05677",
+                "name": "Xã Minh Lập"
+            },
+            "05680": {
+                "code": "05680",
+                "name": "Xã Văn Hán"
+            },
+            "05683": {
+                "code": "05683",
+                "name": "Xã Hóa Trung"
+            },
+            "05686": {
+                "code": "05686",
+                "name": "Xã Khe Mo"
+            },
+            "05689": {
+                "code": "05689",
+                "name": "Xã Cây Thị"
+            },
+            "05692": {
+                "code": "05692",
+                "name": "Thị trấn Hóa Thượng"
+            },
+            "05698": {
+                "code": "05698",
+                "name": "Xã Hợp Tiến"
+            },
+            "05704": {
+                "code": "05704",
+                "name": "Xã Tân Lợi"
+            },
+            "05707": {
+                "code": "05707",
+                "name": "Xã Nam Hòa"
+            }
+        }
+    },
+    "170": {
+        "code": "170",
+        "name": "Huyện Võ Nhai",
+        "wards": {
+            "05716": {
+                "code": "05716",
+                "name": "Thị trấn Đình Cả"
+            },
+            "05719": {
+                "code": "05719",
+                "name": "Xã Sảng Mộc"
+            },
+            "05722": {
+                "code": "05722",
+                "name": "Xã Nghinh Tường"
+            },
+            "05725": {
+                "code": "05725",
+                "name": "Xã Thần Xa"
+            },
+            "05728": {
+                "code": "05728",
+                "name": "Xã Vũ Chấn"
+            },
+            "05731": {
+                "code": "05731",
+                "name": "Xã Thượng Nung"
+            },
+            "05734": {
+                "code": "05734",
+                "name": "Xã Phú Thượng"
+            },
+            "05737": {
+                "code": "05737",
+                "name": "Xã Cúc Đường"
+            },
+            "05740": {
+                "code": "05740",
+                "name": "Xã La Hiên"
+            },
+            "05743": {
+                "code": "05743",
+                "name": "Xã Lâu Thượng"
+            },
+            "05746": {
+                "code": "05746",
+                "name": "Xã Tràng Xá"
+            },
+            "05749": {
+                "code": "05749",
+                "name": "Xã Phương Giao"
+            },
+            "05752": {
+                "code": "05752",
+                "name": "Xã Liên Minh"
+            },
+            "05755": {
+                "code": "05755",
+                "name": "Xã Dân Tiến"
+            },
+            "05758": {
+                "code": "05758",
+                "name": "Xã Bình Long"
+            }
+        }
+    },
+    "171": {
+        "code": "171",
+        "name": "Huyện Đại Từ",
+        "wards": {
+            "05761": {
+                "code": "05761",
+                "name": "Thị trấn Hùng Sơn"
+            },
+            "05767": {
+                "code": "05767",
+                "name": "Xã Phúc Lương"
+            },
+            "05770": {
+                "code": "05770",
+                "name": "Xã Minh Tiến"
+            },
+            "05773": {
+                "code": "05773",
+                "name": "Xã Yên Lãng"
+            },
+            "05776": {
+                "code": "05776",
+                "name": "Xã Đức Lương"
+            },
+            "05779": {
+                "code": "05779",
+                "name": "Xã Phú Cường"
+            },
+            "05782": {
+                "code": "05782",
+                "name": "Xã Na Mao"
+            },
+            "05785": {
+                "code": "05785",
+                "name": "Xã Phú Lạc"
+            },
+            "05788": {
+                "code": "05788",
+                "name": "Xã Tân Linh"
+            },
+            "05791": {
+                "code": "05791",
+                "name": "Xã Phú Thịnh"
+            },
+            "05794": {
+                "code": "05794",
+                "name": "Xã Phục Linh"
+            },
+            "05797": {
+                "code": "05797",
+                "name": "Xã Phú Xuyên"
+            },
+            "05800": {
+                "code": "05800",
+                "name": "Xã Bản Ngoại"
+            },
+            "05803": {
+                "code": "05803",
+                "name": "Xã Tiên Hội"
+            },
+            "05809": {
+                "code": "05809",
+                "name": "Xã Cù Vân"
+            },
+            "05812": {
+                "code": "05812",
+                "name": "Xã Hà Thượng"
+            },
+            "05815": {
+                "code": "05815",
+                "name": "Xã La Bằng"
+            },
+            "05818": {
+                "code": "05818",
+                "name": "Xã Hoàng Nông"
+            },
+            "05821": {
+                "code": "05821",
+                "name": "Xã Khôi Kỳ"
+            },
+            "05824": {
+                "code": "05824",
+                "name": "Xã An Khánh"
+            },
+            "05827": {
+                "code": "05827",
+                "name": "Xã Tân Thái"
+            },
+            "05830": {
+                "code": "05830",
+                "name": "Xã Bình Thuận"
+            },
+            "05833": {
+                "code": "05833",
+                "name": "Xã Lục Ba"
+            },
+            "05836": {
+                "code": "05836",
+                "name": "Xã Mỹ Yên"
+            },
+            "05839": {
+                "code": "05839",
+                "name": "Xã Vạn Thọ"
+            },
+            "05842": {
+                "code": "05842",
+                "name": "Xã Văn Yên"
+            },
+            "05845": {
+                "code": "05845",
+                "name": "Xã Ký Phú"
+            },
+            "05848": {
+                "code": "05848",
+                "name": "Xã Cát Nê"
+            },
+            "05851": {
+                "code": "05851",
+                "name": "Thị trấn Quân Chu"
+            }
+        }
+    },
+    "172": {
+        "code": "172",
+        "name": "Thành phố Phổ Yên",
+        "wards": {
+            "05854": {
+                "code": "05854",
+                "name": "Phường Bãi Bông"
+            },
+            "05857": {
+                "code": "05857",
+                "name": "Phường Bắc Sơn"
+            },
+            "05860": {
+                "code": "05860",
+                "name": "Phường Ba Hàng"
+            },
+            "05863": {
+                "code": "05863",
+                "name": "Xã Phúc Tân"
+            },
+            "05866": {
+                "code": "05866",
+                "name": "Xã Phúc Thuận"
+            },
+            "05869": {
+                "code": "05869",
+                "name": "Phường Hồng Tiến"
+            },
+            "05872": {
+                "code": "05872",
+                "name": "Xã Minh Đức"
+            },
+            "05875": {
+                "code": "05875",
+                "name": "Phường Đắc Sơn"
+            },
+            "05878": {
+                "code": "05878",
+                "name": "Phường Đồng Tiến"
+            },
+            "05881": {
+                "code": "05881",
+                "name": "Xã Thành Công"
+            },
+            "05884": {
+                "code": "05884",
+                "name": "Phường Tiên Phong"
+            },
+            "05887": {
+                "code": "05887",
+                "name": "Xã Vạn Phái"
+            },
+            "05890": {
+                "code": "05890",
+                "name": "Phường Nam Tiến"
+            },
+            "05893": {
+                "code": "05893",
+                "name": "Phường Tân Hương"
+            },
+            "05896": {
+                "code": "05896",
+                "name": "Phường Đông Cao"
+            },
+            "05899": {
+                "code": "05899",
+                "name": "Phường Trung Thành"
+            },
+            "05902": {
+                "code": "05902",
+                "name": "Phường Tân Phú"
+            },
+            "05905": {
+                "code": "05905",
+                "name": "Phường Thuận Thành"
+            }
+        }
+    },
+    "173": {
+        "code": "173",
+        "name": "Huyện Phú Bình",
+        "wards": {
+            "05908": {
+                "code": "05908",
+                "name": "Thị trấn Hương Sơn"
+            },
+            "05911": {
+                "code": "05911",
+                "name": "Xã Bàn Đạt"
+            },
+            "05917": {
+                "code": "05917",
+                "name": "Xã Tân Khánh"
+            },
+            "05920": {
+                "code": "05920",
+                "name": "Xã Tân Kim"
+            },
+            "05923": {
+                "code": "05923",
+                "name": "Xã Tân Thành"
+            },
+            "05926": {
+                "code": "05926",
+                "name": "Xã Đào Xá"
+            },
+            "05929": {
+                "code": "05929",
+                "name": "Xã Bảo Lý"
+            },
+            "05932": {
+                "code": "05932",
+                "name": "Xã Thượng Đình"
+            },
+            "05935": {
+                "code": "05935",
+                "name": "Xã Tân Hòa"
+            },
+            "05938": {
+                "code": "05938",
+                "name": "Xã Nhã Lộng"
+            },
+            "05941": {
+                "code": "05941",
+                "name": "Xã Điềm Thụy"
+            },
+            "05944": {
+                "code": "05944",
+                "name": "Xã Xuân Phương"
+            },
+            "05947": {
+                "code": "05947",
+                "name": "Xã Tân Đức"
+            },
+            "05950": {
+                "code": "05950",
+                "name": "Xã Úc Kỳ"
+            },
+            "05953": {
+                "code": "05953",
+                "name": "Xã Lương Phú"
+            },
+            "05956": {
+                "code": "05956",
+                "name": "Xã Nga My"
+            },
+            "05959": {
+                "code": "05959",
+                "name": "Xã Kha Sơn"
+            },
+            "05962": {
+                "code": "05962",
+                "name": "Xã Thanh Ninh"
+            },
+            "05965": {
+                "code": "05965",
+                "name": "Xã Dương Thành"
+            },
+            "05968": {
+                "code": "05968",
+                "name": "Xã Hà Châu"
+            }
+        }
+    }
+}
