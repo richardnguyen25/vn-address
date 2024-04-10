@@ -8,6 +8,10 @@
                 "name": "Thị trấn Ân Thi"
             },
             {
+                "code": "12145",
+                "name": "Xã Phù Ủng"
+            },
+            {
                 "code": "12148",
                 "name": "Xã Bắc Sơn"
             },
@@ -16,76 +20,72 @@
                 "name": "Xã Bãi Sậy"
             },
             {
-                "code": "12181",
-                "name": "Xã Cẩm Ninh"
-            },
-            {
-                "code": "12187",
-                "name": "Xã Đa Lộc"
-            },
-            {
-                "code": "12178",
-                "name": "Xã Đặng Lễ"
-            },
-            {
                 "code": "12154",
                 "name": "Xã Đào Dương"
-            },
-            {
-                "code": "12202",
-                "name": "Xã Hạ Lễ"
-            },
-            {
-                "code": "12190",
-                "name": "Xã Hồ Tùng Mậu"
-            },
-            {
-                "code": "12169",
-                "name": "Xã Hoàng Hoa Thám"
-            },
-            {
-                "code": "12199",
-                "name": "Xã Hồng Quang"
-            },
-            {
-                "code": "12196",
-                "name": "Xã Hồng Vân"
-            },
-            {
-                "code": "12184",
-                "name": "Xã Nguyễn Trãi"
-            },
-            {
-                "code": "12145",
-                "name": "Xã Phù Ủng"
-            },
-            {
-                "code": "12172",
-                "name": "Xã Quảng Lãng"
-            },
-            {
-                "code": "12163",
-                "name": "Xã Quang Vinh"
             },
             {
                 "code": "12157",
                 "name": "Xã Tân Phúc"
             },
             {
-                "code": "12193",
-                "name": "Xã Tiền Phong"
-            },
-            {
                 "code": "12160",
                 "name": "Xã Vân Du"
+            },
+            {
+                "code": "12163",
+                "name": "Xã Quang Vinh"
+            },
+            {
+                "code": "12166",
+                "name": "Xã Xuân Trúc"
+            },
+            {
+                "code": "12169",
+                "name": "Xã Hoàng Hoa Thám"
+            },
+            {
+                "code": "12172",
+                "name": "Xã Quảng Lãng"
             },
             {
                 "code": "12175",
                 "name": "Xã Văn Nhuệ"
             },
             {
-                "code": "12166",
-                "name": "Xã Xuân Trúc"
+                "code": "12178",
+                "name": "Xã Đặng Lễ"
+            },
+            {
+                "code": "12181",
+                "name": "Xã Cẩm Ninh"
+            },
+            {
+                "code": "12184",
+                "name": "Xã Nguyễn Trãi"
+            },
+            {
+                "code": "12187",
+                "name": "Xã Đa Lộc"
+            },
+            {
+                "code": "12190",
+                "name": "Xã Hồ Tùng Mậu"
+            },
+            {
+                "code": "12193",
+                "name": "Xã Tiền Phong"
+            },
+            {
+                "code": "12196",
+                "name": "Xã Hồng Vân"
+            },
+            {
+                "code": "12199",
+                "name": "Xã Hồng Quang"
+            },
+            {
+                "code": "12202",
+                "name": "Xã Hạ Lễ"
             }
         ]
     },
@@ -98,100 +98,100 @@
                 "name": "Thị trấn Khoái Châu"
             },
             {
-                "code": "12229",
-                "name": "Xã An Vĩ"
-            },
-            {
-                "code": "12235",
-                "name": "Xã Bình Kiều"
+                "code": "12208",
+                "name": "Xã Đông Tảo"
             },
             {
                 "code": "12211",
                 "name": "Xã Bình Minh"
             },
             {
-                "code": "12265",
-                "name": "Xã Chí Tân"
-            },
-            {
                 "code": "12214",
                 "name": "Xã Dạ Trạch"
-            },
-            {
-                "code": "12268",
-                "name": "Xã Đại Hưng"
-            },
-            {
-                "code": "12262",
-                "name": "Xã Đại Tập"
-            },
-            {
-                "code": "12238",
-                "name": "Xã Dân Tiến"
-            },
-            {
-                "code": "12232",
-                "name": "Xã Đông Kết"
-            },
-            {
-                "code": "12259",
-                "name": "Xã Đông Ninh"
-            },
-            {
-                "code": "12208",
-                "name": "Xã Đông Tảo"
-            },
-            {
-                "code": "12241",
-                "name": "Xã Đồng Tiến"
             },
             {
                 "code": "12217",
                 "name": "Xã Hàm Tử"
             },
             {
-                "code": "12244",
-                "name": "Xã Hồng Tiến"
-            },
-            {
-                "code": "12250",
-                "name": "Xã Liên Khê"
-            },
-            {
-                "code": "12277",
-                "name": "Xã Nhuế Dương"
-            },
-            {
                 "code": "12220",
                 "name": "Xã Ông Đình"
-            },
-            {
-                "code": "12253",
-                "name": "Xã Phùng Hưng"
-            },
-            {
-                "code": "12247",
-                "name": "Xã Tân Châu"
             },
             {
                 "code": "12223",
                 "name": "Xã Tân Dân"
             },
             {
-                "code": "12274",
-                "name": "Xã Thành Công"
+                "code": "12226",
+                "name": "Xã Tứ Dân"
+            },
+            {
+                "code": "12229",
+                "name": "Xã An Vĩ"
+            },
+            {
+                "code": "12232",
+                "name": "Xã Đông Kết"
+            },
+            {
+                "code": "12235",
+                "name": "Xã Bình Kiều"
+            },
+            {
+                "code": "12238",
+                "name": "Xã Dân Tiến"
+            },
+            {
+                "code": "12241",
+                "name": "Xã Đồng Tiến"
+            },
+            {
+                "code": "12244",
+                "name": "Xã Hồng Tiến"
+            },
+            {
+                "code": "12247",
+                "name": "Xã Tân Châu"
+            },
+            {
+                "code": "12250",
+                "name": "Xã Liên Khê"
+            },
+            {
+                "code": "12253",
+                "name": "Xã Phùng Hưng"
+            },
+            {
+                "code": "12256",
+                "name": "Xã Việt Hòa"
+            },
+            {
+                "code": "12259",
+                "name": "Xã Đông Ninh"
+            },
+            {
+                "code": "12262",
+                "name": "Xã Đại Tập"
+            },
+            {
+                "code": "12265",
+                "name": "Xã Chí Tân"
+            },
+            {
+                "code": "12268",
+                "name": "Xã Đại Hưng"
             },
             {
                 "code": "12271",
                 "name": "Xã Thuần Hưng"
             },
             {
-                "code": "12226",
-                "name": "Xã Tứ Dân"
+                "code": "12274",
+                "name": "Xã Thành Công"
             },
             {
-                "code": "12256",
-                "name": "Xã Việt Hòa"
+                "code": "12277",
+                "name": "Xã Nhuế Dương"
             }
         ]
     },
@@ -204,56 +204,8 @@
                 "name": "Thị trấn Lương Bằng"
             },
             {
-                "code": "12304",
-                "name": "Xã Chính Nghĩa"
-            },
-            {
-                "code": "12298",
-                "name": "Xã Đồng Thanh"
-            },
-            {
-                "code": "12316",
-                "name": "Xã Đức Hợp"
-            },
-            {
-                "code": "12328",
-                "name": "Xã Hiệp Cường"
-            },
-            {
-                "code": "12319",
-                "name": "Xã Hùng An"
-            },
-            {
-                "code": "12313",
-                "name": "Xã Mai Động"
-            },
-            {
                 "code": "12283",
                 "name": "Xã Nghĩa Dân"
-            },
-            {
-                "code": "12322",
-                "name": "Xã Ngọc Thanh"
-            },
-            {
-                "code": "12307",
-                "name": "Xã Nhân La"
-            },
-            {
-                "code": "12292",
-                "name": "Xã Phạm Ngũ Lão"
-            },
-            {
-                "code": "12310",
-                "name": "Xã Phú Thịnh"
-            },
-            {
-                "code": "12301",
-                "name": "Xã Song Mai"
-            },
-            {
-                "code": "12295",
-                "name": "Xã Thọ Vinh"
             },
             {
                 "code": "12286",
@@ -264,8 +216,56 @@
                 "name": "Xã Vĩnh Xá"
             },
             {
+                "code": "12292",
+                "name": "Xã Phạm Ngũ Lão"
+            },
+            {
+                "code": "12295",
+                "name": "Xã Thọ Vinh"
+            },
+            {
+                "code": "12298",
+                "name": "Xã Đồng Thanh"
+            },
+            {
+                "code": "12301",
+                "name": "Xã Song Mai"
+            },
+            {
+                "code": "12304",
+                "name": "Xã Chính Nghĩa"
+            },
+            {
+                "code": "12307",
+                "name": "Xã Nhân La"
+            },
+            {
+                "code": "12310",
+                "name": "Xã Phú Thịnh"
+            },
+            {
+                "code": "12313",
+                "name": "Xã Mai Động"
+            },
+            {
+                "code": "12316",
+                "name": "Xã Đức Hợp"
+            },
+            {
+                "code": "12319",
+                "name": "Xã Hùng An"
+            },
+            {
+                "code": "12322",
+                "name": "Xã Ngọc Thanh"
+            },
+            {
                 "code": "12325",
                 "name": "Xã Vũ Xá"
+            },
+            {
+                "code": "12328",
+                "name": "Xã Hiệp Cường"
             }
         ]
     },
@@ -278,32 +278,8 @@
                 "name": "Thị trấn Trần Cao"
             },
             {
-                "code": "12412",
-                "name": "Xã Đình Cao"
-            },
-            {
-                "code": "12406",
-                "name": "Xã Đoàn Đào"
-            },
-            {
-                "code": "12403",
-                "name": "Xã Minh Hoàng"
-            },
-            {
                 "code": "12394",
                 "name": "Xã Minh Tân"
-            },
-            {
-                "code": "12424",
-                "name": "Xã Minh Tiến"
-            },
-            {
-                "code": "12427",
-                "name": "Xã Nguyên Hòa"
-            },
-            {
-                "code": "12415",
-                "name": "Xã Nhật Quang"
             },
             {
                 "code": "12397",
@@ -314,16 +290,40 @@
                 "name": "Xã Quang Hưng"
             },
             {
-                "code": "12421",
-                "name": "Xã Tam Đa"
+                "code": "12403",
+                "name": "Xã Minh Hoàng"
+            },
+            {
+                "code": "12406",
+                "name": "Xã Đoàn Đào"
+            },
+            {
+                "code": "12409",
+                "name": "Xã Tống Phan"
+            },
+            {
+                "code": "12412",
+                "name": "Xã Đình Cao"
+            },
+            {
+                "code": "12415",
+                "name": "Xã Nhật Quang"
             },
             {
                 "code": "12418",
                 "name": "Xã Tiền Tiến"
             },
             {
-                "code": "12409",
-                "name": "Xã Tống Phan"
+                "code": "12421",
+                "name": "Xã Tam Đa"
+            },
+            {
+                "code": "12424",
+                "name": "Xã Minh Tiến"
+            },
+            {
+                "code": "12427",
+                "name": "Xã Nguyên Hòa"
             },
             {
                 "code": "12430",
@@ -340,36 +340,8 @@
                 "name": "Thị trấn Vương"
             },
             {
-                "code": "12355",
-                "name": "Xã An Viên"
-            },
-            {
-                "code": "12376",
-                "name": "Xã Cương Chính"
-            },
-            {
-                "code": "12349",
-                "name": "Xã Dị Chế"
-            },
-            {
-                "code": "12358",
-                "name": "Xã Đức Thắng"
-            },
-            {
-                "code": "12364",
-                "name": "Xã Hải Triều"
-            },
-            {
                 "code": "12340",
                 "name": "Xã Hưng Đạo"
-            },
-            {
-                "code": "12352",
-                "name": "Xã Lệ Xá"
-            },
-            {
-                "code": "12379",
-                "name": "Xã Minh Phượng"
             },
             {
                 "code": "12343",
@@ -380,20 +352,48 @@
                 "name": "Xã Nhật Tân"
             },
             {
-                "code": "12370",
-                "name": "Xã Thiện Phiến"
+                "code": "12349",
+                "name": "Xã Dị Chế"
+            },
+            {
+                "code": "12352",
+                "name": "Xã Lệ Xá"
+            },
+            {
+                "code": "12355",
+                "name": "Xã An Viên"
+            },
+            {
+                "code": "12358",
+                "name": "Xã Đức Thắng"
+            },
+            {
+                "code": "12361",
+                "name": "Xã Trung Dũng"
+            },
+            {
+                "code": "12364",
+                "name": "Xã Hải Triều"
             },
             {
                 "code": "12367",
                 "name": "Xã Thủ Sỹ"
             },
             {
+                "code": "12370",
+                "name": "Xã Thiện Phiến"
+            },
+            {
                 "code": "12373",
                 "name": "Xã Thụy Lôi"
             },
             {
-                "code": "12361",
-                "name": "Xã Trung Dũng"
+                "code": "12376",
+                "name": "Xã Cương Chính"
+            },
+            {
+                "code": "12379",
+                "name": "Xã Minh Phượng"
             }
         ]
     },
@@ -406,28 +406,32 @@
                 "name": "Thị trấn Văn Giang"
             },
             {
+                "code": "12022",
+                "name": "Xã Xuân Quan"
+            },
+            {
                 "code": "12025",
                 "name": "Xã Cửu Cao"
             },
             {
-                "code": "12040",
-                "name": "Xã Liên Nghĩa"
-            },
-            {
-                "code": "12034",
-                "name": "Xã Long Hưng"
-            },
-            {
-                "code": "12049",
-                "name": "Xã Mễ Sở"
+                "code": "12028",
+                "name": "Xã Phụng Công"
             },
             {
                 "code": "12031",
                 "name": "Xã Nghĩa Trụ"
             },
             {
-                "code": "12028",
-                "name": "Xã Phụng Công"
+                "code": "12034",
+                "name": "Xã Long Hưng"
+            },
+            {
+                "code": "12037",
+                "name": "Xã Vĩnh Khúc"
+            },
+            {
+                "code": "12040",
+                "name": "Xã Liên Nghĩa"
             },
             {
                 "code": "12043",
@@ -438,12 +442,8 @@
                 "name": "Xã Thắng Lợi"
             },
             {
-                "code": "12037",
-                "name": "Xã Vĩnh Khúc"
-            },
-            {
-                "code": "12022",
-                "name": "Xã Xuân Quan"
+                "code": "12049",
+                "name": "Xã Mễ Sở"
             }
         ]
     },
@@ -456,6 +456,10 @@
                 "name": "Thị trấn Như Quỳnh"
             },
             {
+                "code": "11989",
+                "name": "Xã Lạc Đạo"
+            },
+            {
                 "code": "11992",
                 "name": "Xã Chỉ Đạo"
             },
@@ -464,36 +468,32 @@
                 "name": "Xã Đại Đồng"
             },
             {
-                "code": "12004",
-                "name": "Xã Đình Dù"
-            },
-            {
-                "code": "11989",
-                "name": "Xã Lạc Đạo"
-            },
-            {
-                "code": "12016",
-                "name": "Xã Lạc Hồng"
-            },
-            {
-                "code": "12010",
-                "name": "Xã Lương Tài"
-            },
-            {
-                "code": "12007",
-                "name": "Xã Minh Hải"
+                "code": "11998",
+                "name": "Xã Việt Hưng"
             },
             {
                 "code": "12001",
                 "name": "Xã Tân Quang"
             },
             {
+                "code": "12004",
+                "name": "Xã Đình Dù"
+            },
+            {
+                "code": "12007",
+                "name": "Xã Minh Hải"
+            },
+            {
+                "code": "12010",
+                "name": "Xã Lương Tài"
+            },
+            {
                 "code": "12013",
                 "name": "Xã Trưng Trắc"
             },
             {
-                "code": "11998",
-                "name": "Xã Việt Hưng"
+                "code": "12016",
+                "name": "Xã Lạc Hồng"
             }
         ]
     },
@@ -506,68 +506,68 @@
                 "name": "Thị trấn Yên Mỹ"
             },
             {
-                "code": "12061",
-                "name": "Xã Đồng Than"
-            },
-            {
                 "code": "12055",
                 "name": "Xã Giai Phạm"
-            },
-            {
-                "code": "12070",
-                "name": "Xã Hoàn Long"
-            },
-            {
-                "code": "12067",
-                "name": "Xã Liêu Xá"
-            },
-            {
-                "code": "12097",
-                "name": "Xã Lý Thường Kiệt"
-            },
-            {
-                "code": "12091",
-                "name": "Xã Minh Châu"
             },
             {
                 "code": "12058",
                 "name": "Xã Nghĩa Hiệp"
             },
             {
+                "code": "12061",
+                "name": "Xã Đồng Than"
+            },
+            {
                 "code": "12064",
                 "name": "Xã Ngọc Long"
+            },
+            {
+                "code": "12067",
+                "name": "Xã Liêu Xá"
+            },
+            {
+                "code": "12070",
+                "name": "Xã Hoàn Long"
             },
             {
                 "code": "12073",
                 "name": "Xã Tân Lập"
             },
             {
-                "code": "12100",
-                "name": "Xã Tân Việt"
-            },
-            {
                 "code": "12076",
                 "name": "Xã Thanh Long"
             },
             {
-                "code": "12085",
-                "name": "Xã Trung Hòa"
-            },
-            {
-                "code": "12094",
-                "name": "Xã Trung Hưng"
+                "code": "12079",
+                "name": "Xã Yên Phú"
             },
             {
                 "code": "12082",
                 "name": "Xã Việt Cường"
             },
             {
+                "code": "12085",
+                "name": "Xã Trung Hòa"
+            },
+            {
                 "code": "12088",
                 "name": "Xã Yên Hòa"
             },
             {
-                "code": "12079",
-                "name": "Xã Yên Phú"
+                "code": "12091",
+                "name": "Xã Minh Châu"
+            },
+            {
+                "code": "12094",
+                "name": "Xã Trung Hưng"
+            },
+            {
+                "code": "12097",
+                "name": "Xã Lý Thường Kiệt"
+            },
+            {
+                "code": "12100",
+                "name": "Xã Tân Việt"
             }
         ]
     },
@@ -576,20 +576,16 @@
         "name": "Thành phố Hưng Yên",
         "wards": [
             {
-                "code": "11956",
-                "name": "Phường An Tảo"
+                "code": "11950",
+                "name": "Phường Lam Sơn"
             },
             {
                 "code": "11953",
                 "name": "Phường Hiến Nam"
             },
             {
-                "code": "11968",
-                "name": "Phường Hồng Châu"
-            },
-            {
-                "code": "11950",
-                "name": "Phường Lam Sơn"
+                "code": "11956",
+                "name": "Phường An Tảo"
             },
             {
                 "code": "11959",
@@ -604,44 +600,48 @@
                 "name": "Phường Quang Trung"
             },
             {
-                "code": "11983",
-                "name": "Xã Bảo Khê"
+                "code": "11968",
+                "name": "Phường Hồng Châu"
             },
             {
-                "code": "12388",
-                "name": "Xã Hoàng Hanh"
-            },
-            {
-                "code": "11977",
-                "name": "Xã Hồng Nam"
-            },
-            {
-                "code": "12334",
-                "name": "Xã Hùng Cường"
+                "code": "11971",
+                "name": "Xã Trung Nghĩa"
             },
             {
                 "code": "11974",
                 "name": "Xã Liên Phương"
             },
             {
-                "code": "12331",
-                "name": "Xã Phú Cường"
-            },
-            {
-                "code": "12382",
-                "name": "Xã Phương Chiểu"
+                "code": "11977",
+                "name": "Xã Hồng Nam"
             },
             {
                 "code": "11980",
                 "name": "Xã Quảng Châu"
             },
             {
+                "code": "11983",
+                "name": "Xã Bảo Khê"
+            },
+            {
+                "code": "12331",
+                "name": "Xã Phú Cường"
+            },
+            {
+                "code": "12334",
+                "name": "Xã Hùng Cường"
+            },
+            {
+                "code": "12382",
+                "name": "Xã Phương Chiểu"
+            },
+            {
                 "code": "12385",
                 "name": "Xã Tân Hưng"
             },
             {
-                "code": "11971",
-                "name": "Xã Trung Nghĩa"
+                "code": "12388",
+                "name": "Xã Hoàng Hanh"
             }
         ]
     },
@@ -650,32 +650,12 @@
         "name": "Thị xã Mỹ Hào",
         "wards": [
             {
-                "code": "12124",
-                "name": "Phường Bạch Sam"
-            },
-            {
                 "code": "12103",
                 "name": "Phường Bần Yên Nhân"
             },
             {
-                "code": "12121",
-                "name": "Phường Dị Sử"
-            },
-            {
-                "code": "12127",
-                "name": "Phường Minh Đức"
-            },
-            {
-                "code": "12118",
-                "name": "Phường Nhân Hòa"
-            },
-            {
                 "code": "12106",
                 "name": "Phường Phan Đình Phùng"
-            },
-            {
-                "code": "12130",
-                "name": "Phường Phùng Chí Kiên"
             },
             {
                 "code": "12109",
@@ -690,16 +670,36 @@
                 "name": "Xã Hòa Phong"
             },
             {
-                "code": "12139",
-                "name": "Xã Hưng Long"
+                "code": "12118",
+                "name": "Phường Nhân Hòa"
+            },
+            {
+                "code": "12121",
+                "name": "Phường Dị Sử"
+            },
+            {
+                "code": "12124",
+                "name": "Phường Bạch Sam"
+            },
+            {
+                "code": "12127",
+                "name": "Phường Minh Đức"
+            },
+            {
+                "code": "12130",
+                "name": "Phường Phùng Chí Kiên"
+            },
+            {
+                "code": "12133",
+                "name": "Xã Xuân Dục"
             },
             {
                 "code": "12136",
                 "name": "Xã Ngọc Lâm"
             },
             {
-                "code": "12133",
-                "name": "Xã Xuân Dục"
+                "code": "12139",
+                "name": "Xã Hưng Long"
             }
         ]
     }

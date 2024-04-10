@@ -8,8 +8,24 @@
                 "name": "Thị trấn Gành Hào"
             },
             {
-                "code": "31990",
-                "name": "Xã An Phúc"
+                "code": "31975",
+                "name": "Xã Long Điền Đông"
+            },
+            {
+                "code": "31978",
+                "name": "Xã Long Điền Đông A"
+            },
+            {
+                "code": "31981",
+                "name": "Xã Long Điền"
+            },
+            {
+                "code": "31984",
+                "name": "Xã Long Điền Tây"
+            },
+            {
+                "code": "31985",
+                "name": "Xã Điền Hải"
             },
             {
                 "code": "31987",
@@ -20,8 +36,8 @@
                 "name": "Xã An Trạch A"
             },
             {
-                "code": "31985",
-                "name": "Xã Điền Hải"
+                "code": "31990",
+                "name": "Xã An Phúc"
             },
             {
                 "code": "31993",
@@ -30,22 +46,6 @@
             {
                 "code": "31996",
                 "name": "Xã Định Thành A"
-            },
-            {
-                "code": "31981",
-                "name": "Xã Long Điền"
-            },
-            {
-                "code": "31975",
-                "name": "Xã Long Điền Đông"
-            },
-            {
-                "code": "31978",
-                "name": "Xã Long Điền Đông A"
-            },
-            {
-                "code": "31984",
-                "name": "Xã Long Điền Tây"
             }
         ]
     },
@@ -66,6 +66,10 @@
                 "name": "Xã Vĩnh Bình"
             },
             {
+                "code": "31924",
+                "name": "Xã Vĩnh Mỹ B"
+            },
+            {
                 "code": "31927",
                 "name": "Xã Vĩnh Hậu"
             },
@@ -76,10 +80,6 @@
             {
                 "code": "31933",
                 "name": "Xã Vĩnh Mỹ A"
-            },
-            {
-                "code": "31924",
-                "name": "Xã Vĩnh Mỹ B"
             },
             {
                 "code": "31936",
@@ -96,14 +96,6 @@
                 "name": "Thị trấn Ngan Dừa"
             },
             {
-                "code": "31855",
-                "name": "Xã Lộc Ninh"
-            },
-            {
-                "code": "31852",
-                "name": "Xã Ninh Hòa"
-            },
-            {
                 "code": "31846",
                 "name": "Xã Ninh Quới"
             },
@@ -112,12 +104,12 @@
                 "name": "Xã Ninh Quới A"
             },
             {
-                "code": "31864",
-                "name": "Xã Ninh Thạnh Lợi"
+                "code": "31852",
+                "name": "Xã Ninh Hòa"
             },
             {
-                "code": "31863",
-                "name": "Xã Ninh Thạnh Lợi A"
+                "code": "31855",
+                "name": "Xã Lộc Ninh"
             },
             {
                 "code": "31858",
@@ -126,6 +118,14 @@
             {
                 "code": "31861",
                 "name": "Xã Vĩnh Lộc A"
+            },
+            {
+                "code": "31863",
+                "name": "Xã Ninh Thạnh Lợi A"
+            },
+            {
+                "code": "31864",
+                "name": "Xã Ninh Thạnh Lợi"
             }
         ]
     },
@@ -138,22 +138,6 @@
                 "name": "Thị trấn Phước Long"
             },
             {
-                "code": "31879",
-                "name": "Xã Hưng Phú"
-            },
-            {
-                "code": "31885",
-                "name": "Xã Phong Thạnh Tây A"
-            },
-            {
-                "code": "31888",
-                "name": "Xã Phong Thạnh Tây B"
-            },
-            {
-                "code": "31876",
-                "name": "Xã Phước Long"
-            },
-            {
                 "code": "31870",
                 "name": "Xã Vĩnh Phú Đông"
             },
@@ -162,8 +146,24 @@
                 "name": "Xã Vĩnh Phú Tây"
             },
             {
+                "code": "31876",
+                "name": "Xã Phước Long"
+            },
+            {
+                "code": "31879",
+                "name": "Xã Hưng Phú"
+            },
+            {
                 "code": "31882",
                 "name": "Xã Vĩnh Thanh"
+            },
+            {
+                "code": "31885",
+                "name": "Xã Phong Thạnh Tây A"
+            },
+            {
+                "code": "31888",
+                "name": "Xã Phong Thạnh Tây B"
             }
         ]
     },
@@ -171,6 +171,14 @@
         "code": "958",
         "name": "Huyện Vĩnh Lợi",
         "wards": [
+            {
+                "code": "31894",
+                "name": "Xã Vĩnh Hưng"
+            },
+            {
+                "code": "31897",
+                "name": "Xã Vĩnh Hưng A"
+            },
             {
                 "code": "31900",
                 "name": "Thị trấn Châu Hưng"
@@ -180,28 +188,20 @@
                 "name": "Xã Châu Hưng A"
             },
             {
-                "code": "31912",
-                "name": "Xã Châu Thới"
+                "code": "31906",
+                "name": "Xã Hưng Thành"
             },
             {
                 "code": "31909",
                 "name": "Xã Hưng Hội"
             },
             {
-                "code": "31906",
-                "name": "Xã Hưng Thành"
+                "code": "31912",
+                "name": "Xã Châu Thới"
             },
             {
                 "code": "31921",
                 "name": "Xã Long Thạnh"
-            },
-            {
-                "code": "31894",
-                "name": "Xã Vĩnh Hưng"
-            },
-            {
-                "code": "31897",
-                "name": "Xã Vĩnh Hưng A"
             }
         ]
     },
@@ -209,10 +209,6 @@
         "code": "954",
         "name": "Thành phố Bạc Liêu",
         "wards": [
-            {
-                "code": "31825",
-                "name": "Phường 1"
-            },
             {
                 "code": "31813",
                 "name": "Phường 2"
@@ -230,6 +226,10 @@
                 "name": "Phường 7"
             },
             {
+                "code": "31825",
+                "name": "Phường 1"
+            },
+            {
                 "code": "31828",
                 "name": "Phường 8"
             },
@@ -238,16 +238,16 @@
                 "name": "Phường Nhà Mát"
             },
             {
-                "code": "31840",
-                "name": "Xã Hiệp Thành"
-            },
-            {
                 "code": "31834",
                 "name": "Xã Vĩnh Trạch"
             },
             {
                 "code": "31837",
                 "name": "Xã Vĩnh Trạch Đông"
+            },
+            {
+                "code": "31840",
+                "name": "Xã Hiệp Thành"
             }
         ]
     },
@@ -264,12 +264,20 @@
                 "name": "Phường Hộ Phòng"
             },
             {
+                "code": "31948",
+                "name": "Xã Phong Thạnh Đông"
+            },
+            {
                 "code": "31951",
                 "name": "Phường Láng Tròn"
             },
             {
                 "code": "31954",
                 "name": "Xã Phong Tân"
+            },
+            {
+                "code": "31957",
+                "name": "Xã Tân Phong"
             },
             {
                 "code": "31960",
@@ -280,16 +288,8 @@
                 "name": "Xã Phong Thạnh A"
             },
             {
-                "code": "31948",
-                "name": "Xã Phong Thạnh Đông"
-            },
-            {
                 "code": "31966",
                 "name": "Xã Phong Thạnh Tây"
-            },
-            {
-                "code": "31957",
-                "name": "Xã Tân Phong"
             },
             {
                 "code": "31969",
