@@ -4,28 +4,16 @@
         "name": "Huyện Châu Đức",
         "wards": [
             {
-                "code": "26574",
-                "name": "Xã Bàu Chinh"
-            },
-            {
                 "code": "26575",
                 "name": "Thị trấn Ngãi Giao"
             },
             {
+                "code": "26574",
+                "name": "Xã Bàu Chinh"
+            },
+            {
                 "code": "26578",
                 "name": "Xã Bình Ba"
-            },
-            {
-                "code": "26581",
-                "name": "Xã Suối Nghệ"
-            },
-            {
-                "code": "26584",
-                "name": "Xã Xuân Sơn"
-            },
-            {
-                "code": "26587",
-                "name": "Xã Sơn Bình"
             },
             {
                 "code": "26590",
@@ -36,36 +24,48 @@
                 "name": "Xã Bình Trung"
             },
             {
-                "code": "26596",
-                "name": "Xã Xà Bang"
-            },
-            {
                 "code": "26599",
                 "name": "Xã Cù Bị"
-            },
-            {
-                "code": "26602",
-                "name": "Xã Láng Lớn"
-            },
-            {
-                "code": "26605",
-                "name": "Xã Quảng Thành"
-            },
-            {
-                "code": "26608",
-                "name": "Xã Kim Long"
-            },
-            {
-                "code": "26611",
-                "name": "Xã Suối Rao"
             },
             {
                 "code": "26614",
                 "name": "Xã Đá Bạc"
             },
             {
+                "code": "26608",
+                "name": "Xã Kim Long"
+            },
+            {
+                "code": "26602",
+                "name": "Xã Láng Lớn"
+            },
+            {
                 "code": "26617",
                 "name": "Xã Nghĩa Thành"
+            },
+            {
+                "code": "26605",
+                "name": "Xã Quảng Thành"
+            },
+            {
+                "code": "26587",
+                "name": "Xã Sơn Bình"
+            },
+            {
+                "code": "26581",
+                "name": "Xã Suối Nghệ"
+            },
+            {
+                "code": "26611",
+                "name": "Xã Suối Rao"
+            },
+            {
+                "code": "26596",
+                "name": "Xã Xà Bang"
+            },
+            {
+                "code": "26584",
+                "name": "Xã Xuân Sơn"
             }
         ]
     },
@@ -88,24 +88,8 @@
                 "name": "Thị trấn Đất Đỏ"
             },
             {
-                "code": "26683",
-                "name": "Xã Phước Long Thọ"
-            },
-            {
-                "code": "26686",
-                "name": "Xã Phước Hội"
-            },
-            {
-                "code": "26689",
-                "name": "Xã Long Mỹ"
-            },
-            {
                 "code": "26692",
                 "name": "Thị trấn Phước Hải"
-            },
-            {
-                "code": "26695",
-                "name": "Xã Long Tân"
             },
             {
                 "code": "26698",
@@ -114,6 +98,22 @@
             {
                 "code": "26701",
                 "name": "Xã Lộc An"
+            },
+            {
+                "code": "26689",
+                "name": "Xã Long Mỹ"
+            },
+            {
+                "code": "26695",
+                "name": "Xã Long Tân"
+            },
+            {
+                "code": "26686",
+                "name": "Xã Phước Hội"
+            },
+            {
+                "code": "26683",
+                "name": "Xã Phước Long Thọ"
             }
         ]
     },
@@ -134,20 +134,20 @@
                 "name": "Xã An Ngãi"
             },
             {
-                "code": "26668",
-                "name": "Xã Tam Phước"
-            },
-            {
                 "code": "26671",
                 "name": "Xã An Nhứt"
+            },
+            {
+                "code": "26677",
+                "name": "Xã Phước Hưng"
             },
             {
                 "code": "26674",
                 "name": "Xã Phước Tỉnh"
             },
             {
-                "code": "26677",
-                "name": "Xã Phước Hưng"
+                "code": "26668",
+                "name": "Xã Tam Phước"
             }
         ]
     },
@@ -160,36 +160,24 @@
                 "name": "Thị trấn Phước Bửu"
             },
             {
-                "code": "26623",
-                "name": "Xã Phước Thuận"
+                "code": "26638",
+                "name": "Xã Bàu Lâm"
             },
             {
-                "code": "26626",
-                "name": "Xã Phước Tân"
-            },
-            {
-                "code": "26629",
-                "name": "Xã Xuyên Mộc"
+                "code": "26656",
+                "name": "Xã Bình Châu"
             },
             {
                 "code": "26632",
                 "name": "Xã Bông Trang"
             },
             {
-                "code": "26635",
-                "name": "Xã Tân Lâm"
-            },
-            {
-                "code": "26638",
-                "name": "Xã Bàu Lâm"
+                "code": "26653",
+                "name": "Xã Bưng Riềng"
             },
             {
                 "code": "26641",
                 "name": "Xã Hòa Bình"
-            },
-            {
-                "code": "26644",
-                "name": "Xã Hòa Hưng"
             },
             {
                 "code": "26647",
@@ -200,12 +188,24 @@
                 "name": "Xã Hòa Hội"
             },
             {
-                "code": "26653",
-                "name": "Xã Bưng Riềng"
+                "code": "26644",
+                "name": "Xã Hòa Hưng"
             },
             {
-                "code": "26656",
-                "name": "Xã Bình Châu"
+                "code": "26626",
+                "name": "Xã Phước Tân"
+            },
+            {
+                "code": "26623",
+                "name": "Xã Phước Thuận"
+            },
+            {
+                "code": "26635",
+                "name": "Xã Tân Lâm"
+            },
+            {
+                "code": "26629",
+                "name": "Xã Xuyên Mộc"
             }
         ]
     },
@@ -214,48 +214,48 @@
         "name": "Thành phố Bà Rịa",
         "wards": [
             {
-                "code": "26548",
-                "name": "Phường Phước Hưng"
-            },
-            {
-                "code": "26551",
-                "name": "Phường Phước Hiệp"
-            },
-            {
-                "code": "26554",
-                "name": "Phường Phước Nguyên"
-            },
-            {
-                "code": "26557",
-                "name": "Phường Long Toàn"
-            },
-            {
-                "code": "26558",
-                "name": "Phường Long Tâm"
-            },
-            {
-                "code": "26560",
-                "name": "Phường Phước Trung"
+                "code": "26566",
+                "name": "Phường Kim Dinh"
             },
             {
                 "code": "26563",
                 "name": "Phường Long Hương"
             },
             {
-                "code": "26566",
-                "name": "Phường Kim Dinh"
+                "code": "26558",
+                "name": "Phường Long Tâm"
             },
             {
-                "code": "26567",
-                "name": "Xã Tân Hưng"
+                "code": "26557",
+                "name": "Phường Long Toàn"
+            },
+            {
+                "code": "26551",
+                "name": "Phường Phước Hiệp"
+            },
+            {
+                "code": "26548",
+                "name": "Phường Phước Hưng"
+            },
+            {
+                "code": "26554",
+                "name": "Phường Phước Nguyên"
+            },
+            {
+                "code": "26560",
+                "name": "Phường Phước Trung"
+            },
+            {
+                "code": "26572",
+                "name": "Xã Hoà Long"
             },
             {
                 "code": "26569",
                 "name": "Xã Long Phước"
             },
             {
-                "code": "26572",
-                "name": "Xã Hoà Long"
+                "code": "26567",
+                "name": "Xã Tân Hưng"
             }
         ]
     },
@@ -268,8 +268,16 @@
                 "name": "Phường 1"
             },
             {
-                "code": "26508",
-                "name": "Phường Thắng Tam"
+                "code": "26536",
+                "name": "Phường 10"
+            },
+            {
+                "code": "26539",
+                "name": "Phường 11"
+            },
+            {
+                "code": "26542",
+                "name": "Phường 12"
             },
             {
                 "code": "26509",
@@ -288,16 +296,8 @@
                 "name": "Phường 5"
             },
             {
-                "code": "26521",
-                "name": "Phường Thắng Nhì"
-            },
-            {
                 "code": "26524",
                 "name": "Phường 7"
-            },
-            {
-                "code": "26526",
-                "name": "Phường Nguyễn An Ninh"
             },
             {
                 "code": "26527",
@@ -308,24 +308,24 @@
                 "name": "Phường 9"
             },
             {
-                "code": "26533",
-                "name": "Phường Thắng Nhất"
+                "code": "26526",
+                "name": "Phường Nguyễn An Ninh"
             },
             {
                 "code": "26535",
                 "name": "Phường Rạch Dừa"
             },
             {
-                "code": "26536",
-                "name": "Phường 10"
+                "code": "26533",
+                "name": "Phường Thắng Nhất"
             },
             {
-                "code": "26539",
-                "name": "Phường 11"
+                "code": "26521",
+                "name": "Phường Thắng Nhì"
             },
             {
-                "code": "26542",
-                "name": "Phường 12"
+                "code": "26508",
+                "name": "Phường Thắng Tam"
             },
             {
                 "code": "26545",
@@ -338,16 +338,16 @@
         "name": "Thị xã Phú Mỹ",
         "wards": [
             {
+                "code": "26725",
+                "name": "Phường Hắc Dịch"
+            },
+            {
+                "code": "26719",
+                "name": "Phường Mỹ Xuân"
+            },
+            {
                 "code": "26704",
                 "name": "Phường Phú Mỹ"
-            },
-            {
-                "code": "26707",
-                "name": "Xã Tân Hoà"
-            },
-            {
-                "code": "26710",
-                "name": "Xã Tân Hải"
             },
             {
                 "code": "26713",
@@ -358,20 +358,20 @@
                 "name": "Phường Tân Phước"
             },
             {
-                "code": "26719",
-                "name": "Phường Mỹ Xuân"
+                "code": "26728",
+                "name": "Xã Châu Pha"
             },
             {
                 "code": "26722",
                 "name": "Xã Sông Xoài"
             },
             {
-                "code": "26725",
-                "name": "Phường Hắc Dịch"
+                "code": "26710",
+                "name": "Xã Tân Hải"
             },
             {
-                "code": "26728",
-                "name": "Xã Châu Pha"
+                "code": "26707",
+                "name": "Xã Tân Hoà"
             },
             {
                 "code": "26731",
