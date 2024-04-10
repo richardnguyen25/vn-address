@@ -1,825 +1,825 @@
 {
-    "643": {
+    "thanh-pho-buon-ma-thuot": {
         "code": "643",
         "name": "Thành phố Buôn Ma Thuột",
         "wards": {
-            "24118": {
+            "phuong-tan-lap": {
                 "code": "24118",
                 "name": "Phường Tân Lập"
             },
-            "24121": {
+            "phuong-tan-hoa": {
                 "code": "24121",
                 "name": "Phường Tân Hòa"
             },
-            "24124": {
+            "phuong-tan-an": {
                 "code": "24124",
                 "name": "Phường Tân An"
             },
-            "24127": {
+            "phuong-thong-nhat": {
                 "code": "24127",
                 "name": "Phường Thống Nhất"
             },
-            "24130": {
+            "phuong-thanh-nhat": {
                 "code": "24130",
                 "name": "Phường Thành Nhất"
             },
-            "24133": {
+            "phuong-thang-loi": {
                 "code": "24133",
                 "name": "Phường Thắng Lợi"
             },
-            "24136": {
+            "phuong-tan-loi": {
                 "code": "24136",
                 "name": "Phường Tân Lợi"
             },
-            "24139": {
+            "phuong-thanh-cong": {
                 "code": "24139",
                 "name": "Phường Thành Công"
             },
-            "24142": {
+            "phuong-tan-thanh": {
                 "code": "24142",
                 "name": "Phường Tân Thành"
             },
-            "24145": {
+            "phuong-tan-tien": {
                 "code": "24145",
                 "name": "Phường Tân Tiến"
             },
-            "24148": {
+            "phuong-tu-an": {
                 "code": "24148",
                 "name": "Phường Tự An"
             },
-            "24151": {
+            "phuong-ea-tam": {
                 "code": "24151",
                 "name": "Phường Ea Tam"
             },
-            "24154": {
+            "phuong-khanh-xuan": {
                 "code": "24154",
                 "name": "Phường Khánh Xuân"
             },
-            "24157": {
+            "xa-hoa-thuan": {
                 "code": "24157",
                 "name": "Xã Hòa Thuận"
             },
-            "24160": {
+            "xa-cu-ebur": {
                 "code": "24160",
                 "name": "Xã Cư ÊBur"
             },
-            "24163": {
+            "xa-ea-tu": {
                 "code": "24163",
                 "name": "Xã Ea Tu"
             },
-            "24166": {
+            "xa-hoa-thang": {
                 "code": "24166",
                 "name": "Xã Hòa Thắng"
             },
-            "24169": {
+            "xa-ea-kao": {
                 "code": "24169",
                 "name": "Xã Ea Kao"
             },
-            "24172": {
+            "xa-hoa-phu": {
                 "code": "24172",
                 "name": "Xã Hòa Phú"
             },
-            "24175": {
+            "xa-hoa-khanh": {
                 "code": "24175",
                 "name": "Xã Hòa Khánh"
             },
-            "24178": {
+            "xa-hoa-xuan": {
                 "code": "24178",
                 "name": "Xã Hòa Xuân"
             }
         }
     },
-    "644": {
+    "thi-xa-buon-ho": {
         "code": "644",
         "name": "Thị Xã Buôn Hồ",
         "wards": {
-            "24305": {
+            "phuong-an-lac": {
                 "code": "24305",
                 "name": "Phường An Lạc"
             },
-            "24308": {
+            "phuong-an-binh": {
                 "code": "24308",
                 "name": "Phường An Bình"
             },
-            "24311": {
+            "phuong-thien-an": {
                 "code": "24311",
                 "name": "Phường Thiện An"
             },
-            "24318": {
+            "phuong-dat-hieu": {
                 "code": "24318",
                 "name": "Phường Đạt Hiếu"
             },
-            "24322": {
+            "phuong-doan-ket": {
                 "code": "24322",
                 "name": "Phường Đoàn Kết"
             },
-            "24325": {
+            "xa-ea-blang": {
                 "code": "24325",
                 "name": "Xã Ea Blang"
             },
-            "24328": {
+            "xa-ea-drong": {
                 "code": "24328",
                 "name": "Xã Ea Drông"
             },
-            "24331": {
+            "phuong-thong-nhat": {
                 "code": "24331",
                 "name": "Phường Thống Nhất"
             },
-            "24332": {
+            "phuong-binh-tan": {
                 "code": "24332",
                 "name": "Phường Bình Tân"
             },
-            "24334": {
+            "xa-ea-sien": {
                 "code": "24334",
                 "name": "Xã Ea Siên"
             },
-            "24337": {
+            "xa-binh-thuan": {
                 "code": "24337",
                 "name": "Xã Bình Thuận"
             },
-            "24340": {
+            "xa-cu-bao": {
                 "code": "24340",
                 "name": "Xã Cư Bao"
             }
         }
     },
-    "645": {
+    "huyen-ea-hleo": {
         "code": "645",
         "name": "Huyện Ea H'leo",
         "wards": {
-            "24181": {
+            "thi-tran-ea-drang": {
                 "code": "24181",
                 "name": "Thị trấn Ea Drăng"
             },
-            "24184": {
+            "xa-ea-hleo": {
                 "code": "24184",
                 "name": "Xã Ea H'leo"
             },
-            "24187": {
+            "xa-ea-sol": {
                 "code": "24187",
                 "name": "Xã Ea Sol"
             },
-            "24190": {
+            "xa-ea-ral": {
                 "code": "24190",
                 "name": "Xã Ea Ral"
             },
-            "24193": {
+            "xa-ea-wy": {
                 "code": "24193",
                 "name": "Xã Ea Wy"
             },
-            "24194": {
+            "xa-cu-a-mung": {
                 "code": "24194",
                 "name": "Xã Cư A Mung"
             },
-            "24196": {
+            "xa-cu-mot": {
                 "code": "24196",
                 "name": "Xã Cư Mốt"
             },
-            "24199": {
+            "xa-ea-hiao": {
                 "code": "24199",
                 "name": "Xã Ea Hiao"
             },
-            "24202": {
+            "xa-ea-khal": {
                 "code": "24202",
                 "name": "Xã Ea Khal"
             },
-            "24205": {
+            "xa-dlie-yang": {
                 "code": "24205",
                 "name": "Xã Dliê Yang"
             },
-            "24207": {
+            "xa-ea-tir": {
                 "code": "24207",
                 "name": "Xã Ea Tir"
             },
-            "24208": {
+            "xa-ea-nam": {
                 "code": "24208",
                 "name": "Xã Ea Nam"
             }
         }
     },
-    "646": {
+    "huyen-ea-sup": {
         "code": "646",
         "name": "Huyện Ea Súp",
         "wards": {
-            "24211": {
+            "thi-tran-ea-sup": {
                 "code": "24211",
                 "name": "Thị trấn Ea Súp"
             },
-            "24214": {
+            "xa-ia-lop": {
                 "code": "24214",
                 "name": "Xã Ia Lốp"
             },
-            "24215": {
+            "xa-ia-jloi": {
                 "code": "24215",
                 "name": "Xã Ia JLơi"
             },
-            "24217": {
+            "xa-ea-rok": {
                 "code": "24217",
                 "name": "Xã Ea Rốk"
             },
-            "24220": {
+            "xa-ya-to-mot": {
                 "code": "24220",
                 "name": "Xã Ya Tờ Mốt"
             },
-            "24221": {
+            "xa-ia-rve": {
                 "code": "24221",
                 "name": "Xã Ia RVê"
             },
-            "24223": {
+            "xa-ea-le": {
                 "code": "24223",
                 "name": "Xã Ea Lê"
             },
-            "24226": {
+            "xa-cu-kbang": {
                 "code": "24226",
                 "name": "Xã Cư KBang"
             },
-            "24229": {
+            "xa-ea-bung": {
                 "code": "24229",
                 "name": "Xã Ea Bung"
             },
-            "24232": {
+            "xa-cu-mlan": {
                 "code": "24232",
                 "name": "Xã Cư M'Lan"
             }
         }
     },
-    "647": {
+    "huyen-buon-don": {
         "code": "647",
         "name": "Huyện Buôn Đôn",
         "wards": {
-            "24235": {
+            "xa-krong-na": {
                 "code": "24235",
                 "name": "Xã Krông Na"
             },
-            "24238": {
+            "xa-ea-huar": {
                 "code": "24238",
                 "name": "Xã Ea Huar"
             },
-            "24241": {
+            "xa-ea-wer": {
                 "code": "24241",
                 "name": "Xã Ea Wer"
             },
-            "24244": {
+            "xa-tan-hoa": {
                 "code": "24244",
                 "name": "Xã Tân Hoà"
             },
-            "24247": {
+            "xa-cuor-knia": {
                 "code": "24247",
                 "name": "Xã Cuôr KNia"
             },
-            "24250": {
+            "xa-ea-bar": {
                 "code": "24250",
                 "name": "Xã Ea Bar"
             },
-            "24253": {
+            "xa-ea-nuol": {
                 "code": "24253",
                 "name": "Xã Ea Nuôl"
             }
         }
     },
-    "648": {
+    "huyen-cu-mgar": {
         "code": "648",
         "name": "Huyện Cư M'gar",
         "wards": {
-            "24256": {
+            "thi-tran-ea-pok": {
                 "code": "24256",
                 "name": "Thị trấn Ea Pốk"
             },
-            "24259": {
+            "thi-tran-quang-phu": {
                 "code": "24259",
                 "name": "Thị trấn Quảng Phú"
             },
-            "24262": {
+            "xa-quang-tien": {
                 "code": "24262",
                 "name": "Xã Quảng Tiến"
             },
-            "24264": {
+            "xa-ea-kueh": {
                 "code": "24264",
                 "name": "Xã Ea Kuêh"
             },
-            "24265": {
+            "xa-ea-kiet": {
                 "code": "24265",
                 "name": "Xã Ea Kiết"
             },
-            "24268": {
+            "xa-ea-tar": {
                 "code": "24268",
                 "name": "Xã Ea Tar"
             },
-            "24271": {
+            "xa-cu-dlie-mnong": {
                 "code": "24271",
                 "name": "Xã Cư Dliê M'nông"
             },
-            "24274": {
+            "xa-ea-hdinh": {
                 "code": "24274",
                 "name": "Xã Ea H'đinh"
             },
-            "24277": {
+            "xa-ea-tul": {
                 "code": "24277",
                 "name": "Xã Ea Tul"
             },
-            "24280": {
+            "xa-ea-kpam": {
                 "code": "24280",
                 "name": "Xã Ea KPam"
             },
-            "24283": {
+            "xa-ea-mdroh": {
                 "code": "24283",
                 "name": "Xã Ea M'DRóh"
             },
-            "24286": {
+            "xa-quang-hiep": {
                 "code": "24286",
                 "name": "Xã Quảng Hiệp"
             },
-            "24289": {
+            "xa-cu-mgar": {
                 "code": "24289",
                 "name": "Xã Cư M'gar"
             },
-            "24292": {
+            "xa-ea-drong": {
                 "code": "24292",
                 "name": "Xã Ea D'Rơng"
             },
-            "24295": {
+            "xa-ea-mnang": {
                 "code": "24295",
                 "name": "Xã Ea M'nang"
             },
-            "24298": {
+            "xa-cu-sue": {
                 "code": "24298",
                 "name": "Xã Cư Suê"
             },
-            "24301": {
+            "xa-cuor-dang": {
                 "code": "24301",
                 "name": "Xã Cuor Đăng"
             }
         }
     },
-    "649": {
+    "huyen-krong-buk": {
         "code": "649",
         "name": "Huyện Krông Búk",
         "wards": {
-            "24307": {
+            "xa-cu-ne": {
                 "code": "24307",
                 "name": "Xã Cư Né"
             },
-            "24310": {
+            "xa-chu-kbo": {
                 "code": "24310",
                 "name": "Xã Chư KBô"
             },
-            "24313": {
+            "xa-cu-pong": {
                 "code": "24313",
                 "name": "Xã Cư Pơng"
             },
-            "24314": {
+            "xa-ea-sin": {
                 "code": "24314",
                 "name": "Xã Ea Sin"
             },
-            "24316": {
+            "thi-tran-pong-drang": {
                 "code": "24316",
                 "name": "Thị trấn Pơng Drang"
             },
-            "24317": {
+            "xa-tan-lap": {
                 "code": "24317",
                 "name": "Xã Tân Lập"
             },
-            "24319": {
+            "xa-ea-ngai": {
                 "code": "24319",
                 "name": "Xã Ea Ngai"
             }
         }
     },
-    "650": {
+    "huyen-krong-nang": {
         "code": "650",
         "name": "Huyện Krông Năng",
         "wards": {
-            "24343": {
+            "thi-tran-krong-nang": {
                 "code": "24343",
                 "name": "Thị trấn Krông Năng"
             },
-            "24346": {
+            "xa-dlie-ya": {
                 "code": "24346",
                 "name": "Xã ĐLiê Ya"
             },
-            "24349": {
+            "xa-ea-toh": {
                 "code": "24349",
                 "name": "Xã Ea Tóh"
             },
-            "24352": {
+            "xa-ea-tam": {
                 "code": "24352",
                 "name": "Xã Ea Tam"
             },
-            "24355": {
+            "xa-phu-loc": {
                 "code": "24355",
                 "name": "Xã Phú Lộc"
             },
-            "24358": {
+            "xa-tam-giang": {
                 "code": "24358",
                 "name": "Xã Tam Giang"
             },
-            "24359": {
+            "xa-ea-puk": {
                 "code": "24359",
                 "name": "Xã Ea Puk"
             },
-            "24360": {
+            "xa-ea-dah": {
                 "code": "24360",
                 "name": "Xã Ea Dăh"
             },
-            "24361": {
+            "xa-ea-ho": {
                 "code": "24361",
                 "name": "Xã Ea Hồ"
             },
-            "24364": {
+            "xa-phu-xuan": {
                 "code": "24364",
                 "name": "Xã Phú Xuân"
             },
-            "24367": {
+            "xa-cu-klong": {
                 "code": "24367",
                 "name": "Xã Cư Klông"
             },
-            "24370": {
+            "xa-ea-tan": {
                 "code": "24370",
                 "name": "Xã Ea Tân"
             }
         }
     },
-    "651": {
+    "huyen-ea-kar": {
         "code": "651",
         "name": "Huyện Ea Kar",
         "wards": {
-            "24373": {
+            "thi-tran-ea-kar": {
                 "code": "24373",
                 "name": "Thị trấn Ea Kar"
             },
-            "24376": {
+            "thi-tran-ea-knop": {
                 "code": "24376",
                 "name": "Thị trấn Ea Knốp"
             },
-            "24379": {
+            "xa-ea-so": {
                 "code": "24379",
                 "name": "Xã Ea Sô"
             },
-            "24380": {
+            "xa-ea-sar": {
                 "code": "24380",
                 "name": "Xã Ea Sar"
             },
-            "24382": {
+            "xa-xuan-phu": {
                 "code": "24382",
                 "name": "Xã Xuân Phú"
             },
-            "24385": {
+            "xa-cu-hue": {
                 "code": "24385",
                 "name": "Xã Cư Huê"
             },
-            "24388": {
+            "xa-ea-tih": {
                 "code": "24388",
                 "name": "Xã Ea Tih"
             },
-            "24391": {
+            "xa-ea-dar": {
                 "code": "24391",
                 "name": "Xã Ea Đar"
             },
-            "24394": {
+            "xa-ea-kmut": {
                 "code": "24394",
                 "name": "Xã Ea Kmút"
             },
-            "24397": {
+            "xa-cu-ni": {
                 "code": "24397",
                 "name": "Xã Cư Ni"
             },
-            "24400": {
+            "xa-ea-pal": {
                 "code": "24400",
                 "name": "Xã Ea Păl"
             },
-            "24401": {
+            "xa-cu-prong": {
                 "code": "24401",
                 "name": "Xã Cư Prông"
             },
-            "24403": {
+            "xa-ea-o": {
                 "code": "24403",
                 "name": "Xã Ea Ô"
             },
-            "24404": {
+            "xa-cu-elang": {
                 "code": "24404",
                 "name": "Xã Cư ELang"
             },
-            "24406": {
+            "xa-cu-bong": {
                 "code": "24406",
                 "name": "Xã Cư Bông"
             },
-            "24409": {
+            "xa-cu-jang": {
                 "code": "24409",
                 "name": "Xã Cư Jang"
             }
         }
     },
-    "652": {
+    "huyen-mdrak": {
         "code": "652",
         "name": "Huyện M'Đrắk",
         "wards": {
-            "24412": {
+            "thi-tran-mdrak": {
                 "code": "24412",
                 "name": "Thị trấn M'Đrắk"
             },
-            "24415": {
+            "xa-cu-prao": {
                 "code": "24415",
                 "name": "Xã Cư Prao"
             },
-            "24418": {
+            "xa-ea-pil": {
                 "code": "24418",
                 "name": "Xã Ea Pil"
             },
-            "24421": {
+            "xa-ea-lai": {
                 "code": "24421",
                 "name": "Xã Ea Lai"
             },
-            "24424": {
+            "xa-ea-hmlay": {
                 "code": "24424",
                 "name": "Xã Ea H'MLay"
             },
-            "24427": {
+            "xa-krong-jing": {
                 "code": "24427",
                 "name": "Xã Krông Jing"
             },
-            "24430": {
+            "xa-ea-m-doal": {
                 "code": "24430",
                 "name": "Xã Ea M' Doal"
             },
-            "24433": {
+            "xa-ea-rieng": {
                 "code": "24433",
                 "name": "Xã Ea Riêng"
             },
-            "24436": {
+            "xa-cu-mta": {
                 "code": "24436",
                 "name": "Xã Cư M'ta"
             },
-            "24439": {
+            "xa-cu-k-roa": {
                 "code": "24439",
                 "name": "Xã Cư K Róa"
             },
-            "24442": {
+            "xa-krong-a": {
                 "code": "24442",
                 "name": "Xã Krông Á"
             },
-            "24444": {
+            "xa-cu-san": {
                 "code": "24444",
                 "name": "Xã Cư San"
             },
-            "24445": {
+            "xa-ea-trang": {
                 "code": "24445",
                 "name": "Xã Ea Trang"
             }
         }
     },
-    "653": {
+    "huyen-krong-bong": {
         "code": "653",
         "name": "Huyện Krông Bông",
         "wards": {
-            "24448": {
+            "thi-tran-krong-kmar": {
                 "code": "24448",
                 "name": "Thị trấn Krông Kmar"
             },
-            "24451": {
+            "xa-dang-kang": {
                 "code": "24451",
                 "name": "Xã Dang Kang"
             },
-            "24454": {
+            "xa-cu-kty": {
                 "code": "24454",
                 "name": "Xã Cư KTy"
             },
-            "24457": {
+            "xa-hoa-thanh": {
                 "code": "24457",
                 "name": "Xã Hòa Thành"
             },
-            "24460": {
+            "xa-hoa-tan": {
                 "code": "24460",
                 "name": "Xã Hòa Tân"
             },
-            "24463": {
+            "xa-hoa-phong": {
                 "code": "24463",
                 "name": "Xã Hòa Phong"
             },
-            "24466": {
+            "xa-hoa-le": {
                 "code": "24466",
                 "name": "Xã Hòa Lễ"
             },
-            "24469": {
+            "xa-yang-reh": {
                 "code": "24469",
                 "name": "Xã Yang Reh"
             },
-            "24472": {
+            "xa-ea-trul": {
                 "code": "24472",
                 "name": "Xã Ea Trul"
             },
-            "24475": {
+            "xa-khue-ngoc-dien": {
                 "code": "24475",
                 "name": "Xã Khuê Ngọc Điền"
             },
-            "24478": {
+            "xa-cu-pui": {
                 "code": "24478",
                 "name": "Xã Cư Pui"
             },
-            "24481": {
+            "xa-hoa-son": {
                 "code": "24481",
                 "name": "Xã Hòa Sơn"
             },
-            "24484": {
+            "xa-cu-dram": {
                 "code": "24484",
                 "name": "Xã Cư Drăm"
             },
-            "24487": {
+            "xa-yang-mao": {
                 "code": "24487",
                 "name": "Xã Yang Mao"
             }
         }
     },
-    "654": {
+    "huyen-krong-pac": {
         "code": "654",
         "name": "Huyện Krông Pắc",
         "wards": {
-            "24490": {
+            "thi-tran-phuoc-an": {
                 "code": "24490",
                 "name": "Thị trấn Phước An"
             },
-            "24493": {
+            "xa-krong-buk": {
                 "code": "24493",
                 "name": "Xã KRông Búk"
             },
-            "24496": {
+            "xa-ea-kly": {
                 "code": "24496",
                 "name": "Xã Ea Kly"
             },
-            "24499": {
+            "xa-ea-kenh": {
                 "code": "24499",
                 "name": "Xã Ea Kênh"
             },
-            "24502": {
+            "xa-ea-phe": {
                 "code": "24502",
                 "name": "Xã Ea Phê"
             },
-            "24505": {
+            "xa-ea-knuec": {
                 "code": "24505",
                 "name": "Xã Ea KNuec"
             },
-            "24508": {
+            "xa-ea-yong": {
                 "code": "24508",
                 "name": "Xã Ea Yông"
             },
-            "24511": {
+            "xa-hoa-an": {
                 "code": "24511",
                 "name": "Xã Hòa An"
             },
-            "24514": {
+            "xa-ea-kuang": {
                 "code": "24514",
                 "name": "Xã Ea Kuăng"
             },
-            "24517": {
+            "xa-hoa-dong": {
                 "code": "24517",
                 "name": "Xã Hòa Đông"
             },
-            "24520": {
+            "xa-ea-hiu": {
                 "code": "24520",
                 "name": "Xã Ea Hiu"
             },
-            "24523": {
+            "xa-hoa-tien": {
                 "code": "24523",
                 "name": "Xã Hòa Tiến"
             },
-            "24526": {
+            "xa-tan-tien": {
                 "code": "24526",
                 "name": "Xã Tân Tiến"
             },
-            "24529": {
+            "xa-vu-bon": {
                 "code": "24529",
                 "name": "Xã Vụ Bổn"
             },
-            "24532": {
+            "xa-ea-uy": {
                 "code": "24532",
                 "name": "Xã Ea Uy"
             },
-            "24535": {
+            "xa-ea-yieng": {
                 "code": "24535",
                 "name": "Xã Ea Yiêng"
             }
         }
     },
-    "655": {
+    "huyen-krong-a-na": {
         "code": "655",
         "name": "Huyện Krông A Na",
         "wards": {
-            "24538": {
+            "thi-tran-buon-trap": {
                 "code": "24538",
                 "name": "Thị trấn Buôn Trấp"
             },
-            "24556": {
+            "xa-dray-sap": {
                 "code": "24556",
                 "name": "Xã Dray Sáp"
             },
-            "24559": {
+            "xa-ea-na": {
                 "code": "24559",
                 "name": "Xã Ea Na"
             },
-            "24565": {
+            "xa-ea-bong": {
                 "code": "24565",
                 "name": "Xã Ea Bông"
             },
-            "24568": {
+            "xa-bang-a-drenh": {
                 "code": "24568",
                 "name": "Xã Băng A Drênh"
             },
-            "24571": {
+            "xa-dur-kmal": {
                 "code": "24571",
                 "name": "Xã Dur KMăl"
             },
-            "24574": {
+            "xa-binh-hoa": {
                 "code": "24574",
                 "name": "Xã Bình Hòa"
             },
-            "24577": {
+            "xa-quang-dien": {
                 "code": "24577",
                 "name": "Xã Quảng Điền"
             }
         }
     },
-    "656": {
+    "huyen-lak": {
         "code": "656",
         "name": "Huyện Lắk",
         "wards": {
-            "24580": {
+            "thi-tran-lien-son": {
                 "code": "24580",
                 "name": "Thị trấn Liên Sơn"
             },
-            "24583": {
+            "xa-yang-tao": {
                 "code": "24583",
                 "name": "Xã Yang Tao"
             },
-            "24586": {
+            "xa-bong-krang": {
                 "code": "24586",
                 "name": "Xã Bông Krang"
             },
-            "24589": {
+            "xa-dak-lieng": {
                 "code": "24589",
                 "name": "Xã Đắk Liêng"
             },
-            "24592": {
+            "xa-buon-triet": {
                 "code": "24592",
                 "name": "Xã Buôn Triết"
             },
-            "24595": {
+            "xa-buon-tria": {
                 "code": "24595",
                 "name": "Xã Buôn Tría"
             },
-            "24598": {
+            "xa-dak-phoi": {
                 "code": "24598",
                 "name": "Xã Đắk Phơi"
             },
-            "24601": {
+            "xa-dak-nue": {
                 "code": "24601",
                 "name": "Xã Đắk Nuê"
             },
-            "24604": {
+            "xa-krong-no": {
                 "code": "24604",
                 "name": "Xã Krông Nô"
             },
-            "24607": {
+            "xa-nam-ka": {
                 "code": "24607",
                 "name": "Xã Nam Ka"
             },
-            "24610": {
+            "xa-ea-rbin": {
                 "code": "24610",
                 "name": "Xã Ea R'Bin"
             }
         }
     },
-    "657": {
+    "huyen-cu-kuin": {
         "code": "657",
         "name": "Huyện Cư Kuin",
         "wards": {
-            "24540": {
+            "xa-ea-ning": {
                 "code": "24540",
                 "name": "Xã Ea Ning"
             },
-            "24541": {
+            "xa-cu-e-wi": {
                 "code": "24541",
                 "name": "Xã Cư Ê Wi"
             },
-            "24544": {
+            "xa-ea-ktur": {
                 "code": "24544",
                 "name": "Xã Ea Ktur"
             },
-            "24547": {
+            "xa-ea-tieu": {
                 "code": "24547",
                 "name": "Xã Ea Tiêu"
             },
-            "24550": {
+            "xa-ea-bhok": {
                 "code": "24550",
                 "name": "Xã Ea BHốk"
             },
-            "24553": {
+            "xa-ea-hu": {
                 "code": "24553",
                 "name": "Xã Ea Hu"
             },
-            "24561": {
+            "xa-dray-bhang": {
                 "code": "24561",
                 "name": "Xã Dray Bhăng"
             },
-            "24562": {
+            "xa-hoa-hiep": {
                 "code": "24562",
                 "name": "Xã Hòa Hiệp"
             }
