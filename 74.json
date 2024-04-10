@@ -2,419 +2,419 @@
     {
         "code": "726",
         "name": "Huyện Bắc Tân Uyên",
-        "wards": [
-            {
+        "wards": {
+            "thi-tran-tan-binh": {
                 "code": "25900",
                 "name": "Thị trấn Tân Bình"
             },
-            {
+            "thi-tran-tan-thanh": {
                 "code": "25906",
                 "name": "Thị trấn Tân Thành"
             },
-            {
+            "xa-binh-my": {
                 "code": "25897",
                 "name": "Xã Bình Mỹ"
             },
-            {
+            "xa-dat-cuoc": {
                 "code": "25907",
                 "name": "Xã Đất Cuốc"
             },
-            {
+            "xa-hieu-liem": {
                 "code": "25908",
                 "name": "Xã Hiếu Liêm"
             },
-            {
+            "xa-lac-an": {
                 "code": "25909",
                 "name": "Xã Lạc An"
             },
-            {
+            "xa-tan-dinh": {
                 "code": "25894",
                 "name": "Xã Tân Định"
             },
-            {
+            "xa-tan-lap": {
                 "code": "25903",
                 "name": "Xã Tân Lập"
             },
-            {
+            "xa-tan-my": {
                 "code": "25918",
                 "name": "Xã Tân Mỹ"
             },
-            {
+            "xa-thuong-tan": {
                 "code": "25927",
                 "name": "Xã Thường Tân"
             }
-        ]
+        }
     },
     {
         "code": "719",
         "name": "Huyện Bàu Bàng",
-        "wards": [
-            {
+        "wards": {
+            "thi-tran-lai-uyen": {
                 "code": "25822",
                 "name": "Thị trấn Lai Uyên"
             },
-            {
+            "xa-cay-truong-ii": {
                 "code": "25819",
                 "name": "Xã Cây Trường II"
             },
-            {
+            "xa-hung-hoa": {
                 "code": "25831",
                 "name": "Xã Hưng Hòa"
             },
-            {
+            "xa-lai-hung": {
                 "code": "25834",
                 "name": "Xã Lai Hưng"
             },
-            {
+            "xa-long-nguyen": {
                 "code": "25828",
                 "name": "Xã Long Nguyên"
             },
-            {
+            "xa-tan-hung": {
                 "code": "25825",
                 "name": "Xã Tân Hưng"
             },
-            {
+            "xa-tru-van-tho": {
                 "code": "25816",
                 "name": "Xã Trừ Văn Thố"
             }
-        ]
+        }
     },
     {
         "code": "720",
         "name": "Huyện Dầu Tiếng",
-        "wards": [
-            {
+        "wards": {
+            "thi-tran-dau-tieng": {
                 "code": "25777",
                 "name": "Thị trấn Dầu Tiếng"
             },
-            {
+            "xa-an-lap": {
                 "code": "25801",
                 "name": "Xã An Lập"
             },
-            {
+            "xa-dinh-an": {
                 "code": "25789",
                 "name": "Xã Định An"
             },
-            {
+            "xa-dinh-hiep": {
                 "code": "25798",
                 "name": "Xã Định Hiệp"
             },
-            {
+            "xa-dinh-thanh": {
                 "code": "25795",
                 "name": "Xã Định Thành"
             },
-            {
+            "xa-long-hoa": {
                 "code": "25792",
                 "name": "Xã Long Hoà"
             },
-            {
+            "xa-long-tan": {
                 "code": "25804",
                 "name": "Xã Long Tân"
             },
-            {
+            "xa-minh-hoa": {
                 "code": "25780",
                 "name": "Xã Minh Hoà"
             },
-            {
+            "xa-minh-tan": {
                 "code": "25786",
                 "name": "Xã Minh Tân"
             },
-            {
+            "xa-minh-thanh": {
                 "code": "25783",
                 "name": "Xã Minh Thạnh"
             },
-            {
+            "xa-thanh-an": {
                 "code": "25807",
                 "name": "Xã Thanh An"
             },
-            {
+            "xa-thanh-tuyen": {
                 "code": "25810",
                 "name": "Xã Thanh Tuyền"
             }
-        ]
+        }
     },
     {
         "code": "722",
         "name": "Huyện Phú Giáo",
-        "wards": [
-            {
+        "wards": {
+            "thi-tran-phuoc-vinh": {
                 "code": "25858",
                 "name": "Thị trấn Phước Vĩnh"
             },
-            {
+            "xa-an-binh": {
                 "code": "25870",
                 "name": "Xã An Bình"
             },
-            {
+            "xa-an-linh": {
                 "code": "25861",
                 "name": "Xã An Linh"
             },
-            {
+            "xa-an-long": {
                 "code": "25867",
                 "name": "Xã An Long"
             },
-            {
+            "xa-an-thai": {
                 "code": "25865",
                 "name": "Xã An Thái"
             },
-            {
+            "xa-phuoc-hoa": {
                 "code": "25885",
                 "name": "Xã Phước Hoà"
             },
-            {
+            "xa-phuoc-sang": {
                 "code": "25864",
                 "name": "Xã Phước Sang"
             },
-            {
+            "xa-tam-lap": {
                 "code": "25876",
                 "name": "Xã Tam Lập"
             },
-            {
+            "xa-tan-hiep": {
                 "code": "25873",
                 "name": "Xã Tân Hiệp"
             },
-            {
+            "xa-tan-long": {
                 "code": "25879",
                 "name": "Xã Tân Long"
             },
-            {
+            "xa-vinh-hoa": {
                 "code": "25882",
                 "name": "Xã Vĩnh Hoà"
             }
-        ]
+        }
     },
     {
         "code": "724",
         "name": "Thành phố Dĩ An",
-        "wards": [
-            {
+        "wards": {
+            "phuong-an-binh": {
                 "code": "25960",
                 "name": "Phường An Bình"
             },
-            {
+            "phuong-binh-an": {
                 "code": "25951",
                 "name": "Phường Bình An"
             },
-            {
+            "phuong-binh-thang": {
                 "code": "25954",
                 "name": "Phường Bình Thắng"
             },
-            {
+            "phuong-di-an": {
                 "code": "25942",
                 "name": "Phường Dĩ An"
             },
-            {
+            "phuong-dong-hoa": {
                 "code": "25957",
                 "name": "Phường Đông Hòa"
             },
-            {
+            "phuong-tan-binh": {
                 "code": "25945",
                 "name": "Phường Tân Bình"
             },
-            {
+            "phuong-tan-dong-hiep": {
                 "code": "25948",
                 "name": "Phường Tân Đông Hiệp"
             }
-        ]
+        }
     },
     {
         "code": "723",
         "name": "Thành phố Tân Uyên",
-        "wards": [
-            {
+        "wards": {
+            "phuong-hoi-nghia": {
                 "code": "25915",
                 "name": "Phường Hội Nghĩa"
             },
-            {
+            "phuong-khanh-binh": {
                 "code": "25921",
                 "name": "Phường Khánh Bình"
             },
-            {
+            "phuong-phu-chanh": {
                 "code": "25924",
                 "name": "Phường Phú Chánh"
             },
-            {
+            "phuong-tan-hiep": {
                 "code": "25920",
                 "name": "Phường Tân Hiệp"
             },
-            {
+            "phuong-tan-phuoc-khanh": {
                 "code": "25891",
                 "name": "Phường Tân Phước Khánh"
             },
-            {
+            "phuong-tan-vinh-hiep": {
                 "code": "25933",
                 "name": "Phường Tân Vĩnh Hiệp"
             },
-            {
+            "phuong-thai-hoa": {
                 "code": "25939",
                 "name": "Phường Thái Hòa"
             },
-            {
+            "phuong-thanh-phuoc": {
                 "code": "25936",
                 "name": "Phường Thạnh Phước"
             },
-            {
+            "phuong-uyen-hung": {
                 "code": "25888",
                 "name": "Phường Uyên Hưng"
             },
-            {
+            "phuong-vinh-tan": {
                 "code": "25912",
                 "name": "Phường Vĩnh Tân"
             },
-            {
+            "xa-bach-dang": {
                 "code": "25930",
                 "name": "Xã Bạch Đằng"
             },
-            {
+            "xa-thanh-hoi": {
                 "code": "25937",
                 "name": "Xã Thạnh Hội"
             }
-        ]
+        }
     },
     {
         "code": "718",
         "name": "Thành phố Thủ Dầu Một",
-        "wards": [
-            {
+        "wards": {
+            "phuong-chanh-my": {
                 "code": "25774",
                 "name": "Phường Chánh Mỹ"
             },
-            {
+            "phuong-chanh-nghia": {
                 "code": "25756",
                 "name": "Phường Chánh Nghĩa"
             },
-            {
+            "phuong-dinh-hoa": {
                 "code": "25759",
                 "name": "Phường Định Hoà"
             },
-            {
+            "phuong-hiep-an": {
                 "code": "25768",
                 "name": "Phường Hiệp An"
             },
-            {
+            "phuong-hiep-thanh": {
                 "code": "25741",
                 "name": "Phường Hiệp Thành"
             },
-            {
+            "phuong-hoa-phu": {
                 "code": "25760",
                 "name": "Phường Hoà Phú"
             },
-            {
+            "phuong-phu-cuong": {
                 "code": "25747",
                 "name": "Phường Phú Cường"
             },
-            {
+            "phuong-phu-hoa": {
                 "code": "25750",
                 "name": "Phường Phú Hòa"
             },
-            {
+            "phuong-phu-loi": {
                 "code": "25744",
                 "name": "Phường Phú Lợi"
             },
-            {
+            "phuong-phu-my": {
                 "code": "25762",
                 "name": "Phường Phú Mỹ"
             },
-            {
+            "phuong-phu-tan": {
                 "code": "25763",
                 "name": "Phường Phú Tân"
             },
-            {
+            "phuong-phu-tho": {
                 "code": "25753",
                 "name": "Phường Phú Thọ"
             },
-            {
+            "phuong-tan-an": {
                 "code": "25765",
                 "name": "Phường Tân An"
             },
-            {
+            "phuong-tuong-binh-hiep": {
                 "code": "25771",
                 "name": "Phường Tương Bình Hiệp"
             }
-        ]
+        }
     },
     {
         "code": "725",
         "name": "Thành phố Thuận An",
-        "wards": [
-            {
+        "wards": {
+            "phuong-an-phu": {
                 "code": "25975",
                 "name": "Phường An Phú"
             },
-            {
+            "phuong-an-thanh": {
                 "code": "25963",
                 "name": "Phường An Thạnh"
             },
-            {
+            "phuong-binh-chuan": {
                 "code": "25969",
                 "name": "Phường Bình Chuẩn"
             },
-            {
+            "phuong-binh-hoa": {
                 "code": "25987",
                 "name": "Phường Bình Hòa"
             },
-            {
+            "phuong-binh-nham": {
                 "code": "25984",
                 "name": "Phường Bình Nhâm"
             },
-            {
+            "phuong-hung-dinh": {
                 "code": "25978",
                 "name": "Phường Hưng Định"
             },
-            {
+            "phuong-lai-thieu": {
                 "code": "25966",
                 "name": "Phường Lái Thiêu"
             },
-            {
+            "phuong-thuan-giao": {
                 "code": "25972",
                 "name": "Phường Thuận Giao"
             },
-            {
+            "phuong-vinh-phu": {
                 "code": "25990",
                 "name": "Phường Vĩnh Phú"
             },
-            {
+            "xa-an-son": {
                 "code": "25981",
                 "name": "Xã An Sơn"
             }
-        ]
+        }
     },
     {
         "code": "721",
         "name": "Thị xã Bến Cát",
-        "wards": [
-            {
+        "wards": {
+            "phuong-chanh-phu-hoa": {
                 "code": "25837",
                 "name": "Phường Chánh Phú Hòa"
             },
-            {
+            "phuong-hoa-loi": {
                 "code": "25849",
                 "name": "Phường Hòa Lợi"
             },
-            {
+            "phuong-my-phuoc": {
                 "code": "25813",
                 "name": "Phường Mỹ Phước"
             },
-            {
+            "phuong-tan-dinh": {
                 "code": "25852",
                 "name": "Phường Tân Định"
             },
-            {
+            "phuong-thoi-hoa": {
                 "code": "25846",
                 "name": "Phường Thới Hòa"
             },
-            {
+            "xa-an-dien": {
                 "code": "25840",
                 "name": "Xã An Điền"
             },
-            {
+            "xa-an-tay": {
                 "code": "25843",
                 "name": "Xã An Tây"
             },
-            {
+            "xa-phu-an": {
                 "code": "25855",
                 "name": "Xã Phú An"
             }
-        ]
+        }
     }
 ]

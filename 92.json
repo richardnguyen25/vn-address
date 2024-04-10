@@ -2,387 +2,387 @@
     {
         "code": "925",
         "name": "Huyện Cờ Đỏ",
-        "wards": [
-            {
+        "wards": {
+            "thi-tran-co-do": {
                 "code": "31261",
                 "name": "Thị trấn Cờ Đỏ"
             },
-            {
+            "xa-dong-hiep": {
                 "code": "31273",
                 "name": "Xã Đông Hiệp"
             },
-            {
+            "xa-dong-thang": {
                 "code": "31274",
                 "name": "Xã Đông Thắng"
             },
-            {
+            "xa-thanh-phu": {
                 "code": "31249",
                 "name": "Xã Thạnh Phú"
             },
-            {
+            "xa-thoi-dong": {
                 "code": "31276",
                 "name": "Xã Thới Đông"
             },
-            {
+            "xa-thoi-hung": {
                 "code": "31264",
                 "name": "Xã Thới Hưng"
             },
-            {
+            "xa-thoi-xuan": {
                 "code": "31277",
                 "name": "Xã Thới Xuân"
             },
-            {
+            "xa-trung-an": {
                 "code": "31222",
                 "name": "Xã Trung An"
             },
-            {
+            "xa-trung-hung": {
                 "code": "31255",
                 "name": "Xã Trung Hưng"
             },
-            {
+            "xa-trung-thanh": {
                 "code": "31225",
                 "name": "Xã Trung Thạnh"
             }
-        ]
+        }
     },
     {
         "code": "926",
         "name": "Huyện Phong Điền",
-        "wards": [
-            {
+        "wards": {
+            "thi-tran-phong-dien": {
                 "code": "31299",
                 "name": "Thị trấn Phong Điền"
             },
-            {
+            "xa-giai-xuan": {
                 "code": "31303",
                 "name": "Xã Giai Xuân"
             },
-            {
+            "xa-my-khanh": {
                 "code": "31312",
                 "name": "Xã Mỹ Khánh"
             },
-            {
+            "xa-nhon-ai": {
                 "code": "31300",
                 "name": "Xã Nhơn Ái"
             },
-            {
+            "xa-nhon-nghia": {
                 "code": "31315",
                 "name": "Xã Nhơn Nghĩa"
             },
-            {
+            "xa-tan-thoi": {
                 "code": "31306",
                 "name": "Xã Tân Thới"
             },
-            {
+            "xa-truong-long": {
                 "code": "31309",
                 "name": "Xã Trường Long"
             }
-        ]
+        }
     },
     {
         "code": "927",
         "name": "Huyện Thới Lai",
-        "wards": [
-            {
+        "wards": {
+            "thi-tran-thoi-lai": {
                 "code": "31258",
                 "name": "Thị trấn Thới Lai"
             },
-            {
+            "xa-dinh-mon": {
                 "code": "31288",
                 "name": "Xã Định Môn"
             },
-            {
+            "xa-dong-binh": {
                 "code": "31279",
                 "name": "Xã Đông Bình"
             },
-            {
+            "xa-dong-thuan": {
                 "code": "31282",
                 "name": "Xã Đông Thuận"
             },
-            {
+            "xa-tan-thanh": {
                 "code": "31268",
                 "name": "Xã Tân Thạnh"
             },
-            {
+            "xa-thoi-tan": {
                 "code": "31285",
                 "name": "Xã Thới Tân"
             },
-            {
+            "xa-thoi-thanh": {
                 "code": "31267",
                 "name": "Xã Thới Thạnh"
             },
-            {
+            "xa-truong-thang": {
                 "code": "31286",
                 "name": "Xã Trường Thắng"
             },
-            {
+            "xa-truong-thanh": {
                 "code": "31291",
                 "name": "Xã Trường Thành"
             },
-            {
+            "xa-truong-xuan": {
                 "code": "31294",
                 "name": "Xã Trường Xuân"
             },
-            {
+            "xa-truong-xuan-a": {
                 "code": "31297",
                 "name": "Xã Trường Xuân A"
             },
-            {
+            "xa-truong-xuan-b": {
                 "code": "31298",
                 "name": "Xã Trường Xuân B"
             },
-            {
+            "xa-xuan-thang": {
                 "code": "31270",
                 "name": "Xã Xuân Thắng"
             }
-        ]
+        }
     },
     {
         "code": "924",
         "name": "Huyện Vĩnh Thạnh",
-        "wards": [
-            {
+        "wards": {
+            "thi-tran-thanh-an": {
                 "code": "31231",
                 "name": "Thị trấn Thanh An"
             },
-            {
+            "thi-tran-vinh-thanh": {
                 "code": "31232",
                 "name": "Thị trấn Vĩnh Thạnh"
             },
-            {
+            "xa-thanh-an": {
                 "code": "31240",
                 "name": "Xã Thạnh An"
             },
-            {
+            "xa-thanh-loc": {
                 "code": "31252",
                 "name": "Xã Thạnh Lộc"
             },
-            {
+            "xa-thanh-loi": {
                 "code": "31244",
                 "name": "Xã Thạnh Lợi"
             },
-            {
+            "xa-thanh-my": {
                 "code": "31234",
                 "name": "Xã Thạnh Mỹ"
             },
-            {
+            "xa-thanh-quoi": {
                 "code": "31246",
                 "name": "Xã Thạnh Qưới"
             },
-            {
+            "xa-thanh-thang": {
                 "code": "31243",
                 "name": "Xã Thạnh Thắng"
             },
-            {
+            "xa-thanh-tien": {
                 "code": "31241",
                 "name": "Xã Thạnh Tiến"
             },
-            {
+            "xa-vinh-binh": {
                 "code": "31211",
                 "name": "Xã Vĩnh Bình"
             },
-            {
+            "xa-vinh-trinh": {
                 "code": "31237",
                 "name": "Xã Vĩnh Trinh"
             }
-        ]
+        }
     },
     {
         "code": "918",
         "name": "Quận Bình Thuỷ",
-        "wards": [
-            {
+        "wards": {
+            "phuong-an-thoi": {
                 "code": "31177",
                 "name": "Phường An Thới"
             },
-            {
+            "phuong-binh-thuy": {
                 "code": "31168",
                 "name": "Phường Bình Thủy"
             },
-            {
+            "phuong-bui-huu-nghia": {
                 "code": "31178",
                 "name": "Phường Bùi Hữu Nghĩa"
             },
-            {
+            "phuong-long-hoa": {
                 "code": "31180",
                 "name": "Phường Long Hòa"
             },
-            {
+            "phuong-long-tuyen": {
                 "code": "31183",
                 "name": "Phường Long Tuyền"
             },
-            {
+            "phuong-thoi-an-dong": {
                 "code": "31174",
                 "name": "Phường Thới An Đông"
             },
-            {
+            "phuong-tra-an": {
                 "code": "31169",
                 "name": "Phường Trà An"
             },
-            {
+            "phuong-tra-noc": {
                 "code": "31171",
                 "name": "Phường Trà Nóc"
             }
-        ]
+        }
     },
     {
         "code": "919",
         "name": "Quận Cái Răng",
-        "wards": [
-            {
+        "wards": {
+            "phuong-ba-lang": {
                 "code": "31195",
                 "name": "Phường Ba Láng"
             },
-            {
+            "phuong-hung-phu": {
                 "code": "31189",
                 "name": "Phường Hưng Phú"
             },
-            {
+            "phuong-hung-thanh": {
                 "code": "31192",
                 "name": "Phường Hưng Thạnh"
             },
-            {
+            "phuong-le-binh": {
                 "code": "31186",
                 "name": "Phường Lê Bình"
             },
-            {
+            "phuong-phu-thu": {
                 "code": "31201",
                 "name": "Phường Phú Thứ"
             },
-            {
+            "phuong-tan-phu": {
                 "code": "31204",
                 "name": "Phường Tân Phú"
             },
-            {
+            "phuong-thuong-thanh": {
                 "code": "31198",
                 "name": "Phường Thường Thạnh"
             }
-        ]
+        }
     },
     {
         "code": "916",
         "name": "Quận Ninh Kiều",
-        "wards": [
-            {
+        "wards": {
+            "phuong-an-binh": {
                 "code": "31150",
                 "name": "Phường An Bình"
             },
-            {
+            "phuong-an-cu": {
                 "code": "31129",
                 "name": "Phường An Cư"
             },
-            {
+            "phuong-an-hoa": {
                 "code": "31120",
                 "name": "Phường An Hòa"
             },
-            {
+            "phuong-an-khanh": {
                 "code": "31149",
                 "name": "Phường An Khánh"
             },
-            {
+            "phuong-an-nghiep": {
                 "code": "31126",
                 "name": "Phường An Nghiệp"
             },
-            {
+            "phuong-an-phu": {
                 "code": "31141",
                 "name": "Phường An Phú"
             },
-            {
+            "phuong-cai-khe": {
                 "code": "31117",
                 "name": "Phường Cái Khế"
             },
-            {
+            "phuong-hung-loi": {
                 "code": "31147",
                 "name": "Phường Hưng Lợi"
             },
-            {
+            "phuong-tan-an": {
                 "code": "31135",
                 "name": "Phường Tân An"
             },
-            {
+            "phuong-thoi-binh": {
                 "code": "31123",
                 "name": "Phường Thới Bình"
             },
-            {
+            "phuong-xuan-khanh": {
                 "code": "31144",
                 "name": "Phường Xuân Khánh"
             }
-        ]
+        }
     },
     {
         "code": "917",
         "name": "Quận Ô Môn",
-        "wards": [
-            {
+        "wards": {
+            "phuong-chau-van-liem": {
                 "code": "31153",
                 "name": "Phường Châu Văn Liêm"
             },
-            {
+            "phuong-long-hung": {
                 "code": "31157",
                 "name": "Phường Long Hưng"
             },
-            {
+            "phuong-phuoc-thoi": {
                 "code": "31162",
                 "name": "Phường Phước Thới"
             },
-            {
+            "phuong-thoi-an": {
                 "code": "31159",
                 "name": "Phường Thới An"
             },
-            {
+            "phuong-thoi-hoa": {
                 "code": "31154",
                 "name": "Phường Thới Hòa"
             },
-            {
+            "phuong-thoi-long": {
                 "code": "31156",
                 "name": "Phường Thới Long"
             },
-            {
+            "phuong-truong-lac": {
                 "code": "31165",
                 "name": "Phường Trường Lạc"
             }
-        ]
+        }
     },
     {
         "code": "923",
         "name": "Quận Thốt Nốt",
-        "wards": [
-            {
+        "wards": {
+            "phuong-tan-hung": {
                 "code": "31227",
                 "name": "Phường Tân Hưng"
             },
-            {
+            "phuong-tan-loc": {
                 "code": "31213",
                 "name": "Phường Tân Lộc"
             },
-            {
+            "phuong-thanh-hoa": {
                 "code": "31217",
                 "name": "Phường Thạnh Hoà"
             },
-            {
+            "phuong-thoi-thuan": {
                 "code": "31210",
                 "name": "Phường Thới Thuận"
             },
-            {
+            "phuong-thot-not": {
                 "code": "31207",
                 "name": "Phường Thốt Nốt"
             },
-            {
+            "phuong-thuan-an": {
                 "code": "31212",
                 "name": "Phường Thuận An"
             },
-            {
+            "phuong-thuan-hung": {
                 "code": "31228",
                 "name": "Phường Thuận Hưng"
             },
-            {
+            "phuong-trung-kien": {
                 "code": "31219",
                 "name": "Phường Trung Kiên"
             },
-            {
+            "phuong-trung-nhut": {
                 "code": "31216",
                 "name": "Phường Trung Nhứt"
             }
-        ]
+        }
     }
 ]
