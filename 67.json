@@ -1,334 +1,334 @@
-{
-    "thanh-pho-gia-nghia": {
-        "code": "660",
-        "name": "Thành phố Gia Nghĩa",
-        "wards": {
-            "phuong-nghia-duc": {
-                "code": "24611",
-                "name": "Phường Nghĩa Đức"
-            },
-            "phuong-nghia-thanh": {
-                "code": "24612",
-                "name": "Phường Nghĩa Thành"
-            },
-            "phuong-nghia-phu": {
-                "code": "24614",
-                "name": "Phường Nghĩa Phú"
-            },
-            "phuong-nghia-tan": {
-                "code": "24615",
-                "name": "Phường Nghĩa Tân"
-            },
-            "phuong-nghia-trung": {
-                "code": "24617",
-                "name": "Phường Nghĩa Trung"
-            },
-            "xa-dak-rmoan": {
-                "code": "24618",
-                "name": "Xã Đăk R'Moan"
-            },
-            "phuong-quang-thanh": {
-                "code": "24619",
-                "name": "Phường Quảng Thành"
-            },
-            "xa-dak-nia": {
-                "code": "24628",
-                "name": "Xã Đắk Nia"
-            }
-        }
-    },
-    "huyen-dak-glong": {
-        "code": "661",
-        "name": "Huyện Đăk Glong",
-        "wards": {
-            "xa-quang-son": {
-                "code": "24616",
-                "name": "Xã Quảng Sơn"
-            },
-            "xa-quang-hoa": {
-                "code": "24620",
-                "name": "Xã Quảng Hoà"
-            },
-            "xa-dak-ha": {
-                "code": "24622",
-                "name": "Xã Đắk Ha"
-            },
-            "xa-dak-rmang": {
-                "code": "24625",
-                "name": "Xã Đắk R'Măng"
-            },
-            "xa-quang-khe": {
-                "code": "24631",
-                "name": "Xã Quảng Khê"
-            },
-            "xa-dak-plao": {
-                "code": "24634",
-                "name": "Xã Đắk Plao"
-            },
-            "xa-dak-som": {
-                "code": "24637",
-                "name": "Xã Đắk Som"
-            }
-        }
-    },
-    "huyen-cu-jut": {
+[
+    {
         "code": "662",
         "name": "Huyện Cư Jút",
-        "wards": {
-            "thi-tran-ea-tling": {
+        "wards": [
+            {
                 "code": "24640",
                 "name": "Thị trấn Ea T'Ling"
             },
-            "xa-dak-wil": {
-                "code": "24643",
-                "name": "Xã Đắk Wil"
-            },
-            "xa-ea-po": {
-                "code": "24646",
-                "name": "Xã Ea Pô"
-            },
-            "xa-nam-dong": {
-                "code": "24649",
-                "name": "Xã Nam Dong"
-            },
-            "xa-dak-drong": {
-                "code": "24652",
-                "name": "Xã Đắk DRông"
-            },
-            "xa-tam-thang": {
-                "code": "24655",
-                "name": "Xã Tâm Thắng"
-            },
-            "xa-cu-knia": {
+            {
                 "code": "24658",
                 "name": "Xã Cư Knia"
             },
-            "xa-truc-son": {
+            {
+                "code": "24652",
+                "name": "Xã Đắk DRông"
+            },
+            {
+                "code": "24643",
+                "name": "Xã Đắk Wil"
+            },
+            {
+                "code": "24646",
+                "name": "Xã Ea Pô"
+            },
+            {
+                "code": "24649",
+                "name": "Xã Nam Dong"
+            },
+            {
+                "code": "24655",
+                "name": "Xã Tâm Thắng"
+            },
+            {
                 "code": "24661",
                 "name": "Xã Trúc Sơn"
             }
-        }
+        ]
     },
-    "huyen-dak-mil": {
+    {
+        "code": "661",
+        "name": "Huyện Đăk Glong",
+        "wards": [
+            {
+                "code": "24622",
+                "name": "Xã Đắk Ha"
+            },
+            {
+                "code": "24634",
+                "name": "Xã Đắk Plao"
+            },
+            {
+                "code": "24625",
+                "name": "Xã Đắk R'Măng"
+            },
+            {
+                "code": "24637",
+                "name": "Xã Đắk Som"
+            },
+            {
+                "code": "24620",
+                "name": "Xã Quảng Hoà"
+            },
+            {
+                "code": "24631",
+                "name": "Xã Quảng Khê"
+            },
+            {
+                "code": "24616",
+                "name": "Xã Quảng Sơn"
+            }
+        ]
+    },
+    {
         "code": "663",
         "name": "Huyện Đắk Mil",
-        "wards": {
-            "thi-tran-dak-mil": {
+        "wards": [
+            {
                 "code": "24664",
                 "name": "Thị trấn Đắk Mil"
             },
-            "xa-dak-lao": {
-                "code": "24667",
-                "name": "Xã  Đắk Lao"
-            },
-            "xa-dak-rla": {
-                "code": "24670",
-                "name": "Xã Đắk R'La"
-            },
-            "xa-dak-gan": {
+            {
                 "code": "24673",
                 "name": "Xã Đắk Gằn"
             },
-            "xa-duc-manh": {
-                "code": "24676",
-                "name": "Xã Đức Mạnh"
+            {
+                "code": "24667",
+                "name": "Xã  Đắk Lao"
             },
-            "xa-dak-ndrot": {
+            {
                 "code": "24677",
                 "name": "Xã Đắk N'Drót"
             },
-            "xa-long-son": {
-                "code": "24678",
-                "name": "Xã Long Sơn"
+            {
+                "code": "24670",
+                "name": "Xã Đắk R'La"
             },
-            "xa-dak-sak": {
+            {
                 "code": "24679",
                 "name": "Xã Đắk Sắk"
             },
-            "xa-thuan-an": {
-                "code": "24682",
-                "name": "Xã Thuận An"
+            {
+                "code": "24676",
+                "name": "Xã Đức Mạnh"
             },
-            "xa-duc-minh": {
+            {
                 "code": "24685",
                 "name": "Xã Đức Minh"
+            },
+            {
+                "code": "24678",
+                "name": "Xã Long Sơn"
+            },
+            {
+                "code": "24682",
+                "name": "Xã Thuận An"
             }
-        }
+        ]
     },
-    "huyen-krong-no": {
-        "code": "664",
-        "name": "Huyện Krông Nô",
-        "wards": {
-            "thi-tran-dak-mam": {
-                "code": "24688",
-                "name": "Thị trấn Đắk Mâm"
-            },
-            "xa-dak-sor": {
-                "code": "24691",
-                "name": "Xã Đắk Sôr"
-            },
-            "xa-nam-xuan": {
-                "code": "24692",
-                "name": "Xã Nam Xuân"
-            },
-            "xa-buon-choah": {
-                "code": "24694",
-                "name": "Xã Buôn Choah"
-            },
-            "xa-nam-da": {
-                "code": "24697",
-                "name": "Xã Nam Đà"
-            },
-            "xa-tan-thanh": {
-                "code": "24699",
-                "name": "Xã Tân Thành"
-            },
-            "xa-dak-dro": {
-                "code": "24700",
-                "name": "Xã Đắk Drô"
-            },
-            "xa-nam-nung": {
-                "code": "24703",
-                "name": "Xã Nâm Nung"
-            },
-            "xa-duc-xuyen": {
-                "code": "24706",
-                "name": "Xã Đức Xuyên"
-            },
-            "xa-dak-nang": {
-                "code": "24709",
-                "name": "Xã Đắk Nang"
-            },
-            "xa-quang-phu": {
-                "code": "24712",
-                "name": "Xã Quảng Phú"
-            },
-            "xa-nam-ndir": {
-                "code": "24715",
-                "name": "Xã Nâm N'Đir"
-            }
-        }
-    },
-    "huyen-dak-song": {
-        "code": "665",
-        "name": "Huyện Đắk Song",
-        "wards": {
-            "thi-tran-duc-an": {
-                "code": "24717",
-                "name": "Thị trấn Đức An"
-            },
-            "xa-dak-mol": {
-                "code": "24718",
-                "name": "Xã Đắk Môl"
-            },
-            "xa-dak-hoa": {
-                "code": "24719",
-                "name": "Xã Đắk Hòa"
-            },
-            "xa-nam-binh": {
-                "code": "24721",
-                "name": "Xã Nam Bình"
-            },
-            "xa-thuan-ha": {
-                "code": "24722",
-                "name": "Xã Thuận Hà"
-            },
-            "xa-thuan-hanh": {
-                "code": "24724",
-                "name": "Xã Thuận Hạnh"
-            },
-            "xa-dak-ndung": {
-                "code": "24727",
-                "name": "Xã Đắk N'Dung"
-            },
-            "xa-nam-njang": {
-                "code": "24728",
-                "name": "Xã Nâm N'Jang"
-            },
-            "xa-truong-xuan": {
-                "code": "24730",
-                "name": "Xã Trường Xuân"
-            }
-        }
-    },
-    "huyen-dak-rlap": {
+    {
         "code": "666",
         "name": "Huyện Đắk R'Lấp",
-        "wards": {
-            "thi-tran-kien-duc": {
+        "wards": [
+            {
                 "code": "24733",
                 "name": "Thị trấn Kiến Đức"
             },
-            "xa-quang-tin": {
-                "code": "24745",
-                "name": "Xã Quảng Tín"
-            },
-            "xa-dak-wer": {
-                "code": "24750",
-                "name": "Xã Đắk Wer"
-            },
-            "xa-nhan-co": {
-                "code": "24751",
-                "name": "Xã Nhân Cơ"
-            },
-            "xa-kien-thanh": {
-                "code": "24754",
-                "name": "Xã Kiến Thành"
-            },
-            "xa-nghia-thang": {
-                "code": "24756",
-                "name": "Xã Nghĩa Thắng"
-            },
-            "xa-dao-nghia": {
-                "code": "24757",
-                "name": "Xã Đạo Nghĩa"
-            },
-            "xa-dak-sin": {
-                "code": "24760",
-                "name": "Xã Đắk Sin"
-            },
-            "xa-hung-binh": {
-                "code": "24761",
-                "name": "Xã Hưng Bình"
-            },
-            "xa-dak-ru": {
+            {
                 "code": "24763",
                 "name": "Xã Đắk Ru"
             },
-            "xa-nhan-dao": {
+            {
+                "code": "24760",
+                "name": "Xã Đắk Sin"
+            },
+            {
+                "code": "24750",
+                "name": "Xã Đắk Wer"
+            },
+            {
+                "code": "24757",
+                "name": "Xã Đạo Nghĩa"
+            },
+            {
+                "code": "24761",
+                "name": "Xã Hưng Bình"
+            },
+            {
+                "code": "24754",
+                "name": "Xã Kiến Thành"
+            },
+            {
+                "code": "24756",
+                "name": "Xã Nghĩa Thắng"
+            },
+            {
+                "code": "24751",
+                "name": "Xã Nhân Cơ"
+            },
+            {
                 "code": "24766",
                 "name": "Xã Nhân Đạo"
+            },
+            {
+                "code": "24745",
+                "name": "Xã Quảng Tín"
             }
-        }
+        ]
     },
-    "huyen-tuy-duc": {
+    {
+        "code": "665",
+        "name": "Huyện Đắk Song",
+        "wards": [
+            {
+                "code": "24717",
+                "name": "Thị trấn Đức An"
+            },
+            {
+                "code": "24719",
+                "name": "Xã Đắk Hòa"
+            },
+            {
+                "code": "24718",
+                "name": "Xã Đắk Môl"
+            },
+            {
+                "code": "24727",
+                "name": "Xã Đắk N'Dung"
+            },
+            {
+                "code": "24721",
+                "name": "Xã Nam Bình"
+            },
+            {
+                "code": "24728",
+                "name": "Xã Nâm N'Jang"
+            },
+            {
+                "code": "24722",
+                "name": "Xã Thuận Hà"
+            },
+            {
+                "code": "24724",
+                "name": "Xã Thuận Hạnh"
+            },
+            {
+                "code": "24730",
+                "name": "Xã Trường Xuân"
+            }
+        ]
+    },
+    {
+        "code": "664",
+        "name": "Huyện Krông Nô",
+        "wards": [
+            {
+                "code": "24688",
+                "name": "Thị trấn Đắk Mâm"
+            },
+            {
+                "code": "24694",
+                "name": "Xã Buôn Choah"
+            },
+            {
+                "code": "24700",
+                "name": "Xã Đắk Drô"
+            },
+            {
+                "code": "24709",
+                "name": "Xã Đắk Nang"
+            },
+            {
+                "code": "24691",
+                "name": "Xã Đắk Sôr"
+            },
+            {
+                "code": "24706",
+                "name": "Xã Đức Xuyên"
+            },
+            {
+                "code": "24697",
+                "name": "Xã Nam Đà"
+            },
+            {
+                "code": "24715",
+                "name": "Xã Nâm N'Đir"
+            },
+            {
+                "code": "24703",
+                "name": "Xã Nâm Nung"
+            },
+            {
+                "code": "24692",
+                "name": "Xã Nam Xuân"
+            },
+            {
+                "code": "24712",
+                "name": "Xã Quảng Phú"
+            },
+            {
+                "code": "24699",
+                "name": "Xã Tân Thành"
+            }
+        ]
+    },
+    {
         "code": "667",
         "name": "Huyện Tuy Đức",
-        "wards": {
-            "xa-quang-truc": {
-                "code": "24736",
-                "name": "Xã Quảng Trực"
-            },
-            "xa-dak-buk-so": {
+        "wards": [
+            {
                 "code": "24739",
                 "name": "Xã Đắk Búk So"
             },
-            "xa-quang-tam": {
-                "code": "24740",
-                "name": "Xã Quảng Tâm"
-            },
-            "xa-dak-rtih": {
-                "code": "24742",
-                "name": "Xã Đắk R'Tíh"
-            },
-            "xa-dak-ngo": {
+            {
                 "code": "24746",
                 "name": "Xã Đắk Ngo"
             },
-            "xa-quang-tan": {
+            {
+                "code": "24742",
+                "name": "Xã Đắk R'Tíh"
+            },
+            {
+                "code": "24740",
+                "name": "Xã Quảng Tâm"
+            },
+            {
                 "code": "24748",
                 "name": "Xã Quảng Tân"
+            },
+            {
+                "code": "24736",
+                "name": "Xã Quảng Trực"
             }
-        }
+        ]
+    },
+    {
+        "code": "660",
+        "name": "Thành phố Gia Nghĩa",
+        "wards": [
+            {
+                "code": "24611",
+                "name": "Phường Nghĩa Đức"
+            },
+            {
+                "code": "24614",
+                "name": "Phường Nghĩa Phú"
+            },
+            {
+                "code": "24615",
+                "name": "Phường Nghĩa Tân"
+            },
+            {
+                "code": "24612",
+                "name": "Phường Nghĩa Thành"
+            },
+            {
+                "code": "24617",
+                "name": "Phường Nghĩa Trung"
+            },
+            {
+                "code": "24619",
+                "name": "Phường Quảng Thành"
+            },
+            {
+                "code": "24628",
+                "name": "Xã Đắk Nia"
+            },
+            {
+                "code": "24618",
+                "name": "Xã Đăk R'Moan"
+            }
+        ]
     }
-}
+]

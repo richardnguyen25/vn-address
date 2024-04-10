@@ -1,898 +1,898 @@
-{
-    "thanh-pho-bac-giang": {
-        "code": "213",
-        "name": "Thành phố Bắc Giang",
-        "wards": {
-            "phuong-tho-xuong": {
-                "code": "07201",
-                "name": "Phường Thọ Xương"
-            },
-            "phuong-tran-nguyen-han": {
-                "code": "07204",
-                "name": "Phường Trần Nguyên Hãn"
-            },
-            "phuong-ngo-quyen": {
-                "code": "07207",
-                "name": "Phường Ngô Quyền"
-            },
-            "phuong-hoang-van-thu": {
-                "code": "07210",
-                "name": "Phường Hoàng Văn Thụ"
-            },
-            "phuong-tran-phu": {
-                "code": "07213",
-                "name": "Phường Trần Phú"
-            },
-            "phuong-my-do": {
-                "code": "07216",
-                "name": "Phường Mỹ Độ"
-            },
-            "phuong-le-loi": {
-                "code": "07219",
-                "name": "Phường Lê Lợi"
-            },
-            "xa-song-mai": {
-                "code": "07222",
-                "name": "Xã Song Mai"
-            },
-            "phuong-xuong-giang": {
-                "code": "07225",
-                "name": "Phường Xương Giang"
-            },
-            "phuong-da-mai": {
-                "code": "07228",
-                "name": "Phường Đa Mai"
-            },
-            "phuong-dinh-ke": {
-                "code": "07231",
-                "name": "Phường Dĩnh Kế"
-            },
-            "xa-dinh-tri": {
-                "code": "07441",
-                "name": "Xã Dĩnh Trì"
-            },
-            "xa-tan-my": {
-                "code": "07687",
-                "name": "Xã Tân Mỹ"
-            },
-            "xa-dong-son": {
-                "code": "07696",
-                "name": "Xã Đồng Sơn"
-            },
-            "xa-tan-tien": {
-                "code": "07699",
-                "name": "Xã Tân Tiến"
-            },
-            "xa-song-khe": {
-                "code": "07705",
-                "name": "Xã Song Khê"
-            }
-        }
-    },
-    "huyen-yen-the": {
-        "code": "215",
-        "name": "Huyện Yên Thế",
-        "wards": {
-            "xa-dong-tien": {
-                "code": "07243",
-                "name": "Xã Đồng Tiến"
-            },
-            "xa-canh-nau": {
-                "code": "07246",
-                "name": "Xã Canh Nậu"
-            },
-            "xa-xuan-luong": {
-                "code": "07249",
-                "name": "Xã Xuân Lương"
-            },
-            "xa-tam-tien": {
-                "code": "07252",
-                "name": "Xã Tam Tiến"
-            },
-            "xa-dong-vuong": {
-                "code": "07255",
-                "name": "Xã Đồng Vương"
-            },
-            "xa-dong-huu": {
-                "code": "07258",
-                "name": "Xã Đồng Hưu"
-            },
-            "xa-dong-tam": {
-                "code": "07260",
-                "name": "Xã Đồng Tâm"
-            },
-            "xa-tam-hiep": {
-                "code": "07261",
-                "name": "Xã Tam Hiệp"
-            },
-            "xa-tien-thang": {
-                "code": "07264",
-                "name": "Xã Tiến Thắng"
-            },
-            "xa-hong-ky": {
-                "code": "07267",
-                "name": "Xã Hồng Kỳ"
-            },
-            "xa-dong-lac": {
-                "code": "07270",
-                "name": "Xã Đồng Lạc"
-            },
-            "xa-dong-son": {
-                "code": "07273",
-                "name": "Xã Đông Sơn"
-            },
-            "xa-tan-hiep": {
-                "code": "07276",
-                "name": "Xã Tân Hiệp"
-            },
-            "xa-huong-vi": {
-                "code": "07279",
-                "name": "Xã Hương Vĩ"
-            },
-            "xa-dong-ky": {
-                "code": "07282",
-                "name": "Xã Đồng Kỳ"
-            },
-            "xa-an-thuong": {
-                "code": "07285",
-                "name": "Xã An Thượng"
-            },
-            "thi-tran-phon-xuong": {
-                "code": "07288",
-                "name": "Thị trấn Phồn Xương"
-            },
-            "xa-tan-soi": {
-                "code": "07291",
-                "name": "Xã Tân Sỏi"
-            },
-            "thi-tran-bo-ha": {
-                "code": "07294",
-                "name": "Thị trấn Bố Hạ"
-            }
-        }
-    },
-    "huyen-tan-yen": {
-        "code": "216",
-        "name": "Huyện Tân Yên",
-        "wards": {
-            "xa-lan-gioi": {
-                "code": "07303",
-                "name": "Xã Lan Giới"
-            },
-            "thi-tran-nha-nam": {
-                "code": "07306",
-                "name": "Thị trấn Nhã Nam"
-            },
-            "xa-tan-trung": {
-                "code": "07309",
-                "name": "Xã Tân Trung"
-            },
-            "xa-dai-hoa": {
-                "code": "07312",
-                "name": "Xã Đại Hóa"
-            },
-            "xa-quang-tien": {
-                "code": "07315",
-                "name": "Xã Quang Tiến"
-            },
-            "xa-phuc-son": {
-                "code": "07318",
-                "name": "Xã Phúc Sơn"
-            },
-            "xa-an-duong": {
-                "code": "07321",
-                "name": "Xã An Dương"
-            },
-            "xa-phuc-hoa": {
-                "code": "07324",
-                "name": "Xã Phúc Hòa"
-            },
-            "xa-lien-son": {
-                "code": "07327",
-                "name": "Xã Liên Sơn"
-            },
-            "xa-hop-duc": {
-                "code": "07330",
-                "name": "Xã Hợp Đức"
-            },
-            "xa-lam-cot": {
-                "code": "07333",
-                "name": "Xã Lam Cốt"
-            },
-            "xa-cao-xa": {
-                "code": "07336",
-                "name": "Xã Cao Xá"
-            },
-            "thi-tran-cao-thuong": {
-                "code": "07339",
-                "name": "Thị trấn Cao Thượng"
-            },
-            "xa-viet-ngoc": {
-                "code": "07342",
-                "name": "Xã Việt Ngọc"
-            },
-            "xa-song-van": {
-                "code": "07345",
-                "name": "Xã Song Vân"
-            },
-            "xa-ngoc-chau": {
-                "code": "07348",
-                "name": "Xã Ngọc Châu"
-            },
-            "xa-ngoc-van": {
-                "code": "07351",
-                "name": "Xã Ngọc Vân"
-            },
-            "xa-viet-lap": {
-                "code": "07354",
-                "name": "Xã Việt Lập"
-            },
-            "xa-lien-chung": {
-                "code": "07357",
-                "name": "Xã Liên Chung"
-            },
-            "xa-ngoc-thien": {
-                "code": "07360",
-                "name": "Xã Ngọc Thiện"
-            },
-            "xa-ngoc-ly": {
-                "code": "07363",
-                "name": "Xã Ngọc Lý"
-            },
-            "xa-que-nham": {
-                "code": "07366",
-                "name": "Xã Quế Nham"
-            }
-        }
-    },
-    "huyen-lang-giang": {
-        "code": "217",
-        "name": "Huyện Lạng Giang",
-        "wards": {
-            "thi-tran-voi": {
-                "code": "07375",
-                "name": "Thị trấn Vôi"
-            },
-            "xa-nghia-hoa": {
-                "code": "07378",
-                "name": "Xã Nghĩa Hòa"
-            },
-            "xa-nghia-hung": {
-                "code": "07381",
-                "name": "Xã Nghĩa Hưng"
-            },
-            "xa-quang-thinh": {
-                "code": "07384",
-                "name": "Xã Quang Thịnh"
-            },
-            "xa-huong-son": {
-                "code": "07387",
-                "name": "Xã Hương Sơn"
-            },
-            "xa-dao-my": {
-                "code": "07390",
-                "name": "Xã Đào Mỹ"
-            },
-            "xa-tien-luc": {
-                "code": "07393",
-                "name": "Xã Tiên Lục"
-            },
-            "xa-an-ha": {
-                "code": "07396",
-                "name": "Xã An Hà"
-            },
-            "thi-tran-kep": {
-                "code": "07399",
-                "name": "Thị trấn Kép"
-            },
-            "xa-my-ha": {
-                "code": "07402",
-                "name": "Xã Mỹ Hà"
-            },
-            "xa-huong-lac": {
-                "code": "07405",
-                "name": "Xã Hương Lạc"
-            },
-            "xa-duong-duc": {
-                "code": "07408",
-                "name": "Xã Dương Đức"
-            },
-            "xa-tan-thanh": {
-                "code": "07411",
-                "name": "Xã Tân Thanh"
-            },
-            "xa-yen-my": {
-                "code": "07414",
-                "name": "Xã Yên Mỹ"
-            },
-            "xa-tan-hung": {
-                "code": "07417",
-                "name": "Xã Tân Hưng"
-            },
-            "xa-my-thai": {
-                "code": "07420",
-                "name": "Xã Mỹ Thái"
-            },
-            "xa-xuong-lam": {
-                "code": "07426",
-                "name": "Xã Xương Lâm"
-            },
-            "xa-xuan-huong": {
-                "code": "07429",
-                "name": "Xã Xuân Hương"
-            },
-            "xa-tan-dinh": {
-                "code": "07432",
-                "name": "Xã Tân Dĩnh"
-            },
-            "xa-dai-lam": {
-                "code": "07435",
-                "name": "Xã Đại Lâm"
-            },
-            "xa-thai-dao": {
-                "code": "07438",
-                "name": "Xã Thái Đào"
-            }
-        }
-    },
-    "huyen-luc-nam": {
-        "code": "218",
-        "name": "Huyện Lục Nam",
-        "wards": {
-            "thi-tran-doi-ngo": {
-                "code": "07444",
-                "name": "Thị trấn Đồi Ngô"
-            },
-            "xa-dong-hung": {
-                "code": "07450",
-                "name": "Xã Đông Hưng"
-            },
-            "xa-dong-phu": {
-                "code": "07453",
-                "name": "Xã Đông Phú"
-            },
-            "xa-tam-di": {
-                "code": "07456",
-                "name": "Xã Tam Dị"
-            },
-            "xa-bao-son": {
-                "code": "07459",
-                "name": "Xã Bảo Sơn"
-            },
-            "xa-bao-dai": {
-                "code": "07462",
-                "name": "Xã Bảo Đài"
-            },
-            "xa-thanh-lam": {
-                "code": "07465",
-                "name": "Xã Thanh Lâm"
-            },
-            "xa-tien-nha": {
-                "code": "07468",
-                "name": "Xã Tiên Nha"
-            },
-            "xa-truong-giang": {
-                "code": "07471",
-                "name": "Xã Trường Giang"
-            },
-            "thi-tran-phuong-son": {
-                "code": "07477",
-                "name": "Thị trấn Phương Sơn"
-            },
-            "xa-chu-dien": {
-                "code": "07480",
-                "name": "Xã Chu Điện"
-            },
-            "xa-cuong-son": {
-                "code": "07483",
-                "name": "Xã Cương Sơn"
-            },
-            "xa-nghia-phuong": {
-                "code": "07486",
-                "name": "Xã Nghĩa Phương"
-            },
-            "xa-vo-tranh": {
-                "code": "07489",
-                "name": "Xã Vô Tranh"
-            },
-            "xa-binh-son": {
-                "code": "07492",
-                "name": "Xã Bình Sơn"
-            },
-            "xa-lan-mau": {
-                "code": "07495",
-                "name": "Xã Lan Mẫu"
-            },
-            "xa-yen-son": {
-                "code": "07498",
-                "name": "Xã Yên Sơn"
-            },
-            "xa-kham-lang": {
-                "code": "07501",
-                "name": "Xã Khám Lạng"
-            },
-            "xa-huyen-son": {
-                "code": "07504",
-                "name": "Xã Huyền Sơn"
-            },
-            "xa-truong-son": {
-                "code": "07507",
-                "name": "Xã Trường Sơn"
-            },
-            "xa-luc-son": {
-                "code": "07510",
-                "name": "Xã Lục Sơn"
-            },
-            "xa-bac-lung": {
-                "code": "07513",
-                "name": "Xã Bắc Lũng"
-            },
-            "xa-vu-xa": {
-                "code": "07516",
-                "name": "Xã Vũ Xá"
-            },
-            "xa-cam-ly": {
-                "code": "07519",
-                "name": "Xã Cẩm Lý"
-            },
-            "xa-dan-hoi": {
-                "code": "07522",
-                "name": "Xã Đan Hội"
-            }
-        }
-    },
-    "huyen-luc-ngan": {
-        "code": "219",
-        "name": "Huyện Lục Ngạn",
-        "wards": {
-            "thi-tran-chu": {
-                "code": "07525",
-                "name": "Thị trấn Chũ"
-            },
-            "xa-cam-son": {
-                "code": "07528",
-                "name": "Xã Cấm Sơn"
-            },
-            "xa-tan-son": {
-                "code": "07531",
-                "name": "Xã Tân Sơn"
-            },
-            "xa-phong-minh": {
-                "code": "07534",
-                "name": "Xã Phong Minh"
-            },
-            "xa-phong-van": {
-                "code": "07537",
-                "name": "Xã Phong Vân"
-            },
-            "xa-xa-ly": {
-                "code": "07540",
-                "name": "Xã Xa Lý"
-            },
-            "xa-ho-dap": {
-                "code": "07543",
-                "name": "Xã Hộ Đáp"
-            },
-            "xa-son-hai": {
-                "code": "07546",
-                "name": "Xã Sơn Hải"
-            },
-            "xa-thanh-hai": {
-                "code": "07549",
-                "name": "Xã Thanh Hải"
-            },
-            "xa-kien-lao": {
-                "code": "07552",
-                "name": "Xã Kiên Lao"
-            },
-            "xa-bien-son": {
-                "code": "07555",
-                "name": "Xã Biên Sơn"
-            },
-            "xa-kien-thanh": {
-                "code": "07558",
-                "name": "Xã Kiên Thành"
-            },
-            "xa-hong-giang": {
-                "code": "07561",
-                "name": "Xã Hồng Giang"
-            },
-            "xa-kim-son": {
-                "code": "07564",
-                "name": "Xã Kim Sơn"
-            },
-            "xa-tan-hoa": {
-                "code": "07567",
-                "name": "Xã Tân Hoa"
-            },
-            "xa-giap-son": {
-                "code": "07570",
-                "name": "Xã Giáp Sơn"
-            },
-            "xa-bien-dong": {
-                "code": "07573",
-                "name": "Xã Biển Động"
-            },
-            "xa-quy-son": {
-                "code": "07576",
-                "name": "Xã Quý Sơn"
-            },
-            "xa-tru-huu": {
-                "code": "07579",
-                "name": "Xã Trù Hựu"
-            },
-            "xa-phi-dien": {
-                "code": "07582",
-                "name": "Xã Phì Điền"
-            },
-            "xa-tan-quang": {
-                "code": "07588",
-                "name": "Xã Tân Quang"
-            },
-            "xa-dong-coc": {
-                "code": "07591",
-                "name": "Xã Đồng Cốc"
-            },
-            "xa-tan-lap": {
-                "code": "07594",
-                "name": "Xã Tân Lập"
-            },
-            "xa-phu-nhuan": {
-                "code": "07597",
-                "name": "Xã Phú Nhuận"
-            },
-            "xa-my-an": {
-                "code": "07600",
-                "name": "Xã Mỹ An"
-            },
-            "xa-nam-duong": {
-                "code": "07603",
-                "name": "Xã Nam Dương"
-            },
-            "xa-tan-moc": {
-                "code": "07606",
-                "name": "Xã Tân Mộc"
-            },
-            "xa-deo-gia": {
-                "code": "07609",
-                "name": "Xã Đèo Gia"
-            },
-            "xa-phuong-son": {
-                "code": "07612",
-                "name": "Xã Phượng Sơn"
-            }
-        }
-    },
-    "huyen-son-dong": {
-        "code": "220",
-        "name": "Huyện Sơn Động",
-        "wards": {
-            "thi-tran-an-chau": {
-                "code": "07615",
-                "name": "Thị trấn An Châu"
-            },
-            "thi-tran-tay-yen-tu": {
-                "code": "07616",
-                "name": "Thị trấn Tây Yên Tử"
-            },
-            "xa-van-son": {
-                "code": "07621",
-                "name": "Xã Vân Sơn"
-            },
-            "xa-huu-san": {
-                "code": "07624",
-                "name": "Xã Hữu Sản"
-            },
-            "xa-dai-son": {
-                "code": "07627",
-                "name": "Xã Đại Sơn"
-            },
-            "xa-phuc-son": {
-                "code": "07630",
-                "name": "Xã Phúc Sơn"
-            },
-            "xa-giao-liem": {
-                "code": "07636",
-                "name": "Xã Giáo Liêm"
-            },
-            "xa-cam-dan": {
-                "code": "07642",
-                "name": "Xã Cẩm Đàn"
-            },
-            "xa-an-lac": {
-                "code": "07645",
-                "name": "Xã An Lạc"
-            },
-            "xa-vinh-an": {
-                "code": "07648",
-                "name": "Xã Vĩnh An"
-            },
-            "xa-yen-dinh": {
-                "code": "07651",
-                "name": "Xã Yên Định"
-            },
-            "xa-le-vien": {
-                "code": "07654",
-                "name": "Xã Lệ Viễn"
-            },
-            "xa-an-ba": {
-                "code": "07660",
-                "name": "Xã An Bá"
-            },
-            "xa-tuan-dao": {
-                "code": "07663",
-                "name": "Xã Tuấn Đạo"
-            },
-            "xa-duong-huu": {
-                "code": "07666",
-                "name": "Xã Dương Hưu"
-            },
-            "xa-long-son": {
-                "code": "07672",
-                "name": "Xã Long Sơn"
-            },
-            "xa-thanh-luan": {
-                "code": "07678",
-                "name": "Xã Thanh Luận"
-            }
-        }
-    },
-    "huyen-yen-dung": {
-        "code": "221",
-        "name": "Huyện Yên Dũng",
-        "wards": {
-            "thi-tran-nham-bien": {
-                "code": "07681",
-                "name": "Thị trấn Nham Biền"
-            },
-            "thi-tran-tan-an": {
-                "code": "07682",
-                "name": "Thị trấn Tân An"
-            },
-            "xa-lao-ho": {
-                "code": "07684",
-                "name": "Xã Lão Hộ"
-            },
-            "xa-huong-gian": {
-                "code": "07690",
-                "name": "Xã Hương Gián"
-            },
-            "xa-quynh-son": {
-                "code": "07702",
-                "name": "Xã Quỳnh Sơn"
-            },
-            "xa-noi-hoang": {
-                "code": "07708",
-                "name": "Xã Nội Hoàng"
-            },
-            "xa-tien-phong": {
-                "code": "07711",
-                "name": "Xã Tiền Phong"
-            },
-            "xa-xuan-phu": {
-                "code": "07714",
-                "name": "Xã Xuân Phú"
-            },
-            "xa-tan-lieu": {
-                "code": "07717",
-                "name": "Xã Tân Liễu"
-            },
-            "xa-tri-yen": {
-                "code": "07720",
-                "name": "Xã Trí Yên"
-            },
-            "xa-lang-son": {
-                "code": "07723",
-                "name": "Xã Lãng Sơn"
-            },
-            "xa-yen-lu": {
-                "code": "07726",
-                "name": "Xã Yên Lư"
-            },
-            "xa-tien-dung": {
-                "code": "07729",
-                "name": "Xã Tiến Dũng"
-            },
-            "xa-duc-giang": {
-                "code": "07735",
-                "name": "Xã Đức Giang"
-            },
-            "xa-canh-thuy": {
-                "code": "07738",
-                "name": "Xã Cảnh Thụy"
-            },
-            "xa-tu-mai": {
-                "code": "07741",
-                "name": "Xã Tư Mại"
-            },
-            "xa-dong-viet": {
-                "code": "07747",
-                "name": "Xã Đồng Việt"
-            },
-            "xa-dong-phuc": {
-                "code": "07750",
-                "name": "Xã Đồng Phúc"
-            }
-        }
-    },
-    "thi-xa-viet-yen": {
-        "code": "222",
-        "name": "Thị Xã Việt Yên",
-        "wards": {
-            "xa-thuong-lan": {
-                "code": "07759",
-                "name": "Xã Thượng Lan"
-            },
-            "xa-viet-tien": {
-                "code": "07762",
-                "name": "Xã Việt Tiến"
-            },
-            "xa-nghia-trung": {
-                "code": "07765",
-                "name": "Xã Nghĩa Trung"
-            },
-            "xa-minh-duc": {
-                "code": "07768",
-                "name": "Xã Minh Đức"
-            },
-            "xa-huong-mai": {
-                "code": "07771",
-                "name": "Xã Hương Mai"
-            },
-            "phuong-tu-lan": {
-                "code": "07774",
-                "name": "Phường Tự Lạn"
-            },
-            "phuong-bich-dong": {
-                "code": "07777",
-                "name": "Phường Bích Động"
-            },
-            "xa-trung-son": {
-                "code": "07780",
-                "name": "Xã Trung Sơn"
-            },
-            "phuong-hong-thai": {
-                "code": "07783",
-                "name": "Phường Hồng Thái"
-            },
-            "xa-tien-son": {
-                "code": "07786",
-                "name": "Xã Tiên Sơn"
-            },
-            "phuong-tang-tien": {
-                "code": "07789",
-                "name": "Phường Tăng Tiến"
-            },
-            "phuong-quang-minh": {
-                "code": "07792",
-                "name": "Phường Quảng Minh"
-            },
-            "phuong-nenh": {
-                "code": "07795",
-                "name": "Phường Nếnh"
-            },
-            "phuong-ninh-son": {
-                "code": "07798",
-                "name": "Phường Ninh Sơn"
-            },
-            "phuong-van-trung": {
-                "code": "07801",
-                "name": "Phường Vân Trung"
-            },
-            "xa-van-ha": {
-                "code": "07804",
-                "name": "Xã Vân Hà"
-            },
-            "phuong-quang-chau": {
-                "code": "07807",
-                "name": "Phường Quang Châu"
-            }
-        }
-    },
-    "huyen-hiep-hoa": {
+[
+    {
         "code": "223",
         "name": "Huyện Hiệp Hòa",
-        "wards": {
-            "xa-dong-tan": {
-                "code": "07813",
-                "name": "Xã Đồng Tân"
-            },
-            "xa-thanh-van": {
-                "code": "07816",
-                "name": "Xã Thanh Vân"
-            },
-            "xa-hoang-luong": {
-                "code": "07819",
-                "name": "Xã Hoàng Lương"
-            },
-            "xa-hoang-van": {
-                "code": "07822",
-                "name": "Xã Hoàng Vân"
-            },
-            "xa-hoang-thanh": {
-                "code": "07825",
-                "name": "Xã Hoàng Thanh"
-            },
-            "xa-hoang-an": {
-                "code": "07828",
-                "name": "Xã Hoàng An"
-            },
-            "xa-ngoc-son": {
-                "code": "07831",
-                "name": "Xã Ngọc Sơn"
-            },
-            "xa-thai-son": {
-                "code": "07834",
-                "name": "Xã Thái Sơn"
-            },
-            "xa-hoa-son": {
-                "code": "07837",
-                "name": "Xã Hòa Sơn"
-            },
-            "thi-tran-thang": {
-                "code": "07840",
-                "name": "Thị trấn Thắng"
-            },
-            "xa-quang-minh": {
-                "code": "07843",
-                "name": "Xã Quang Minh"
-            },
-            "xa-luong-phong": {
-                "code": "07846",
-                "name": "Xã Lương Phong"
-            },
-            "xa-hung-son": {
-                "code": "07849",
-                "name": "Xã Hùng Sơn"
-            },
-            "xa-dai-thanh": {
-                "code": "07852",
-                "name": "Xã Đại Thành"
-            },
-            "xa-thuong-thang": {
-                "code": "07855",
-                "name": "Xã Thường Thắng"
-            },
-            "xa-hop-thinh": {
-                "code": "07858",
-                "name": "Xã Hợp Thịnh"
-            },
-            "xa-danh-thang": {
-                "code": "07861",
-                "name": "Xã Danh Thắng"
-            },
-            "xa-mai-trung": {
-                "code": "07864",
-                "name": "Xã Mai Trung"
-            },
-            "xa-doan-bai": {
-                "code": "07867",
-                "name": "Xã Đoan Bái"
-            },
-            "thi-tran-bac-ly": {
+        "wards": [
+            {
                 "code": "07870",
                 "name": "Thị trấn Bắc Lý"
             },
-            "xa-xuan-cam": {
-                "code": "07873",
-                "name": "Xã Xuân Cẩm"
+            {
+                "code": "07840",
+                "name": "Thị trấn Thắng"
             },
-            "xa-huong-lam": {
-                "code": "07876",
-                "name": "Xã Hương Lâm"
-            },
-            "xa-dong-lo": {
-                "code": "07879",
-                "name": "Xã Đông Lỗ"
-            },
-            "xa-chau-minh": {
+            {
                 "code": "07882",
                 "name": "Xã Châu Minh"
             },
-            "xa-mai-dinh": {
+            {
+                "code": "07852",
+                "name": "Xã Đại Thành"
+            },
+            {
+                "code": "07861",
+                "name": "Xã Danh Thắng"
+            },
+            {
+                "code": "07867",
+                "name": "Xã Đoan Bái"
+            },
+            {
+                "code": "07879",
+                "name": "Xã Đông Lỗ"
+            },
+            {
+                "code": "07813",
+                "name": "Xã Đồng Tân"
+            },
+            {
+                "code": "07837",
+                "name": "Xã Hòa Sơn"
+            },
+            {
+                "code": "07828",
+                "name": "Xã Hoàng An"
+            },
+            {
+                "code": "07819",
+                "name": "Xã Hoàng Lương"
+            },
+            {
+                "code": "07825",
+                "name": "Xã Hoàng Thanh"
+            },
+            {
+                "code": "07822",
+                "name": "Xã Hoàng Vân"
+            },
+            {
+                "code": "07858",
+                "name": "Xã Hợp Thịnh"
+            },
+            {
+                "code": "07849",
+                "name": "Xã Hùng Sơn"
+            },
+            {
+                "code": "07876",
+                "name": "Xã Hương Lâm"
+            },
+            {
+                "code": "07846",
+                "name": "Xã Lương Phong"
+            },
+            {
                 "code": "07885",
                 "name": "Xã Mai Đình"
+            },
+            {
+                "code": "07864",
+                "name": "Xã Mai Trung"
+            },
+            {
+                "code": "07831",
+                "name": "Xã Ngọc Sơn"
+            },
+            {
+                "code": "07843",
+                "name": "Xã Quang Minh"
+            },
+            {
+                "code": "07834",
+                "name": "Xã Thái Sơn"
+            },
+            {
+                "code": "07816",
+                "name": "Xã Thanh Vân"
+            },
+            {
+                "code": "07855",
+                "name": "Xã Thường Thắng"
+            },
+            {
+                "code": "07873",
+                "name": "Xã Xuân Cẩm"
             }
-        }
+        ]
+    },
+    {
+        "code": "217",
+        "name": "Huyện Lạng Giang",
+        "wards": [
+            {
+                "code": "07399",
+                "name": "Thị trấn Kép"
+            },
+            {
+                "code": "07375",
+                "name": "Thị trấn Vôi"
+            },
+            {
+                "code": "07396",
+                "name": "Xã An Hà"
+            },
+            {
+                "code": "07435",
+                "name": "Xã Đại Lâm"
+            },
+            {
+                "code": "07390",
+                "name": "Xã Đào Mỹ"
+            },
+            {
+                "code": "07408",
+                "name": "Xã Dương Đức"
+            },
+            {
+                "code": "07405",
+                "name": "Xã Hương Lạc"
+            },
+            {
+                "code": "07387",
+                "name": "Xã Hương Sơn"
+            },
+            {
+                "code": "07402",
+                "name": "Xã Mỹ Hà"
+            },
+            {
+                "code": "07420",
+                "name": "Xã Mỹ Thái"
+            },
+            {
+                "code": "07378",
+                "name": "Xã Nghĩa Hòa"
+            },
+            {
+                "code": "07381",
+                "name": "Xã Nghĩa Hưng"
+            },
+            {
+                "code": "07384",
+                "name": "Xã Quang Thịnh"
+            },
+            {
+                "code": "07432",
+                "name": "Xã Tân Dĩnh"
+            },
+            {
+                "code": "07417",
+                "name": "Xã Tân Hưng"
+            },
+            {
+                "code": "07411",
+                "name": "Xã Tân Thanh"
+            },
+            {
+                "code": "07438",
+                "name": "Xã Thái Đào"
+            },
+            {
+                "code": "07393",
+                "name": "Xã Tiên Lục"
+            },
+            {
+                "code": "07429",
+                "name": "Xã Xuân Hương"
+            },
+            {
+                "code": "07426",
+                "name": "Xã Xương Lâm"
+            },
+            {
+                "code": "07414",
+                "name": "Xã Yên Mỹ"
+            }
+        ]
+    },
+    {
+        "code": "218",
+        "name": "Huyện Lục Nam",
+        "wards": [
+            {
+                "code": "07444",
+                "name": "Thị trấn Đồi Ngô"
+            },
+            {
+                "code": "07477",
+                "name": "Thị trấn Phương Sơn"
+            },
+            {
+                "code": "07513",
+                "name": "Xã Bắc Lũng"
+            },
+            {
+                "code": "07462",
+                "name": "Xã Bảo Đài"
+            },
+            {
+                "code": "07459",
+                "name": "Xã Bảo Sơn"
+            },
+            {
+                "code": "07492",
+                "name": "Xã Bình Sơn"
+            },
+            {
+                "code": "07519",
+                "name": "Xã Cẩm Lý"
+            },
+            {
+                "code": "07480",
+                "name": "Xã Chu Điện"
+            },
+            {
+                "code": "07483",
+                "name": "Xã Cương Sơn"
+            },
+            {
+                "code": "07522",
+                "name": "Xã Đan Hội"
+            },
+            {
+                "code": "07450",
+                "name": "Xã Đông Hưng"
+            },
+            {
+                "code": "07453",
+                "name": "Xã Đông Phú"
+            },
+            {
+                "code": "07504",
+                "name": "Xã Huyền Sơn"
+            },
+            {
+                "code": "07501",
+                "name": "Xã Khám Lạng"
+            },
+            {
+                "code": "07495",
+                "name": "Xã Lan Mẫu"
+            },
+            {
+                "code": "07510",
+                "name": "Xã Lục Sơn"
+            },
+            {
+                "code": "07486",
+                "name": "Xã Nghĩa Phương"
+            },
+            {
+                "code": "07456",
+                "name": "Xã Tam Dị"
+            },
+            {
+                "code": "07465",
+                "name": "Xã Thanh Lâm"
+            },
+            {
+                "code": "07468",
+                "name": "Xã Tiên Nha"
+            },
+            {
+                "code": "07471",
+                "name": "Xã Trường Giang"
+            },
+            {
+                "code": "07507",
+                "name": "Xã Trường Sơn"
+            },
+            {
+                "code": "07489",
+                "name": "Xã Vô Tranh"
+            },
+            {
+                "code": "07516",
+                "name": "Xã Vũ Xá"
+            },
+            {
+                "code": "07498",
+                "name": "Xã Yên Sơn"
+            }
+        ]
+    },
+    {
+        "code": "219",
+        "name": "Huyện Lục Ngạn",
+        "wards": [
+            {
+                "code": "07525",
+                "name": "Thị trấn Chũ"
+            },
+            {
+                "code": "07573",
+                "name": "Xã Biển Động"
+            },
+            {
+                "code": "07555",
+                "name": "Xã Biên Sơn"
+            },
+            {
+                "code": "07528",
+                "name": "Xã Cấm Sơn"
+            },
+            {
+                "code": "07609",
+                "name": "Xã Đèo Gia"
+            },
+            {
+                "code": "07591",
+                "name": "Xã Đồng Cốc"
+            },
+            {
+                "code": "07570",
+                "name": "Xã Giáp Sơn"
+            },
+            {
+                "code": "07543",
+                "name": "Xã Hộ Đáp"
+            },
+            {
+                "code": "07561",
+                "name": "Xã Hồng Giang"
+            },
+            {
+                "code": "07552",
+                "name": "Xã Kiên Lao"
+            },
+            {
+                "code": "07558",
+                "name": "Xã Kiên Thành"
+            },
+            {
+                "code": "07564",
+                "name": "Xã Kim Sơn"
+            },
+            {
+                "code": "07600",
+                "name": "Xã Mỹ An"
+            },
+            {
+                "code": "07603",
+                "name": "Xã Nam Dương"
+            },
+            {
+                "code": "07582",
+                "name": "Xã Phì Điền"
+            },
+            {
+                "code": "07534",
+                "name": "Xã Phong Minh"
+            },
+            {
+                "code": "07537",
+                "name": "Xã Phong Vân"
+            },
+            {
+                "code": "07597",
+                "name": "Xã Phú Nhuận"
+            },
+            {
+                "code": "07612",
+                "name": "Xã Phượng Sơn"
+            },
+            {
+                "code": "07576",
+                "name": "Xã Quý Sơn"
+            },
+            {
+                "code": "07546",
+                "name": "Xã Sơn Hải"
+            },
+            {
+                "code": "07567",
+                "name": "Xã Tân Hoa"
+            },
+            {
+                "code": "07594",
+                "name": "Xã Tân Lập"
+            },
+            {
+                "code": "07606",
+                "name": "Xã Tân Mộc"
+            },
+            {
+                "code": "07588",
+                "name": "Xã Tân Quang"
+            },
+            {
+                "code": "07531",
+                "name": "Xã Tân Sơn"
+            },
+            {
+                "code": "07549",
+                "name": "Xã Thanh Hải"
+            },
+            {
+                "code": "07579",
+                "name": "Xã Trù Hựu"
+            },
+            {
+                "code": "07540",
+                "name": "Xã Xa Lý"
+            }
+        ]
+    },
+    {
+        "code": "220",
+        "name": "Huyện Sơn Động",
+        "wards": [
+            {
+                "code": "07615",
+                "name": "Thị trấn An Châu"
+            },
+            {
+                "code": "07616",
+                "name": "Thị trấn Tây Yên Tử"
+            },
+            {
+                "code": "07660",
+                "name": "Xã An Bá"
+            },
+            {
+                "code": "07645",
+                "name": "Xã An Lạc"
+            },
+            {
+                "code": "07642",
+                "name": "Xã Cẩm Đàn"
+            },
+            {
+                "code": "07627",
+                "name": "Xã Đại Sơn"
+            },
+            {
+                "code": "07666",
+                "name": "Xã Dương Hưu"
+            },
+            {
+                "code": "07636",
+                "name": "Xã Giáo Liêm"
+            },
+            {
+                "code": "07624",
+                "name": "Xã Hữu Sản"
+            },
+            {
+                "code": "07654",
+                "name": "Xã Lệ Viễn"
+            },
+            {
+                "code": "07672",
+                "name": "Xã Long Sơn"
+            },
+            {
+                "code": "07630",
+                "name": "Xã Phúc Sơn"
+            },
+            {
+                "code": "07678",
+                "name": "Xã Thanh Luận"
+            },
+            {
+                "code": "07663",
+                "name": "Xã Tuấn Đạo"
+            },
+            {
+                "code": "07621",
+                "name": "Xã Vân Sơn"
+            },
+            {
+                "code": "07648",
+                "name": "Xã Vĩnh An"
+            },
+            {
+                "code": "07651",
+                "name": "Xã Yên Định"
+            }
+        ]
+    },
+    {
+        "code": "216",
+        "name": "Huyện Tân Yên",
+        "wards": [
+            {
+                "code": "07339",
+                "name": "Thị trấn Cao Thượng"
+            },
+            {
+                "code": "07306",
+                "name": "Thị trấn Nhã Nam"
+            },
+            {
+                "code": "07321",
+                "name": "Xã An Dương"
+            },
+            {
+                "code": "07336",
+                "name": "Xã Cao Xá"
+            },
+            {
+                "code": "07312",
+                "name": "Xã Đại Hóa"
+            },
+            {
+                "code": "07330",
+                "name": "Xã Hợp Đức"
+            },
+            {
+                "code": "07333",
+                "name": "Xã Lam Cốt"
+            },
+            {
+                "code": "07303",
+                "name": "Xã Lan Giới"
+            },
+            {
+                "code": "07357",
+                "name": "Xã Liên Chung"
+            },
+            {
+                "code": "07327",
+                "name": "Xã Liên Sơn"
+            },
+            {
+                "code": "07348",
+                "name": "Xã Ngọc Châu"
+            },
+            {
+                "code": "07363",
+                "name": "Xã Ngọc Lý"
+            },
+            {
+                "code": "07360",
+                "name": "Xã Ngọc Thiện"
+            },
+            {
+                "code": "07351",
+                "name": "Xã Ngọc Vân"
+            },
+            {
+                "code": "07324",
+                "name": "Xã Phúc Hòa"
+            },
+            {
+                "code": "07318",
+                "name": "Xã Phúc Sơn"
+            },
+            {
+                "code": "07315",
+                "name": "Xã Quang Tiến"
+            },
+            {
+                "code": "07366",
+                "name": "Xã Quế Nham"
+            },
+            {
+                "code": "07345",
+                "name": "Xã Song Vân"
+            },
+            {
+                "code": "07309",
+                "name": "Xã Tân Trung"
+            },
+            {
+                "code": "07354",
+                "name": "Xã Việt Lập"
+            },
+            {
+                "code": "07342",
+                "name": "Xã Việt Ngọc"
+            }
+        ]
+    },
+    {
+        "code": "221",
+        "name": "Huyện Yên Dũng",
+        "wards": [
+            {
+                "code": "07681",
+                "name": "Thị trấn Nham Biền"
+            },
+            {
+                "code": "07682",
+                "name": "Thị trấn Tân An"
+            },
+            {
+                "code": "07738",
+                "name": "Xã Cảnh Thụy"
+            },
+            {
+                "code": "07750",
+                "name": "Xã Đồng Phúc"
+            },
+            {
+                "code": "07747",
+                "name": "Xã Đồng Việt"
+            },
+            {
+                "code": "07735",
+                "name": "Xã Đức Giang"
+            },
+            {
+                "code": "07690",
+                "name": "Xã Hương Gián"
+            },
+            {
+                "code": "07723",
+                "name": "Xã Lãng Sơn"
+            },
+            {
+                "code": "07684",
+                "name": "Xã Lão Hộ"
+            },
+            {
+                "code": "07708",
+                "name": "Xã Nội Hoàng"
+            },
+            {
+                "code": "07702",
+                "name": "Xã Quỳnh Sơn"
+            },
+            {
+                "code": "07717",
+                "name": "Xã Tân Liễu"
+            },
+            {
+                "code": "07729",
+                "name": "Xã Tiến Dũng"
+            },
+            {
+                "code": "07711",
+                "name": "Xã Tiền Phong"
+            },
+            {
+                "code": "07720",
+                "name": "Xã Trí Yên"
+            },
+            {
+                "code": "07741",
+                "name": "Xã Tư Mại"
+            },
+            {
+                "code": "07714",
+                "name": "Xã Xuân Phú"
+            },
+            {
+                "code": "07726",
+                "name": "Xã Yên Lư"
+            }
+        ]
+    },
+    {
+        "code": "215",
+        "name": "Huyện Yên Thế",
+        "wards": [
+            {
+                "code": "07294",
+                "name": "Thị trấn Bố Hạ"
+            },
+            {
+                "code": "07288",
+                "name": "Thị trấn Phồn Xương"
+            },
+            {
+                "code": "07285",
+                "name": "Xã An Thượng"
+            },
+            {
+                "code": "07246",
+                "name": "Xã Canh Nậu"
+            },
+            {
+                "code": "07258",
+                "name": "Xã Đồng Hưu"
+            },
+            {
+                "code": "07282",
+                "name": "Xã Đồng Kỳ"
+            },
+            {
+                "code": "07270",
+                "name": "Xã Đồng Lạc"
+            },
+            {
+                "code": "07273",
+                "name": "Xã Đông Sơn"
+            },
+            {
+                "code": "07260",
+                "name": "Xã Đồng Tâm"
+            },
+            {
+                "code": "07243",
+                "name": "Xã Đồng Tiến"
+            },
+            {
+                "code": "07255",
+                "name": "Xã Đồng Vương"
+            },
+            {
+                "code": "07267",
+                "name": "Xã Hồng Kỳ"
+            },
+            {
+                "code": "07279",
+                "name": "Xã Hương Vĩ"
+            },
+            {
+                "code": "07261",
+                "name": "Xã Tam Hiệp"
+            },
+            {
+                "code": "07252",
+                "name": "Xã Tam Tiến"
+            },
+            {
+                "code": "07276",
+                "name": "Xã Tân Hiệp"
+            },
+            {
+                "code": "07291",
+                "name": "Xã Tân Sỏi"
+            },
+            {
+                "code": "07264",
+                "name": "Xã Tiến Thắng"
+            },
+            {
+                "code": "07249",
+                "name": "Xã Xuân Lương"
+            }
+        ]
+    },
+    {
+        "code": "213",
+        "name": "Thành phố Bắc Giang",
+        "wards": [
+            {
+                "code": "07228",
+                "name": "Phường Đa Mai"
+            },
+            {
+                "code": "07231",
+                "name": "Phường Dĩnh Kế"
+            },
+            {
+                "code": "07210",
+                "name": "Phường Hoàng Văn Thụ"
+            },
+            {
+                "code": "07219",
+                "name": "Phường Lê Lợi"
+            },
+            {
+                "code": "07216",
+                "name": "Phường Mỹ Độ"
+            },
+            {
+                "code": "07207",
+                "name": "Phường Ngô Quyền"
+            },
+            {
+                "code": "07201",
+                "name": "Phường Thọ Xương"
+            },
+            {
+                "code": "07204",
+                "name": "Phường Trần Nguyên Hãn"
+            },
+            {
+                "code": "07213",
+                "name": "Phường Trần Phú"
+            },
+            {
+                "code": "07225",
+                "name": "Phường Xương Giang"
+            },
+            {
+                "code": "07441",
+                "name": "Xã Dĩnh Trì"
+            },
+            {
+                "code": "07696",
+                "name": "Xã Đồng Sơn"
+            },
+            {
+                "code": "07705",
+                "name": "Xã Song Khê"
+            },
+            {
+                "code": "07222",
+                "name": "Xã Song Mai"
+            },
+            {
+                "code": "07687",
+                "name": "Xã Tân Mỹ"
+            },
+            {
+                "code": "07699",
+                "name": "Xã Tân Tiến"
+            }
+        ]
+    },
+    {
+        "code": "222",
+        "name": "Thị Xã Việt Yên",
+        "wards": [
+            {
+                "code": "07777",
+                "name": "Phường Bích Động"
+            },
+            {
+                "code": "07783",
+                "name": "Phường Hồng Thái"
+            },
+            {
+                "code": "07795",
+                "name": "Phường Nếnh"
+            },
+            {
+                "code": "07798",
+                "name": "Phường Ninh Sơn"
+            },
+            {
+                "code": "07807",
+                "name": "Phường Quang Châu"
+            },
+            {
+                "code": "07792",
+                "name": "Phường Quảng Minh"
+            },
+            {
+                "code": "07789",
+                "name": "Phường Tăng Tiến"
+            },
+            {
+                "code": "07774",
+                "name": "Phường Tự Lạn"
+            },
+            {
+                "code": "07801",
+                "name": "Phường Vân Trung"
+            },
+            {
+                "code": "07771",
+                "name": "Xã Hương Mai"
+            },
+            {
+                "code": "07768",
+                "name": "Xã Minh Đức"
+            },
+            {
+                "code": "07765",
+                "name": "Xã Nghĩa Trung"
+            },
+            {
+                "code": "07759",
+                "name": "Xã Thượng Lan"
+            },
+            {
+                "code": "07786",
+                "name": "Xã Tiên Sơn"
+            },
+            {
+                "code": "07780",
+                "name": "Xã Trung Sơn"
+            },
+            {
+                "code": "07804",
+                "name": "Xã Vân Hà"
+            },
+            {
+                "code": "07762",
+                "name": "Xã Việt Tiến"
+            }
+        ]
     }
-}
+]
